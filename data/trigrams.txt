@@ -1,0 +1,29 @@
+latent semantic index
+mining sequential pattern
+web search engine
+distance metric learn
+language information retrieval
+reverse nearest neighbor
+frequent itemset mining
+nearest neighbor search
+privacy preserve data
+web search result
+cross language information retrieval
+gene expression data
+natural language process
+fuzzy association rule
+handwritten character recognition
+nearest neighbor query
+cross language information
+efficient algorithm mining
+mining association rule
+data mining technique
+large data set
+data mining approach
+association rule mining
+nearest neighbor classification
+semi supervise learn
+privacy preserve data mining
+high dimensional data
+automatic query expansion
+content image retrieval

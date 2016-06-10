@@ -1,0 +1,1221 @@
+set theory,0.9194802631
+random variable,0.9183952235
+decision tree,0.9180925647
+likelihood ratio test,0.9165095682
+maximum likelihood,0.9139343424
+principal component analysis,0.9129149894
+interval type,0.9120785365
+feature selection,0.9119561914
+monte carlo,0.9115365563
+parameter estimation,0.9114898051
+rough set,0.9110617621
+failure rate,0.9102062513
+logistic regression,0.9095749400
+random field,0.9093020247
+linear regression,0.9090859023
+confidence interval,0.9089276313
+likelihood ratio,0.9088691105
+independent component analysis,0.9085398803
+dimension reduction,0.9082428929
+kernel density,0.9082349814
+bayesian inference,0.9081099431
+cross validation,0.9079113339
+mutual information,0.9070271621
+sensitivity analysis,0.9058544837
+unit root,0.9051377770
+ratio test,0.9045316480
+density estimation,0.9041322739
+data mining,0.9025211287
+gaussian mixture model,0.9024746520
+maximum entropy,0.9017772762
+markov chain,0.9004007287
+clinical trial,0.9000206847
+covariance matrix,0.8996351622
+statistical inference,0.8994760668
+categorical data,0.8991554143
+high dimensional data,0.8990748351
+bayesian analysis,0.8971736727
+density function,0.8967775145
+exponential distribution,0.8957631944
+dimensionality reduction,0.8937865875
+gaussian mixture,0.8925641115
+neural network,0.8925561742
+random forest,0.8918338748
+nonparametric estimation,0.8886218082
+gene expression,0.8856789412
+maximum likelihood estimation,0.8840839398
+nonlinear regression,0.8832987524
+probability density,0.8824230131
+bayesian network,0.8819508863
+semi parametric,0.8799241450
+finite mixture,0.8755181868
+error variable,0.8750075355
+finite sample,0.8744953708
+stochastic volatility,0.8706931513
+kernel density estimation,0.8682365465
+markov model,0.8604153740
+bayesian approach,0.8600176739
+nonlinear mix,0.8597234206
+model selection,0.8566474622
+normal distribution,0.8558184273
+hidden markov model,0.8555151914
+factor analysis,0.8518168106
+dimensional data,0.8472691019
+regression analysis,0.8451640044
+contingency table,0.8448699539
+cluster algorithm,0.8446539798
+linear model,0.8393466682
+markov decision processes,0.8386640342
+random effect,0.8381518363
+gaussian distribution,0.8381401751
+data envelopment,0.8373238189
+mixture model,0.8354632262
+hidden markov,0.8337806710
+fuzzy set,0.8332806619
+distribution function,0.8324223274
+data model,0.8307075620
+nonparametric density estimation,0.8302164606
+latent variable,0.8301901240
+gaussian processes,0.8300076273
+importance sample,0.8279300002
+fuzzy logic,0.8204753092
+cluster analysis,0.8116389115
+change point,0.8110890996
+graphical model,0.8094808792
+hypothesi teste,0.8074309318
+expression data,0.8061526571
+proportional hazard model,0.8044927973
+vary coefficient,0.7994706952
+data envelopment analysis,0.7992736595
+efficient estimation,0.7959930629
+correlation analysis,0.7907454920
+linear mix,0.7900994165
+generalize linear,0.7870290345
+functional data,0.7853047848
+fuzzy inference,0.7840345892
+correlation coefficient,0.7822153134
+effect model,0.7801536008
+compete risk,0.7773850447
+order statistic,0.7772580775
+likelihood inference,0.7736031398
+nonparametric regression,0.7717131768
+set approach,0.7669513464
+binary data,0.7668619125
+portfolio selection,0.7660947113
+multiple criteria decision,0.7624698732
+likelihood estimation,0.7603659061
+gaussian markov random field,0.7532021903
+interval censor,0.7524836474
+sample data,0.7499029789
+gene expression data,0.7476653010
+mix model,0.7386171698
+partial linear single index,0.7364077241
+rough set approach,0.7341703335
+linear regression model,0.7309274350
+canonical correlation,0.7285015855
+large data set,0.7238047663
+variational bayesian,0.7201598702
+count data,0.7111822117
+markov random field,0.7095163991
+em algorithm,0.7087510937
+multiple comparison,0.7033658370
+approximate bayesian,0.7016699769
+generalize linear model,0.6946789441
+independent component,0.6917923376
+skew normal,0.6904118297
+generalize estimate equation,0.6898226154
+data set,0.6890963323
+prior distribution,0.6881203312
+multi criteria group,0.6859963195
+linguistic information application,0.6831885241
+function estimation,0.6766994633
+bandwidth selection,0.6736113419
+application group,0.6715555434
+variance estimation,0.6639482924
+membership function,0.6619481903
+fuzzy set application,0.6589615364
+support vector regression,0.6585375827
+interval censor data,0.6548129420
+probability distribution,0.6516920558
+markov random,0.6461640274
+attribute reduction,0.6452069876
+decision processes,0.6416920558
+event data,0.6411339344
+bayesian nonparametric,0.6410653046
+distance measure,0.6364126828
+data analysis,0.6362307648
+error estimation,0.6275469907
+incomplete data,0.6199363166
+support vector,0.6197780334
+statistical analysis,0.6178469534
+similarity measure,0.6112785419
+higher order,0.6009928475
+fuzzy multi criteria,0.5990695696
+fuzzy information,0.5861417473
+linear program,0.5827012930
+markov decision,0.5805235998
+hesitant fuzzy set application,0.5801204778
+variable selection,0.5779157017
+gaussian markov random,0.5739575139
+envelopment analysis,0.5724401348
+area estimation,0.5704453477
+inference generalize,0.5698270671
+information application,0.5687378689
+fuzzy multi criteria decision,0.5628540717
+hybrid multiple attribute decision,0.5621341523
+generalize distribution,0.5614124258
+uncertain linguistic,0.5608475326
+generalize linear mix,0.5605184735
+random walk,0.5542804102
+intuitionistic fuzzy information,0.5527842982
+roc curve,0.5494617654
+robust estimation,0.5479667457
+linguistic information,0.5477731759
+estimation partial linear,0.5393816897
+empirical likelihood,0.5389381702
+fit test,0.5364245940
+stochastic model,0.5357067371
+censor data,0.5334204431
+latent variable model,0.5326721271
+likelihood inference generalize,0.5325264502
+bootstrap test,0.5318191401
+fuzzy rough,0.5283619206
+reliability analysis,0.5273002504
+discriminant analysis,0.5270842841
+hybrid multiple attribute decision make,0.5257818056
+rough set theory,0.5233225690
+bivariate distribution,0.5215346352
+simultaneous confidence,0.5192273649
+series model,0.5182675677
+multi criteria group decision,0.5170859143
+interval estimation,0.5149528946
+set membership,0.5123821164
+approach multi,0.5104892274
+probability density function,0.5072900075
+inverse gaussian,0.5070570096
+variable selection regression,0.5034045222
+component analysis,0.5024211094
+type fuzzy,0.5022543213
+weight information,0.4998613026
+small sample,0.4970290526
+confidence interval estimation,0.4945832038
+multiple criteria,0.4932590457
+application multiple attribute group,0.4931002454
+hesitant fuzzy aggregation,0.4895126839
+survival data,0.4878384615
+fix effect,0.4873519909
+information retrieval,0.4846982430
+application group decision,0.4838672474
+latent class model,0.4752015141
+gaussian process,0.4743571457
+criteria group,0.4743570189
+hazard model,0.4731412166
+state estimation,0.4726562306
+likelihood approach,0.4704126582
+fuzzy linguistic,0.4700403309
+linguistic preference relation,0.4696357977
+average case analysis,0.4685983977
+set sample,0.4664997105
+unit root test,0.4617195406
+inference generalize linear,0.4607874079
+fuzzy information application,0.4603978689
+partial linear single index model,0.4597372641
+type ii censor sample,0.4541973982
+partial linear single,0.4520244591
+covariance matrices,0.4516509849
+slice inverse regression,0.4497538332
+large data,0.4491275535
+sample size determination,0.4477910070
+multi criteria,0.4477426547
+analysis application,0.4475070496
+bayesian estimation,0.4465758306
+parameter distribution,0.4462323929
+set application,0.4449660468
+current status data,0.4434226199
+measurement error model,0.4430884712
+multi attribute,0.4427913421
+fuzzy aggregation operator,0.4421451422
+operator application group,0.4413622441
+ii censor,0.4390845463
+canonical correlation analysis,0.4390456969
+linear combination,0.4378183894
+rate model,0.4371402074
+sample size,0.4367758741
+panel unit root,0.4347569891
+simultaneous confidence interval,0.4286276413
+latent class,0.4279907165
+measurement error,0.4266216936
+regression tree,0.4257040615
+multiple attribute decision make hesitant fuzzy,0.4253751920
+density ratio,0.4199806658
+intuitionistic fuzzy preference relation,0.4196633955
+bayesian variable selection,0.4187707083
+small area estimation,0.4178467829
+multiple attribute decision make incomplete,0.4171434863
+control chart,0.4138577208
+power series,0.4138482171
+model bayesian,0.4100303578
+mix effect,0.4094386094
+incomplete information,0.4088283899
+incomplete weight,0.4087898232
+censor sample,0.4083559262
+decision theory,0.4053217811
+estimate equation,0.4049814327
+fuzzy cluster,0.4048694329
+multi criteria decision,0.4040765578
+type ii,0.4040342988
+proportional hazard,0.4011217354
+nonlinear mix effect model,0.4010685199
+gaussian graphical model,0.4008267185
+analysis interval,0.3985446085
+gamma distribution,0.3960724428
+local influence,0.3956330477
+factor analyzer,0.3949016244
+data cluster,0.3942198720
+sufficient dimension reduction,0.3940311138
+fuzzy linguistic aggregation operator,0.3916753002
+hybrid censor,0.3905713987
+root test,0.3874304024
+model cluster,0.3859017453
+mixture distribution,0.3843369578
+comparative analysis,0.3822632902
+goodness fit test,0.3813304599
+class model,0.3795577038
+fuzzy linguistic aggregation,0.3790268020
+prediction interval,0.3773398001
+smooth parameter,0.3771734033
+miss data,0.3754468454
+fuzzy multi criteria decision make,0.3751126805
+likelihood estimator,0.3748326110
+estimation partial,0.3719449960
+distribution bayesian,0.3698463627
+operator application multiple attribute group,0.3695930870
+linguistic variable,0.3688166980
+group decision make intuitionistic fuzzy,0.3675174800
+distribution application,0.3674055906
+longitudinal data,0.3660453260
+hierarchical cluster,0.3657618084
+fuzzy rough set,0.3647556076
+rank set sample,0.3642542421
+type distribution,0.3629308748
+weight aggregation operator,0.3627885258
+single index,0.3625762550
+fuzzy aggregation operator application multiple,0.3617388022
+teste equality,0.3613268112
+test equality,0.3610031693
+model application,0.3606643462
+intuitionistic fuzzy preference,0.3602039417
+status data,0.3598748695
+average case,0.3597039923
+fuzzy linguistic aggregation operator application multiple,0.3578311274
+linear single index,0.3575529787
+set application decision,0.3570105684
+subset selection,0.3569239089
+rough set model,0.3565967560
+set model,0.3553224453
+multiple attribute decision make problem,0.3536753196
+nonlinear mix effect,0.3536168567
+selection high dimensional,0.3528222823
+partial linear model,0.3512349135
+multivariate gaussian,0.3508991221
+penalize spline,0.3508257470
+selection kernel,0.3487073236
+parametric bootstrap,0.3486727283
+estimation conditional,0.3466095272
+gaussian random,0.3461713440
+approach multiple attribute decision,0.3458994836
+principal component,0.3449395668
+fuzzy multi,0.3445129375
+importance measure,0.3443857548
+order weight average,0.3424683905
+rough approximation,0.3419991991
+characteristic function,0.3418203806
+fuzzy soft set,0.3395872417
+measure intuitionistic fuzzy set,0.3388515031
+similarity measure intuitionistic fuzzy,0.3381507825
+regression estimator,0.3359601765
+partial linear,0.3355255863
+repeated measure,0.3351902150
+bayesian variable,0.3343369578
+criteria decision,0.3329399618
+mixture factor analyzer,0.3306268135
+multi attribute decision,0.3276466668
+approach multiple attribute,0.3273331989
+linear mix model,0.3267142394
+influence diagnostic,0.3262900900
+function approximation,0.3262391921
+variable importance,0.3257138451
+generalize linear mix model,0.3253386874
+nonparametric density,0.3250346780
+recurrent event,0.3229760948
+variable model,0.3229452577
+additive model,0.3216130426
+application multiple,0.3208557772
+analysis interval value,0.3203333640
+normal mixture,0.3197624057
+progressive censor,0.3179209793
+estimation multivariate,0.3179115982
+generalize estimate,0.3175949803
+type ii censor,0.3174326264
+accelerate failure,0.3151531383
+sample data system,0.3147769786
+algorithm computing,0.3144628558
+soft set,0.3138481119
+gaussian graphical,0.3135267456
+estimation linear,0.3131862488
+multiple attribute group,0.3124103786
+error probability,0.3123991221
+multivariate normal,0.3094359894
+exponential power,0.3081732697
+group decision make interval value intuitionistic,0.3065448340
+analysis variance,0.3063390216
+fuzzy aggregation operator application multiple attribute,0.3040321090
+model data,0.3021893768
+linguistic preference,0.3013105427
+miss response,0.3012323002
+linear single,0.3002488236
+fuzzy multiple attribute decision,0.3000591139
+hybrid multiple attribute,0.2999907029
+hazard rate,0.2995788582
+multivariate regression,0.2965104644
+ii censor sample,0.2956598880
+data driven,0.2956485975
+fuzzy aggregation,0.2955487565
+hierarchical model,0.2946290418
+operator application group decision,0.2944947768
+binary response,0.2944190032
+small area,0.2942847145
+empirical bayes,0.2939571676
+goodness fit,0.2928625955
+maximum likelihood estimator,0.2908731950
+high dimensional,0.2899887198
+model computational,0.2899215056
+linear single index model,0.2895573623
+bayesian framework,0.2892901214
+structural equation model,0.2878415634
+approaches multiple attribute,0.2875672281
+uncertain linguistic variable,0.2865495395
+multivariate binary data,0.2858350172
+distribution type,0.2847303346
+rate function,0.2842334434
+vary coefficient single index,0.2828234020
+area roc curve,0.2826749454
+information system,0.2821528618
+functional regression,0.2819978730
+survival analysis,0.2810258323
+nonparametric test,0.2807166392
+uncertain data,0.2795615491
+gaussian markov,0.2784660524
+high dimension,0.2784239089
+dual hesitant fuzzy aggregation operator,0.2779289438
+copula model,0.2771374086
+model identification,0.2769494182
+interval value intuitionistic fuzzy information,0.2757955720
+measure intuitionistic fuzzy,0.2754829110
+attribute group,0.2751833331
+censor survival data,0.2744126119
+application group decision make,0.2740621113
+normal variable,0.2724192787
+marginal likelihood,0.2716679433
+set similarity,0.2712362838
+attribute decision make incomplete,0.2705356633
+information application multiple attribute,0.2700559270
+application multiple attribute group decision,0.2691946832
+trapezoidal fuzzy,0.2680895048
+saunders distribution,0.2679881133
+archimedean copula,0.2670908235
+analysis multivariate,0.2669686191
+intuitionistic fuzzy environment,0.2668061374
+randomize trial,0.2653500845
+frequency domain,0.2638882174
+binomial distribution,0.2634503240
+decision support,0.2633138684
+subspace method,0.2615940967
+operator application group decision make,0.2606076424
+dempster theory,0.2603195461
+multiple criteria group decision,0.2600740281
+fuzzy linguistic aggregation operator application,0.2591572463
+order weight,0.2562616732
+bipolar fuzzy,0.2555009051
+fuzzy aggregation operator application,0.2551192096
+genetic algorithm,0.2550167049
+data bayesian,0.2549127378
+finite population,0.2535798504
+outlier detection,0.2529140446
+mixture regression,0.2506627616
+distribution progressive,0.2506246434
+scale mixture,0.2505158775
+hesitant fuzzy linguistic,0.2496019255
+fuzzy inference system,0.2491218504
+multi attribute group decision,0.2490777949
+continuous time,0.2476869363
+index model,0.2474456232
+frequency response,0.2467500382
+operator application multiple attribute group decision,0.2457599792
+interval value intuitionistic fuzzy set,0.2443335862
+multi criteria group decision make,0.2443000374
+capture recapture,0.2441942097
+data clone,0.2430009051
+information criterion,0.2427055938
+approach group decision make,0.2417360224
+model classification,0.2413996078
+binary regression,0.2410697394
+structural equation,0.2409721873
+decision make dual,0.2390385880
+test detect,0.2385883112
+algorithm estimate,0.2379379003
+multivariate time series,0.2379157548
+transfer function,0.2375610851
+dual hesitant fuzzy aggregation,0.2366364789
+approach multiple attribute decision make,0.2364138104
+meta analysis,0.2360396793
+logistic regression model,0.2352118468
+small sample size,0.2351298902
+application multiple attribute group decision make,0.2326049226
+incomplete decision,0.2320932917
+mixture model cluster,0.2319291306
+multiple attribute group decision,0.2313649905
+distribution type ii censor,0.2312115551
+distribution type ii,0.2311948381
+estimation stochastic,0.2311589139
+power aggregation operator,0.2310633700
+approach multiple,0.2309059178
+linguistic aggregation operator application multiple,0.2304946840
+expectation maximization,0.2297318405
+value intuitionistic fuzzy set,0.2296085024
+application multiple attribute decision make induce,0.2292729057
+heavy tail,0.2283624602
+normal mixture model,0.2280887459
+data miss,0.2280246556
+size determination,0.2270621876
+intuitionistic fuzzy set,0.2270233597
+attribute decision make incomplete weight,0.2263891332
+fuzzy multiple attribute decision make,0.2255388049
+dual hesitant fuzzy,0.2254478113
+inverse gaussian distribution,0.2249969364
+decision support system,0.2246597951
+application multiple attribute,0.2246329644
+hesitant fuzzy aggregation operator,0.2242041286
+decision theoretic,0.2236955074
+robust fit,0.2230557111
+interval type fuzzy,0.2230065305
+regression bayesian,0.2225253990
+local linear,0.2206516378
+attribute decision make incomplete weight information,0.2205803806
+density estimator,0.2202342991
+mixture regression model,0.2201633300
+penalize likelihood,0.2199824586
+intuitionistic fuzzy number,0.2197694529
+model heavy tail,0.2197403935
+lifetime data,0.2192858182
+fuzzy preference,0.2184776060
+multivariate binary,0.2183294383
+matrix estimation,0.2182450972
+hesitant fuzzy set,0.2176182873
+risk difference,0.2172973178
+decision make intuitionistic fuzzy environment,0.2172669601
+decision make problem hesitant fuzzy,0.2172111871
+truncate data,0.2170988912
+belief function,0.2170827597
+mixture normal,0.2164060753
+test independence,0.2156535653
+panel count data,0.2153887185
+model multivariate,0.2152445159
+case analysis,0.2138546315
+model miss data,0.2127849565
+multiple attribute decision make incomplete weight,0.2120254969
+linguistic aggregation operator application,0.2111670048
+linguistic aggregation operator,0.2111670048
+single index model,0.2107737955
+factor analyzer model,0.2107723659
+function generalize,0.2106967949
+similarity measure intuitionistic fuzzy set,0.2101906552
+linguistic aggregation operator application multiple attribute,0.2096167070
+fuzzy environment,0.2092740585
+model censor data,0.2083008054
+problem hesitant fuzzy,0.2070849814
+variance component,0.2069265169
+hazard regression,0.2064165259
+model estimation,0.2061925525
+error variable model,0.2054992520
+type test,0.2048952455
+score test,0.2044119746
+decision make intuitionistic fuzzy,0.2041947800
+panel data,0.2038396378
+aggregation operator application,0.2037188832
+measure application,0.2033785220
+incomplete weight information,0.2029775477
+soft set application,0.2029108089
+volatility model,0.2024862482
+criteria group decision,0.2019254001
+mix effect model,0.2014340619
+hybrid multiple,0.2008482257
+sample test,0.1995786043
+miss value,0.1993012458
+generalize lambda distribution,0.1988729546
+fuzzy setting,0.1984778726
+bootstrap confidence,0.1981267526
+approach group decision,0.1980311688
+weight aggregation,0.1977776474
+nonparametric predictive,0.1973615690
+selection problem,0.1973274832
+multi attribute group,0.1969990850
+test error,0.1965265374
+application rough,0.1965265374
+rank fuzzy number,0.1960613261
+cluster multivariate,0.1955192176
+hold function,0.1954632182
+regression model,0.1940521766
+spatial correlate,0.1938424406
+prediction error,0.1936981812
+linguistic aggregation,0.1934690461
+aggregation operator application multiple attribute,0.1931571450
+fuzzy model,0.1928319514
+likelihood estimate,0.1924063566
+attribute decision make dual,0.1923783085
+set application decision make,0.1922338744
+leverage heavy,0.1921533379
+selection linear,0.1912921624
+decision make intuitionistic fuzzy preference relation,0.1900589959
+distribution nonparametric,0.1898773272
+approach group,0.1894402341
+current status,0.1891046347
+power aggregation,0.1889997582
+vector regression,0.1889849086
+heavy tail distribution,0.1885331634
+coefficient single index,0.1874258814
+multiple criteria group,0.1871544875
+fuzzy soft,0.1870935420
+group decision make interval value,0.1870367430
+estimation spatial,0.1865412973
+slice inverse,0.1862522790
+triangular fuzzy,0.1848615204
+decision make hesitant fuzzy,0.1846107334
+weight average,0.1841650720
+teste procedure,0.1833762507
+multi attribute decision make,0.1833402446
+credit score,0.1828702495
+error distribution,0.1828309003
+robust regression,0.1812921624
+optimal design,0.1812900232
+estimate number,0.1807351149
+belief structure,0.1806894342
+teste homogeneity,0.1803032224
+model longitudinal,0.1798821627
+attribute decision make hesitant fuzzy,0.1795671956
+estimate parameter,0.1795629426
+fuzzy multiple attribute,0.1793909165
+bayesian model,0.1793689185
+censor survival,0.1788550230
+stochastic volatility model,0.1785366972
+average operator application,0.1785280648
+multinomial model,0.1783055659
+confidence region,0.1777316325
+problem hesitant,0.1776576515
+beta regression,0.1776576515
+multiple attribute group decision make,0.1771187307
+model longitudinal data,0.1764645485
+intuitionistic fuzzy,0.1763744428
+number component,0.1762370437
+fuzzy number,0.1759891848
+model miss,0.1756714324
+binary outcome,0.1751825709
+vary coefficient single,0.1750217968
+longitudinal ordinal,0.1748979279
+saunders regression model,0.1744075177
+test homogeneity,0.1739997582
+model local,0.1737872356
+rank set,0.1736931479
+accelerate life,0.1727211899
+kernel regression,0.1723868784
+error model,0.1715326575
+bayesian hierarchical,0.1714363506
+saunders regression,0.1710726382
+group decision make problem,0.1710464763
+application data,0.1706562806
+longitudinal data miss,0.1704334094
+distance similarity measure,0.1700308449
+variable precision,0.1699106895
+differential equation,0.1697900802
+negative binomial,0.1691050603
+estimator multivariate,0.1689533425
+correlate normal,0.1687375743
+application multiple attribute decision make,0.1680925464
+aggregation operator application multiple,0.1666594736
+risk assessment,0.1665918649
+process model,0.1662237534
+model predictive,0.1659202806
+rank score,0.1657102339
+information application multiple,0.1654033144
+mixture factor,0.1653933973
+data empirical,0.1645146899
+cure model,0.1644075177
+operator application multiple,0.1640753685
+data structure,0.1637493001
+inverse regression,0.1636983700
+analysis miss,0.1633624407
+regression model censor,0.1631613650
+effect model application,0.1630982457
+spatial data,0.1622565156
+operator linguistic,0.1621858501
+permutation test,0.1618026277
+ordinal data,0.1617491984
+group decision make interval,0.1615278117
+pairwise likelihood,0.1614868065
+response data,0.1609524322
+area roc,0.1609307688
+similarity measure interval,0.1609117762
+generalize lambda,0.1608870654
+decision make intuitionistic fuzzy preference,0.1608811934
+regression parameter,0.1607124407
+cluster randomize,0.1605006110
+silver bullet speak,0.1604054088
+make intuitionistic fuzzy preference relation,0.1598797667
+fuzzy operator application,0.1597993064
+grey relational,0.1593770163
+model error,0.1592221630
+fuzzy relational,0.1591531786
+aggregation operator application multiple attribute decision,0.1591030000
+decision make incomplete weight information,0.1588684145
+induce generalize,0.1587375743
+operator application,0.1584823195
+average operator,0.1582190971
+mix linear,0.1580534812
+application decision,0.1575265589
+system identification,0.1568188032
+model reduction,0.1567704729
+sample size calculation,0.1565882837
+model random,0.1564547665
+sufficient dimension,0.1563425335
+multiple attribute decision make induce,0.1561219622
+ordinal response,0.1555868009
+interval value fuzzy preference relation,0.1554545794
+similarity measure intuitionistic,0.1554265181
+approaches multiple,0.1553933973
+linear system,0.1553827057
+model interval,0.1550508054
+doubly censor,0.1541052678
+dependent data,0.1538197696
+multi attribute group decision make,0.1536332236
+extreme value,0.1527298603
+estimation generalize,0.1524264561
+intuitionistic preference relation,0.1517440966
+non parametric,0.1512851659
+tail distribution,0.1509932960
+error rate,0.1507542121
+parametric sensitivity,0.1505514823
+geometric operator,0.1504494233
+operator application multiple attribute decision,0.1503428969
+mean cluster,0.1500544190
+cross entropy,0.1500336698
+predictive inference,0.1497847533
+selection regression,0.1495538129
+hesitant fuzzy,0.1493590742
+longitudinal data analysis,0.1486109960
+model heavy,0.1483733943
+panel data model,0.1479706521
+hesitant interval value,0.1474989116
+model application data,0.1470670858
+dual hesitant,0.1467650068
+cluster data,0.1465108194
+multinomial distribution,0.1465092761
+multi criteria decision make,0.1463958658
+application multiple attribute decision,0.1460615358
+cluster method,0.1458549405
+number cluster,0.1457698482
+regression spline,0.1457498875
+application multi,0.1454681658
+fuzzy preference relation,0.1454419332
+nonlinear model,0.1454261245
+model multiple,0.1450508054
+multivariate distribution,0.1445509196
+model unknown,0.1445396324
+binomial proportion,0.1445208129
+operator interval,0.1445073564
+response model,0.1444882928
+fit mixture,0.1444729485
+estimation bivariate,0.1442410348
+fuzzy multi attribute,0.1441841714
+model vary,0.1439886703
+data likelihood,0.1439172656
+fuzzy random,0.1436650991
+mix distribution,0.1433314664
+hesitant fuzzy information,0.1429439052
+measure hesitant fuzzy,0.1427582594
+multivariate response,0.1426008725
+measure hesitant,0.1426008725
+selection high,0.1425602615
+normal population,0.1424913668
+time series,0.1422100014
+panel unit,0.1414373263
+computational aspect,0.1414330874
+attribute decision make problem,0.1414036176
+estimation mixture,0.1412921624
+estimation method,0.1412921624
+data type,0.1412921624
+intuitionistic preference,0.1404942492
+decision table,0.1404147654
+application multi criteria,0.1393437481
+hesitant fuzzy multi,0.1391531786
+inverse distribution,0.1387570734
+bootstrap approach,0.1385545976
+analysis model,0.1382577980
+interval number,0.1380649448
+fuzzy rough set model,0.1379515834
+trapezoidal fuzzy number,0.1374939690
+model multiple attribute,0.1373655415
+input output,0.1371127093
+cluster categorical,0.1369545750
+distribution property,0.1367919483
+application generalize,0.1364844701
+operator application multiple attribute decision make,0.1364764066
+bootstrap estimate,0.1363945101
+hesitant interval value fuzzy,0.1361230203
+time dependent,0.1353991509
+extend multiple attribute,0.1353933973
+make hesitant fuzzy,0.1351701275
+mix linear model,0.1347787852
+rate estimation,0.1345146899
+test fit,0.1335640653
+generalize exponential,0.1335062991
+diagnostic test,0.1335062991
+express gene,0.1333809773
+data classification,0.1333448651
+odd ratio,0.1331826689
+estimation mix,0.1331496794
+model empirical,0.1328266995
+cluster randomize trial,0.1327225482
+robust estimator,0.1322727407
+right censor,0.1322652140
+estimation nonlinear,0.1321396899
+differential express,0.1317120022
+instrumental variable,0.1314993293
+model em algorithm,0.1313941353
+variable application,0.1313467836
+aggregation operator interval,0.1311333160
+finite mixture model,0.1310061395
+estimation two parameter saunders distribution,0.1309399286
+fuzzy mean cluster,0.1309023353
+two dimensional,0.1306211421
+model approach,0.1305606057
+coefficient regression,0.1299449056
+error analysis,0.1298773272
+smooth spline,0.1298285811
+model em,0.1296844570
+progressive type,0.1295396085
+preference relation,0.1293940660
+hesitant triangular fuzzy,0.1290168472
+attribute decision make hesitant,0.1287371068
+two sample,0.1284839005
+censor response,0.1284658936
+expect value,0.1284432727
+model effect,0.1279948587
+test case,0.1276282320
+regression approach,0.1275851732
+leverage heavy tail,0.1272681066
+model random effect,0.1270775345
+multi objective,0.1269754710
+decision make risk,0.1269319704
+measure intuitionistic,0.1265816054
+exponential family,0.1261235174
+analysis generalize,0.1259948651
+frailty model,0.1255265201
+large scale,0.1255185984
+distance similarity,0.1253610015
+make interval value intuitionistic,0.1251264157
+application gene,0.1246490912
+measure similarity,0.1241549249
+multiple attribute,0.1239475468
+multiple attribute decision make hesitant,0.1235945392
+make interval value intuitionistic fuzzy,0.1235690223
+estimation nonparametric,0.1232921624
+continuous variable,0.1231975345
+approach estimate,0.1228356033
+set analysis,0.1227774809
+model robustness,0.1227292289
+model adaptive,0.1222565156
+criteria group decision make,0.1220142740
+model average,0.1219926050
+parameter saunders distribution,0.1217077780
+normal model,0.1214985387
+criteria decision make,0.1214697073
+attribute decision,0.1213095595
+fuzzy operator,0.1211911943
+model specification,0.1210951393
+right censor data,0.1210681416
+multivariate model,0.1205606057
+parameter saunders,0.1200066283
+two stage,0.1199416846
+intuitionistic fuzzy operator,0.1197656805
+talk silver bullet talk silver,0.1193926802
+application fuzzy,0.1192221630
+censor regression,0.1191100129
+sample selection,0.1187679243
+generalize weight,0.1187589647
+support system,0.1187274375
+make intuitionistic fuzzy environment,0.1185861024
+markov switch,0.1180767379
+operator application decision,0.1179761784
+statistical test,0.1176282320
+pairwise comparison,0.1175325363
+model binary,0.1170302764
+estimation regression,0.1170302764
+differential express gene,0.1168897403
+interval value fuzzy set,0.1163491384
+make approach,0.1162755421
+make incomplete,0.1162394560
+distribution model,0.1161108142
+estimation distribution,0.1161108142
+fuzzy mean,0.1159192095
+model prediction,0.1157812648
+three parameter distribution,0.1157334548
+property application,0.1157025006
+failure time data,0.1154857776
+analysis cluster,0.1151950765
+model maximum,0.1150103729
+talk silver,0.1148472256
+model decision,0.1147764679
+analyzer model,0.1147186094
+talk silver bullet talk silver bullet,0.1143448660
+approach generalize,0.1132921624
+rough fuzzy,0.1129617085
+count data model,0.1128088211
+interval grey,0.1125006110
+interval value fuzzy,0.1124693558
+vary coefficient model,0.1124503938
+group decision make intuitionistic,0.1122067097
+point set,0.1121666935
+operator application multiple attribute,0.1119749336
+size calculation,0.1113432762
+attribute group decision,0.1109409371
+hesitant interval,0.1109092375
+two parameter saunders distribution,0.1106591494
+make incomplete weight information,0.1103874439
+bullet talk silver bullet,0.1103160470
+nonparametric bayesian,0.1101953254
+binary decision,0.1101766438
+model optimal,0.1098773272
+interval data,0.1095036713
+data multiple,0.1095036713
+talk silver bullet talk,0.1093926802
+talk silver bullet,0.1093926802
+bullet talk silver,0.1093926802
+way contingency table,0.1090246854
+sensor network,0.1086134609
+measure interval,0.1085567740
+make intuitionistic fuzzy,0.1083051050
+minimum distance,0.1082506534
+accelerate failure time,0.1077211748
+box model,0.1075692429
+preference relation application,0.1071185109
+family distribution,0.1068939392
+decision rule,0.1064610803
+model spatial,0.1064062832
+aggregation operator,0.1062301972
+estimation bayesian,0.1061243001
+multiple attribute decision,0.1057654941
+group decision,0.1057654941
+silver bullet talk silver bullet talk,0.1056426802
+bullet talk silver bullet talk silver,0.1056426802
+bullet talk silver bullet talk,0.1056426802
+attribute decision make induce,0.1053700557
+coefficient single,0.1049293966
+estimation random,0.1045146899
+silver bullet talk silver,0.1040660470
+noise model,0.1040357501
+equation model,0.1040357501
+point interval,0.1039263388
+process mixture,0.1038226141
+model structure,0.1036332224
+interval value hesitant fuzzy,0.1033501394
+model maximum likelihood,0.1033351732
+nonlinear regression model,0.1030185608
+model fit,0.1027774809
+estimation multiple,0.1022878759
+regression function,0.1022162001
+model diagnostic,0.1022147431
+random effect model,0.1019896682
+operator multi,0.1019514510
+model smooth,0.1019203380
+bullet talk,0.1017404066
+fuzzy group decision,0.1016089859
+survival model,0.1013941353
+model small,0.1009534838
+fuzzy rule,0.1007179913
+silver bullet talk silver bullet,0.1003160470
+cluster mixture,0.1001953254
+panel count,0.0999380710
+weight average operator,0.0999354088
+data application,0.0997562919
+model censor,0.0997494318
+repeated measurement,0.0990673979
+probability model,0.0985274809
+prediction model,0.0985274809
+mean variance,0.0982584616
+silver bullet talk,0.0981240544
+silver bullet,0.0981240544
+data mixture,0.0975851732
+time vary,0.0975387783
+estimation data,0.0970333948
+approach analysis,0.0966597974
+hesitant triangular,0.0955403089
+rank fuzzy,0.0955219844
+data distribution,0.0954608142
+joint model,0.0949012575
+bathtub shape,0.0948617014
+make intuitionistic fuzzy preference,0.0948319883
+model functional,0.0945146899
+estimation parameter,0.0945146899
+bayesian mixture,0.0945146899
+group decision make hesitant,0.0942261101
+failure data,0.0938941353
+extend multiple,0.0938226141
+component regression,0.0934708020
+dynamic model,0.0932921624
+decision make interval,0.0932493685
+gamma frailty,0.0932274084
+model group,0.0927774809
+fuzzy approach,0.0927774809
+multi granularity,0.0923332927
+decision make incomplete weight,0.0919197026
+make problem hesitant fuzzy,0.0917110736
+tree model,0.0915968236
+multiplicative consistency,0.0891064822
+regression estimation,0.0887312280
+difference two,0.0867556066
+model maximum likelihood estimation,0.0866597974
+fuzzy hybrid,0.0861694021
+time series model,0.0857113161
+mean vector,0.0853991509
+analysis fuzzy,0.0852857037
+group decision make generalize,0.0842206067
+test data,0.0841410340
+model algorithm,0.0841410340
+gaussian model,0.0841410340
+model bayesian analysis,0.0841344612
+decision make induce,0.0831023353
+model skew,0.0829617085
+model mixture,0.0828319514
+model analysis,0.0828319514
+model regression,0.0826461292
+analysis data,0.0826461292
+decision make interval value intuitionistic fuzzy,0.0824693558
+make hesitant,0.0824337915
+way decision,0.0822925699
+cross sectional,0.0820974737
+sample distribution,0.0820192391
+relation application,0.0817480418
+model parameter,0.0813680210
+model estimate,0.0813680210
+decision make interval value,0.0804731581
+inference model,0.0801490145
+model information,0.0796025724
+information model,0.0796025724
+model model,0.0795692216
+model rank,0.0794986181
+extend fuzzy,0.0793627748
+model robust,0.0783153142
+group decision make incomplete,0.0782930958
+data nonparametric,0.0781005974
+analysis multiple,0.0781005974
+decision make interval value intuitionistic,0.0780091299
+parameter model,0.0756784263
+model nonparametric,0.0756784263
+fuzzy data,0.0756784263
+decision analysis,0.0755359676
+two level,0.0753991509
+estimation model,0.0746383950
+two parameter saunders,0.0744001515
+operator application decision make,0.0741189418
+model bootstrap,0.0738941353
+two way,0.0738620863
+fuzzy multiple,0.0737575537
+fuzzy measure,0.0729617085
+model generalize,0.0729468939
+spatial model,0.0727717399
+fuzzy group,0.0721074575
+make interval value,0.0719404021
+three parameter,0.0717158483
+identification model,0.0708077006
+attribute value,0.0707362632
+model non,0.0699211076
+non gaussian,0.0688589379
+lambda distribution,0.0688575080
+decision make problem hesitant,0.0687420204
+bullet speak,0.0682755613
+curve model,0.0681005974
+measure fuzzy,0.0676368693
+fuzzy decision make,0.0672097869
+decision maker,0.0670186218
+two parameter,0.0666641993
+model improve,0.0666110545
+statistical model,0.0665577006
+regression application,0.0665577006
+method data,0.0665577006
+error identification,0.0657107866
+fuzzy linear,0.0653978947
+selection model,0.0652857037
+fuzzy decision,0.0652857037
+least square,0.0651361817
+decision make correlation coefficient,0.0650662930
+decision make intuitionistic,0.0649368233
+make incomplete weight,0.0644299893
+attribute group decision make,0.0638628334
+model two,0.0625641037
+rank test,0.0622233015
+data maximum,0.0621074575
+multivariate data,0.0620192391
+attribute decision make interval,0.0616390124
+interval value hesitant,0.0607533200
+make problem,0.0606690857
+make intuitionistic,0.0603859522
+risk model,0.0602590058
+interval fuzzy,0.0602590058
+data generalize,0.0602590058
+estimation two parameter saunders,0.0602456902
+random model,0.0601490145
+model variable,0.0601490145
+model inference,0.0601490145
+decision make incomplete,0.0600369234
+distribution robust,0.0599965302
+common mean,0.0597900893
+interval value intuitionistic fuzzy,0.0590746984
+multiple criteria decision make,0.0588158209
+multiple attribute decision make fuzzy,0.0584911053
+application decision make,0.0583687066
+value fuzzy preference relation,0.0580038240
+multiple attribute decision make interval,0.0579615764
+score test zero,0.0578572766
+logistic model,0.0576368693
+generalize fuzzy,0.0576368693
+function fuzzy,0.0576368693
+failure time,0.0575106108
+make interval,0.0573105373
+non linear,0.0570607328
+model order,0.0568156812
+data estimation,0.0568156812
+decision make problem,0.0566665530
+wild bootstrap,0.0565476318
+two way contingency table,0.0564293704
+model linear,0.0556784263
+function model,0.0556784263
+distribution data,0.0556784263
+approach model,0.0556784263
+distribution multivariate,0.0550513449
+nonlinear system,0.0550210058
+model parametric,0.0549341666
+model continuous,0.0549341666
+coefficient model,0.0549341666
+approach fuzzy,0.0549341666
+data identification,0.0547621552
+multiple attribute decision make,0.0538067993
+data estimate,0.0521074575
+ratio model,0.0515801293
+factor model,0.0515801293
+correlation model,0.0515801293
+value intuitionistic fuzzy information,0.0515163350
+set interval,0.0510915018
+interval set,0.0510915018
+estimation two parameter,0.0510170572
+three way,0.0509257506
+fuzzy system,0.0507149635
+model correlate,0.0506664798
+approaches model,0.0506664798
+three way decision,0.0500163403
+parametric model,0.0494047548
+model statistical,0.0494047548
+fuzzy order,0.0494047548
+distribution estimation,0.0494047548
+test model,0.0487080368
+model test,0.0487080368
+model fuzzy,0.0487080368
+measure model,0.0487080368
+data fuzzy,0.0487080368
+application model,0.0487080368
+multivariate time,0.0486967117
+non normal,0.0484336336
+model hierarchical,0.0479637771
+decision make fuzzy,0.0470423053
+set fuzzy,0.0453747035
+model comparison,0.0453747035
+distribution generalize,0.0450513449
+fuzzy group decision make,0.0443417151
+decision make hesitant,0.0439868145
+decision make generalize,0.0423340816
+attribute decision make fuzzy,0.0408417151
+make correlation,0.0405358924
+model influence,0.0399965302
+make correlation coefficient,0.0399786303
+value fuzzy set,0.0398426037
+normal mean,0.0398286981
+one way,0.0397658573
+non stationary,0.0397598382
+compare two,0.0394013177
+value hesitant fuzzy,0.0380701336
+model right censor,0.0379026519
+decision make linguistic,0.0379026519
+interval value fuzzy preference,0.0373570721
+value fuzzy,0.0373105373
+model decision make,0.0372097869
+make fuzzy,0.0370885892
+make problem hesitant,0.0364059544
+value data,0.0360867067
+make risk,0.0357806069
+time data,0.0357646194
+make dual,0.0355855721
+value intuitionistic,0.0355148603
+model teste,0.0347621552
+model efficient,0.0347621552
+data robust,0.0347621552
+make induce,0.0345888662
+make linguistic,0.0344489359
+zero inflate,0.0338734494
+time model,0.0335885892
+estimation three,0.0334424848
+value function,0.0332790144
+mean several,0.0331668801
+system model,0.0329757566
+make model,0.0329757566
+time course,0.0327943210
+estimation two,0.0325101812
+decision make approach,0.0323340816
+group decision make,0.0307962056
+attribute decision make,0.0307962056
+one shot,0.0302502703
+operator interval value,0.0298744149
+continuous time model,0.0296751221
+multiple time,0.0296115327
+estimation non,0.0296115327
+decision system,0.0296115327
+value intuitionistic fuzzy,0.0289919242
+miss value estimation,0.0289908872
+value estimation,0.0288803656
+two way contingency,0.0285739488
+interval value,0.0284771254
+estimation three parameter,0.0281154300
+make generalize,0.0279489359
+decision make uncertain,0.0279026519
+decision make correlation,0.0279026519
+value set,0.0271078954
+make multi,0.0271078954
+model time,0.0269741701
+decision make model,0.0264987078
+failure time model,0.0261751221
+decision make multi,0.0261313789
+value fuzzy preference,0.0253903950
+interval value intuitionistic,0.0244640257
+value risk,0.0244489359
+value hesitant,0.0244489359
+mean operator,0.0244489359
+make uncertain,0.0244489359
+single value,0.0240971127
+move average,0.0239180904
+model right,0.0225539244
+decision make,0.0224678279
+model mean,0.0199211076
+data two,0.0196115327
+data system,0.0196115327
+test zero,0.0181017157
+way contingency,0.0169525732
+inference system,0.0169525732
+comparison two,0.0169525732

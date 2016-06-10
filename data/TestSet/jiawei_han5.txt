@@ -1,0 +1,49 @@
+data mining concept technique 
+mining frequent pattern without candidate generation 
+data mining overview database perspective 
+cluster method spatial data mining 
+mining sequential pattern efficient prefix project pattern growth 
+mining frequent pattern without candidate generation frequent pattern tree approach 
+graph substructure pattern mining 
+discovery multiple level association rule large database 
+framework cluster evolve data stream 
+accurate efficient classification multiple class association rule 
+geographic data mining knowledge discovery 
+maintenance discover association rule large database incremental update technique 
+mining concept drift data stream ensemble classifier 
+closet efficient algorithm mining frequent close itemset 
+mining sequential pattern pattern growth approach 
+frequent pattern mining current status future direction 
+exploratory mining prune optimization constrain association rule 
+frequent pattern project sequential pattern mining 
+classification predictive association rule 
+discovery spatial association rule geographic information database 
+mining close sequential pattern large datasets 
+trajectory cluster partition group framework 
+cluster object spatial data mining 
+efficient mining partial periodic pattern time series database 
+mining access pattern efficient web log 
+search best strategy mining frequent close itemset 
+discover web access pattern trend apply olap data mining technology web log 
+mining close frequent graph pattern 
+mining frequent pattern data stream multiple time 
+orthogonal face recognition 
+bide efficient mining frequent close sequence 
+fast distribute algorithm mining association rule 
+knowledge discovery database attribute orient approach 
+graph index frequent structure approach 
+data driven discovery quantitative rule relational database 
+semi supervise discriminant analysis 
+framework project cluster high dimensional data stream 
+graph regularize matrix factorization data representation 
+mine hyper structure mining frequent pattern large database 
+mining multiple level association rule large database 
+data mining query language relational database 
+sober statistical model bug localization 
+mining frequent itemset convertible constraint 
+multi dimensional regression analysis time series data stream 
+guide mining multi dimensional association rule data cube 
+document cluster locality preserve index 
+locality sensitive discriminant analysis 
+warehouse analyze massive rfid data set 
+mining top local outlier large database 

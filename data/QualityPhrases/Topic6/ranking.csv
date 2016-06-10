@@ -1,0 +1,669 @@
+triangle free,0.9030455671
+metric space,0.9019133921
+modal logic,0.9008064109
+approximation algorithm,0.8997410104
+closure operator,0.8976941527
+line segment,0.8970241720
+edge coloring,0.8954805584
+boolean function,0.8941631769
+euclidean space,0.8922165318
+cartesian product,0.8920424624
+context free,0.8920363242
+perfect matching,0.8920070537
+boolean algebra,0.8913504959
+finite field,0.8897627507
+shortest path,0.8873115198
+circular arc,0.8868192912
+finite automata,0.8862017537
+propositional logic,0.8840494864
+context free grammar,0.8831191366
+random graph,0.8792632147
+abelian group,0.8764509540
+set theory,0.8763230758
+regular graph,0.8759099046
+planar graph,0.8754028846
+cubic graph,0.8753092067
+neural network,0.8744508613
+plane geometry,0.8743830938
+real number,0.8740188993
+bipartite graph,0.8736741710
+complete graph,0.8713806579
+independent set,0.8653922670
+hamiltonian cycle,0.8647398608
+topological space,0.8640417585
+vertex transitive,0.8640159281
+fuzzy set,0.8627488105
+line graph,0.8626114089
+higher order,0.8595033778
+nash equilibria,0.8590822661
+nash equilibrium,0.8553962878
+perfect graph,0.8533835436
+cooperative game,0.8497146267
+equivalence relation,0.8426369199
+normal form,0.8375353817
+order theory,0.8366632178
+cycle graph,0.8356040000
+algebraic logic,0.8344846919
+free group,0.8343202352
+finite set,0.8339093298
+graph large,0.8283679826
+chordal graph,0.8281209536
+triangle free graph,0.8269257614
+bound degree,0.8233880980
+odd cycle,0.8194861153
+stable set,0.8168841351
+interval graph,0.8152547661
+minimum spane tree,0.8082046287
+induce subgraph,0.8073646295
+edge connect graph,0.8072588387
+number edge,0.8000216851
+critical graph,0.7990915349
+edge connect,0.7984777754
+order logic,0.7953513966
+free grammar,0.7928570647
+strong regular,0.7887669175
+fix point theorem,0.7834126154
+chromatic number random,0.7811304017
+cycle length,0.7788453329
+hamilton cycle,0.7611319127
+polynomial finite field,0.7608487243
+dominate set,0.7172901542
+disjoint path,0.7140970798
+sparse graph,0.7077973792
+fuzzy number,0.7050355917
+edge connectivity,0.7037304531
+graph diameter,0.6977973792
+abstract algebraic logic,0.6977442502
+intuitionistic fuzzy,0.6884507296
+point theorem,0.6864101582
+degree sum,0.6849617336
+edge color,0.6777695458
+category partial enumerate set,0.6693394923
+connect graph,0.6680318191
+path cycle,0.6660989600
+sum game,0.6630054631
+semi abelian category,0.6610496932
+upper bound,0.6593655828
+local finite,0.6482981599
+circular chromatic,0.6391083159
+ramsey type,0.6383341206
+chromatic number random graph,0.6353064809
+cross number,0.6336585382
+relate problem,0.6254774762
+theorem prove,0.6175583332
+type theorem,0.6161963201
+chromatic number graph,0.6155736564
+complete boolean algebra,0.6137616959
+pseudo random,0.6131772911
+circular arc graph,0.6131309495
+edge disjoint,0.6020598410
+soft set,0.5918831910
+edge chromatic,0.5893657624
+stochastic game,0.5760261108
+tu game,0.5656609052
+parallel algorithm,0.5642579414
+maximum degree,0.5608407048
+short proof,0.5596753843
+edge chromatic critical,0.5587982662
+cycle cover,0.5574645295
+fix point,0.5570303099
+number random graph,0.5456945508
+binary search tree,0.5396254023
+point set,0.5306300324
+graph edge,0.5263449954
+minimum spane,0.5226861913
+bound arithmetic,0.5205963211
+short cycle,0.5195047190
+cyclic code,0.5191514657
+strong regular graph,0.5189209562
+random walk,0.5076675001
+bound number,0.5072207928
+path planar graph,0.5071065874
+difference set,0.5036305548
+circular chromatic number,0.4964606461
+bound chromatic,0.4864612983
+local finite graph,0.4857199326
+multipartite graph,0.4831966451
+graph bound,0.4831326162
+weak form axiom choice,0.4805976482
+search tree,0.4781053576
+longest path,0.4729962271
+axiom choice,0.4653894469
+degree freedom,0.4604475044
+minimal structure,0.4561951331
+list color,0.4468295604
+longest cycle,0.4457524413
+partial enumerate set,0.4434910241
+sequence fuzzy,0.4434259730
+connect claw free graph,0.4415128828
+connect claw free,0.4304899101
+hamiltonian path,0.4280046506
+first order theory,0.4264474175
+number generator,0.4254632776
+weak form,0.4216165073
+constructive plane geometry,0.4195601003
+path problem,0.4180002212
+disjoint cycle,0.4154461863
+number random,0.4147380605
+complete bipartite graph,0.4102712482
+minimum degree,0.4095812804
+ramsey number,0.4087063241
+ramsey theory,0.4017144909
+enumerable set,0.3991356970
+partial order,0.3979566496
+binary tree,0.3966804789
+second order logic,0.3933168662
+linear time algorithm,0.3931320791
+zero sum game,0.3928802971
+graph bound degree,0.3911040898
+model arithmetic,0.3868935685
+version theorem,0.3824163431
+color graph,0.3786338197
+bound chromatic number,0.3776644082
+fractional chromatic number,0.3749955926
+abstract algebraic,0.3730366679
+model theory,0.3668988228
+categorical abstract algebraic logic,0.3638584034
+free graph,0.3563068958
+degree sequence,0.3551346597
+lambda calculus,0.3466584988
+average degree,0.3463889695
+graph maximum degree,0.3446549310
+context free language,0.3441656620
+real line,0.3439560782
+draw planar graph,0.3437393908
+transitive graph,0.3433625551
+repeated game,0.3426037613
+connectivity graph,0.3387470609
+primitive recursive,0.3372138654
+arc graph,0.3333625551
+graph linear,0.3283689954
+chromatic critical graph,0.3274442026
+plane graph,0.3257535661
+form axiom choice,0.3227738572
+space axiom choice,0.3199518187
+fuzzy logic,0.3187822855
+straight line,0.3183738592
+limit theorem,0.3169799961
+constructive plane,0.3108244622
+dense graph,0.3073229796
+operation primitive notion constructive,0.3049976658
+transitive digraph,0.3046711915
+random number generator,0.3043069379
+complete multipartite graph,0.3029087818
+time algorithm,0.3028110690
+quasi cyclic code,0.3002225670
+abelian category,0.2973377619
+first order logic,0.2960239486
+maximal independent set,0.2949117109
+knowledge proof,0.2945680942
+edge chromatic critical graph,0.2920537495
+random oracle,0.2895967477
+acyclic edge,0.2894857677
+weak form axiom,0.2880359622
+total domination,0.2878271416
+semi abelian,0.2845835095
+claw free graph,0.2832748574
+spane tree,0.2785130144
+data structure,0.2750535824
+colour critical graph,0.2739366779
+primitive notion constructive,0.2738157229
+efficient algorithm,0.2713320198
+permutation group,0.2704977637
+recursive enumerable,0.2696346377
+ternary operation primitive notion constructive plane,0.2696256529
+color complete graph,0.2692044542
+graph without,0.2681017164
+local connect,0.2680829832
+uniform space,0.2654231379
+binary search,0.2652926969
+complete bipartite,0.2614019080
+game incomplete information,0.2601424158
+number graph,0.2588600488
+category partial enumerate,0.2586765260
+operation primitive notion constructive plane geometry,0.2568091753
+edge transitive,0.2525904732
+chromatic polynomial,0.2521212813
+transitive cubic graph,0.2517201593
+edge color graph,0.2476974966
+chromatic index,0.2473435274
+subgroup group,0.2457307569
+natural number,0.2449564326
+rough set,0.2444206632
+graph minimum,0.2425420184
+lower bound,0.2421243685
+infinite family,0.2419145853
+feedback vertex set,0.2418592686
+arc transitive,0.2410211572
+cover cubic,0.2394067376
+vertex cover,0.2385726217
+operation primitive notion constructive plane,0.2370441646
+minimum cost,0.2367128251
+operation primitive,0.2364312894
+chromatic number,0.2339360885
+categorical abstract,0.2331940054
+partial enumerate,0.2312692794
+well quasi order,0.2310175417
+rewrite system,0.2276839112
+graph hamiltonian,0.2250172715
+quasi cyclic,0.2249744352
+sufficient condition,0.2247441335
+categorical abstract algebraic,0.2244759192
+linear complexity,0.2239862205
+polynomial time,0.2234572701
+random regular graph,0.2199763794
+infinite graph,0.2185811712
+regular frame,0.2180984607
+direct graph,0.2164193185
+zero knowledge,0.2132807764
+large girth,0.2131734043
+primitive notion constructive plane,0.2099790970
+notion constructive plane,0.2094821310
+random geometric graph,0.2080406911
+color sparse graph,0.2080406911
+cycle connect graph,0.2073150874
+direct acyclic graph,0.2066792475
+chromatic critical,0.2063474076
+tensor product,0.2031759309
+second order arithmetic,0.1980228241
+notion constructive plane geometry,0.1941208924
+bin pack,0.1925519777
+claw free,0.1916346131
+tight bound,0.1852300004
+form axiom,0.1846633540
+tree width,0.1840847385
+total convex,0.1837856851
+model check,0.1806674772
+maximum number,0.1801202284
+forbidden subgraph,0.1785282654
+convexity theory,0.1772492955
+bound height,0.1772492955
+recursive enumerable degree,0.1772446812
+product graph,0.1768298782
+cover cubic graph,0.1736509939
+graph maximum,0.1714630267
+ternary operation primitive notion constructive,0.1712468131
+stable matching,0.1698382208
+distributive lattice,0.1694500119
+feedback vertex,0.1689166142
+projective plane,0.1688431501
+primitive notion constructive plane geometry,0.1685650808
+convex module,0.1677906130
+notion constructive,0.1663704783
+fractional chromatic,0.1652447819
+direct acyclic,0.1636722391
+without random oracle,0.1633093726
+algorithm find,0.1628478959
+relative length,0.1626371687
+family finite,0.1601202284
+tree transducer,0.1595272490
+theoretic approach,0.1581096915
+transitive closure,0.1549786187
+black box,0.1546311856
+subset real,0.1529351174
+solution problem,0.1519028298
+zero sum,0.1508414845
+graph upper,0.1506710015
+exact algorithm,0.1487382728
+bound degree graph,0.1476922823
+primitive notion,0.1467210417
+graph note,0.1433668536
+game incomplete,0.1428124583
+intersect family,0.1419207882
+respect closure operator,0.1417674388
+extensive form,0.1411029208
+point view,0.1397208826
+complete multipartite,0.1397040525
+cycle connect,0.1383801680
+weight graph,0.1376922823
+isomorphism problem,0.1374824219
+convex space,0.1370199342
+hole free graph,0.1367544806
+irreducible polynomial,0.1334808207
+fuzzy norm,0.1331074892
+zero knowledge proof,0.1316589508
+structural property,0.1297955863
+specifi vertices,0.1293542461
+recursive saturate,0.1292481873
+word problem,0.1287382728
+geometric graph,0.1277336163
+term rewrite,0.1277333029
+quantifier elimination,0.1275178525
+complete boolean,0.1267651343
+maximal planar,0.1267651343
+long cycle,0.1263735027
+graph cycle,0.1252084838
+long path,0.1250426202
+group action,0.1245344997
+bound length,0.1241945020
+regular subgraph,0.1238201098
+hole free,0.1235756275
+saturate model,0.1222787410
+first order,0.1211654608
+subcategory category,0.1204524451
+connectivity problem,0.1203949662
+space axiom,0.1202202849
+incomplete information,0.1194548494
+existence uniqueness,0.1181880789
+torsion free,0.1171173786
+form game,0.1167969638
+coalition formation,0.1155161755
+enumerate set,0.1150846356
+reverse mathematic,0.1146311856
+connect component,0.1143788617
+graph theoretic,0.1142732304
+regular expression,0.1142360943
+hereditary property,0.1139259413
+algorithm generate,0.1138888154
+compact cardinal,0.1134746651
+free abelian,0.1133161936
+algebraic characterization,0.1130508486
+linear time,0.1116644417
+proof conjecture,0.1115359527
+strong connect,0.1103168471
+quasi order,0.1101202284
+graph minimum degree,0.1088915317
+undirect graph,0.1076172670
+weak minimal,0.1073336361
+signature without random oracle,0.1069726014
+maximal planar graph,0.1067544806
+graph draw,0.1059607693
+graph linear time,0.1056502889
+path planar,0.1054685519
+space fuzzy,0.1048068810
+connect claw,0.1045850071
+choice principle,0.1040476392
+property teste,0.1039359527
+longest common,0.1036870778
+lie group,0.1036687938
+linear code,0.1033560628
+finite generate,0.1033560628
+problem class,0.1030828908
+domination number,0.1020810547
+ternary operation,0.1017289957
+maximal independent,0.1013329072
+finite rank,0.1006227238
+polynomial finite,0.1003949662
+regular language,0.1001915059
+quasi random,0.1001915059
+path length,0.1001915059
+diameter random,0.1001915059
+category partial,0.1001915059
+convex hull,0.0997405398
+high connect,0.0994508468
+upper lower,0.0985839204
+improve bound,0.0984378609
+game core,0.0983843936
+ternary operation primitive,0.0977968701
+connect subgraph,0.0977173724
+random geometric,0.0976118438
+color sparse,0.0976118438
+graph given,0.0972965611
+operation primitive notion,0.0972685683
+minimum distance,0.0972525293
+circuit complexity,0.0972525293
+intersection theorem,0.0965734541
+independence number,0.0965734541
+theory graph,0.0963843535
+problem graph,0.0963843535
+graph small,0.0954725640
+enumerable degree,0.0954644760
+clique number,0.0954043193
+series parallel,0.0950667925
+color critical,0.0950267228
+code finite,0.0944266784
+decomposition complete,0.0944010270
+group graph,0.0941621313
+graph tree,0.0941621313
+circle graph,0.0933873752
+ternary operation primitive notion,0.0932685683
+graph theory,0.0924949935
+graph group,0.0923899794
+orient graph,0.0920493775
+edge density,0.0920492252
+two player,0.0917831561
+cycle path,0.0914836163
+group theory,0.0907208000
+neighborhood union,0.0907154988
+type result,0.0901915059
+lattice structure,0.0901915059
+complexity classes,0.0901915059
+category topological,0.0901915059
+color complete,0.0899915528
+convergent sequence,0.0898421376
+proper interval,0.0894313601
+degree bound,0.0888915317
+game theoretic,0.0884378609
+normal subgroup,0.0883608251
+free language,0.0878953620
+necessary sufficient condition,0.0877720982
+respect closure,0.0868861977
+order arithmetic,0.0863968159
+lie algebra,0.0857706085
+data type,0.0857480237
+proof theoretic,0.0854258691
+graph isomorphism,0.0853633310
+simple game,0.0843073140
+game existence,0.0843073140
+complementary graph,0.0838712675
+linear system,0.0836616493
+colour critical,0.0835795340
+chain ring,0.0834692433
+domination graph,0.0827808916
+graph set,0.0823899794
+pi calculus,0.0820408119
+partial algebra,0.0799296913
+second order,0.0792489814
+complexity word,0.0791500543
+logic program,0.0790894472
+graph longest,0.0774587114
+sequence space,0.0763968159
+perfect match,0.0757040768
+graph forbidden,0.0753633310
+transitive cubic,0.0753139105
+vertex disjoint,0.0751250765
+choice function,0.0747308051
+subgraph graph,0.0746101599
+graph factor,0.0746101599
+algebraic theory,0.0744266784
+graph hamilton,0.0741447579
+draw planar,0.0741073726
+anti foundation,0.0737158781
+equilibria game,0.0731245134
+cover graph,0.0727808916
+theorem number,0.0724949935
+set tree,0.0724949935
+graph property,0.0724949935
+two way,0.0721810267
+signature without random,0.0717299847
+line algorithm,0.0713355532
+tree language,0.0711127249
+representation theorem,0.0711127249
+minimum cycle,0.0711127249
+set graph,0.0699717974
+fuzzy real,0.0696019079
+pure strategy,0.0694853972
+infinite path,0.0692906158
+type theory,0.0691133310
+theory extension,0.0691133310
+random regular,0.0691133310
+degree cycle,0.0688915317
+tree problem,0.0688915317
+random number,0.0688915317
+graph proper,0.0688156831
+graph grammar,0.0687865175
+graph upper bound,0.0677280615
+zero flow,0.0676291021
+regular map,0.0673400035
+path order,0.0669758676
+ramsey graph,0.0663843535
+graph minimal,0.0663843535
+degree graph,0.0663843535
+symmetric graph,0.0663683356
+number connect,0.0660048909
+graph digraph,0.0660048909
+graph number,0.0652084838
+hamiltonian graph,0.0646101599
+graph short,0.0646101599
+vertex set,0.0644266784
+theorem application,0.0644266784
+structure linear,0.0644266784
+set theoretic,0.0644266784
+proof theory,0.0644266784
+proof theorem,0.0644266784
+problem polynomial,0.0644266784
+linear space,0.0644266784
+linear logic,0.0644266784
+large number,0.0644266784
+finite model,0.0644266784
+color theorem,0.0644266784
+color problem,0.0644266784
+algorithm minimum,0.0644266784
+graph degree,0.0641621313
+two dimensional,0.0639008032
+graph ramsey number,0.0634342903
+graph ramsey,0.0634342903
+graph maximal,0.0634342903
+graph connectivity,0.0634342903
+graph exclude,0.0631314443
+graph average,0.0631314443
+cycle partition,0.0631314443
+subgraph characterization,0.0630282794
+graph minor,0.0627808916
+graph high,0.0627808916
+coloring graph,0.0627808916
+graph algorithm,0.0624949935
+graph application,0.0623899794
+ramsey number graph,0.0623879377
+necessary sufficient,0.0623532740
+graph partition,0.0607208000
+number path,0.0607208000
+graph color,0.0607208000
+game theory,0.0607208000
+graph vertex,0.0606157858
+decomposition graph,0.0606157858
+tree game,0.0606157858
+regular category,0.0597107693
+number minimum,0.0588915317
+acyclic graph,0.0588915317
+set relation,0.0587865175
+natural deduction,0.0584791494
+universal graph,0.0581976039
+graph disjoint,0.0581976039
+order graph,0.0577790844
+fuzzy game,0.0569758676
+path graph,0.0563843535
+graph regular,0.0563843535
+graph order,0.0563843535
+graph generalize,0.0563843535
+graph construction,0.0563843535
+chromatic graph,0.0563843535
+characterization graph,0.0563843535
+graph relate,0.0563683356
+graph spane,0.0546101599
+minimum number,0.0541756226
+structure graph,0.0541621313
+graph product,0.0541621313
+graph match,0.0534342903
+graph cross,0.0534342903
+graph clique,0.0534342903
+set game,0.0524949935
+number theory,0.0524949935
+large graph,0.0524949935
+graph representation,0.0524949935
+graph complexity,0.0524949935
+graph chromatic number,0.0524949935
+graph characterization,0.0524949935
+fuzzy graph,0.0524949935
+partition graph,0.0523899794
+graph strong,0.0523899794
+graph path,0.0523899794
+graph finite,0.0523899794
+graph coloring,0.0523899794
+family graph,0.0523899794
+covering graph,0.0523899794
+family set,0.0522892151
+graph root,0.0516050220
+graph induce,0.0516050220
+expressive power,0.0513111746
+problem algorithm,0.0507208000
+order set,0.0507208000
+number tree,0.0507208000
+number cycle,0.0507208000
+graph circular,0.0507208000
+graph chromatic,0.0507208000
+graph decomposition,0.0506157858
+graph conjecture,0.0506157858
+group finite,0.0505586694
+graph monotone,0.0505586694
+graph generate,0.0499717974
+algorithm graph,0.0499717974
+tree structure,0.0488915317
+tree planar,0.0488915317
+theorem path,0.0488915317
+theorem logic,0.0488915317
+property finite,0.0488915317
+problem finite,0.0488915317
+path tree,0.0488915317
+finite group,0.0488915317
+graph efficient,0.0487865175
+graph contain,0.0483382627
+nowhere zero,0.0479908017
+finite graph,0.0477790844
+cycle random,0.0475733060
+contain specifi,0.0469208782
+self complementary,0.0467687088
+without random,0.0467418174
+clique graph,0.0463683356
+graph pack,0.0463436639
+graph count,0.0463436639
+planar graph graph,0.0452084838
+graph random,0.0452084838
+graph perfect,0.0452084838
+graph local,0.0452084838
+graph line,0.0452084838
+graph graph,0.0452084838
+graph covering,0.0452084838
+graph convex,0.0452084838
+graph connect,0.0452084838
+graph complete,0.0452084838
+graph bipartite,0.0452084838
+edge graph,0.0452084838
+nowhere zero flow,0.0441321812
+well quasi,0.0437727300
+product two,0.0427681281
+de algebra,0.0423992449
+graph cross number,0.0416050220
+three dimensional,0.0393541254
+triple system,0.0393130182
+part ii,0.0385485698
+graph whose,0.0383382627
+without short,0.0372934924
+graph list,0.0363436639
+non commutative,0.0363044753
+one way,0.0361705847
+tree given,0.0360820816
+de de,0.0348429206
+find maximum,0.0325090242
+three color,0.0323992449
+boolean value,0.0292032390
+graph size,0.0281729322
+graph approximate,0.0281729322
+graph acyclic,0.0281729322
+finite many,0.0277091913
+non uniform,0.0276075782
+non abelian,0.0276075782
+find minimal,0.0276075782
+many value,0.0262724139
+proof system,0.0260820816
+signature without,0.0241046849
+cycle contain,0.0239949056
+two graph,0.0230228568
+discrete time,0.0215571127
+another look,0.0203801892
+non zero,0.0192032390
+set system,0.0158055556
+graph two,0.0158055556
+graph non,0.0158055556
+graph find,0.0158055556
+graph almost,0.0158055556

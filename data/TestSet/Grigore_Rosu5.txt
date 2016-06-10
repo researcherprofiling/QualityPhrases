@@ -1,0 +1,46 @@
+monitor java program java 
+mop efficient generic runtime verification framework 
+synthesize monitor safety property 
+toward monitor orient program paradigm combine specification implementation 
+overview runtime verification tool java 
+monitor program rewrite 
+java mop monitor orient program environment java 
+rewrite logic semantic project 
+overview semantic framework 
+efficient monitor safety property 
+rewrite technique runtime verification 
+executable formal semantic application 
+formal analysis java program 
+overview mop runtime verification framework 
+monitor algorithm metric temporal logic specification 
+efficient decentralize monitor safety distribute system 
+combine test case generation runtime verification 
+rewrite logic semantic language specification formal analysis tool 
+java runtime verification tool 
+efficient monitor language 
+predictive runtime analysis tool java 
+tree router search engine architecture single port memory 
+runtime safety analysis multithread program 
+parametric trace slice monitor 
+hide hidden algebra 
+rewrite logic approach operational semantic 
+generate optimal monitor extend regular expression 
+experiment test case generation runtime analysis 
+match logic alternative logic 
+incompleteness behavioral logic 
+detect error multithread program generalize predictive analysis execution 
+parametric slice causality 
+teste linear temporal logic formulae finite execution trace 
+formal monitor framework software development analysis 
+hidden congruent deduction 
+efficient monitor parametric context free pattern 
+hardware runtime monitor dependable cot real time embedd system 
+mining parametric specification 
+check correct behavior java program runtime java mop 
+circular proof theoretical foundation 
+formal code analysis 
+rewrite logic semantic project 
+synthesize monitor safety property time call return 
+synthesize dynamic program algorithm linear temporal logic formulae 
+check match logic 
+conditional circular rewrite case analysis 

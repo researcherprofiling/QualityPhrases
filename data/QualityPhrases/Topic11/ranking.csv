@@ -1,0 +1,738 @@
+gate array,0.8903366987
+frequency response,0.8903366987
+radio frequency,0.8899690017
+programmable gate,0.8899690017
+frequency domain,0.8856569856
+equivalent circuit,0.8848647049
+fuzzy logic,0.8814067737
+signal process,0.8781173350
+field programmable gate array,0.8773605126
+image sensor,0.8767560716
+phase noise,0.8740810653
+current source,0.8729824460
+digital filter,0.8727081774
+power amplifier,0.8721868834
+neural network,0.8699512896
+digital circuit,0.8688139748
+transmission line,0.8663590833
+filter design,0.8656426696
+mix signal,0.8655587041
+field programmable gate,0.8650755065
+wireless communication,0.8585425960
+threshold voltage,0.8505185004
+low noise amplifier,0.8484757919
+data recovery,0.8448598476
+electric field,0.8433585189
+power transmission,0.8390127552
+universal filter,0.8370641397
+optical fiber,0.8359573490
+monopole antenna,0.8343434501
+power factor,0.8341386126
+field programmable,0.8333536160
+operational amplifier,0.8330878835
+millimeter wave,0.8326753246
+low energy,0.8316547908
+wide band,0.8316127732
+high efficiency,0.8296615996
+duty cycle,0.8233049220
+spread spectrum,0.8195841618
+frequency division multiplex,0.8145563216
+high level synthesis,0.8127366729
+quantum dot,0.8125304416
+design ultra low,0.8110785455
+phase lock,0.8096458890
+sense amplifier,0.8065185048
+frequency division,0.7997126547
+charge pump,0.7989197610
+ultra wide,0.7965570398
+plasma display,0.7962552767
+programmable gate array,0.7957365862
+biomedical application,0.7937382210
+variable gain amplifier,0.7931489121
+process variation,0.7927784959
+low cost,0.7888082507
+integrate circuit,0.7853583215
+effect transistor,0.7818784227
+voltage mode,0.7810565031
+band pas filter,0.7793637108
+quadrature oscillator,0.7773627035
+boost converter,0.7762277811
+mode universal,0.7677675821
+voltage controll oscillator,0.7582411726
+wide range,0.7570529966
+field effect transistor,0.7567674015
+delta modulator,0.7567442769
+design methodology,0.7561988103
+fully differential,0.7549101563
+high resolution,0.7544420535
+energy efficient,0.7536437307
+phase shifter,0.7471137742
+fully integrate,0.7455628779
+low complexity,0.7450583818
+voltage reference,0.7442626757
+phase lock loop,0.7380936322
+pas filter,0.7380858655
+variable gain,0.7378630038
+lock loop,0.7362774829
+frequency synthesizer,0.7354605557
+high frequency,0.7315870373
+patch antenna,0.7295428500
+analysis design,0.7267423170
+antenna array,0.7250848628
+fir filter,0.7245144278
+area efficient,0.7220451785
+voltage mode filter,0.7191061607
+analog digital,0.7118919688
+field effect,0.7077324999
+controll oscillator,0.7042593003
+adder cell,0.7012833612
+error correct code,0.7003129631
+dual band filter,0.6959106119
+cross couple,0.6950021323
+application design,0.6949048204
+design analysis,0.6911617559
+wireless power,0.6894481668
+noise amplifier,0.6816667874
+adiabatic logic,0.6784065412
+compact dual band filter,0.6660935713
+design implementation,0.6656096277
+power consumption,0.6636376166
+radio frequency identification,0.6623555858
+power transfer,0.6581116310
+ac plasma display,0.6544967846
+digital converter,0.6498193780
+power reduction,0.6460295913
+circuit design,0.6455411550
+fade channel,0.6376213823
+energy harvest,0.6375658917
+frequency response mask,0.6323708224
+orthogonal frequency division multiplex,0.6319535683
+orthogonal frequency division,0.6311010466
+wireless power transmission,0.6268916078
+display panel,0.6226811556
+delta sigma,0.6110983926
+quantum dot cellular automata,0.6052603903
+open loop,0.6041221623
+bit error rate,0.6008664116
+ac plasma display panel,0.6000596124
+array grate,0.5981350267
+logic circuit,0.5954363355
+high performance,0.5939370080
+ultra low voltage,0.5934788127
+clock data recovery,0.5870653749
+error correct,0.5862231598
+power efficient,0.5826046309
+converter low,0.5821866846
+multiple output,0.5805308675
+electrical impedance tomography,0.5720238165
+wireless power transfer,0.5644430024
+digital controll,0.5622758877
+design technique,0.5607710769
+switch capacitor,0.5580915514
+high gain,0.5528190846
+sigma modulator,0.5505809379
+high linear,0.5482758386
+full adder cell,0.5395211443
+ultra high,0.5391399257
+high voltage,0.5376025204
+ultra wide band,0.5351669841
+quantum dot cellular,0.5310469399
+low power bit,0.5251900339
+impedance voltage mode,0.5237512961
+successive approximation register,0.5151161413
+mode filter,0.5136753293
+defect ground structure,0.5115649147
+band filter,0.5104117609
+design low,0.5066185423
+injection lock,0.5040805154
+hand transmission line,0.4993061467
+power gate,0.4955769111
+pulse width,0.4937421189
+trigger flip flop,0.4930600401
+rf front end,0.4906771530
+dropout regulator,0.4864361779
+converter low power,0.4853685126
+low power high,0.4756061103
+phase shift,0.4731475341
+thin film transistor,0.4697070301
+resonant tunnel,0.4685183168
+converter high,0.4655993720
+two stage,0.4621636705
+supply voltage,0.4570686061
+real time,0.4558258301
+design low power,0.4546431560
+body bias,0.4533820747
+sub threshold,0.4490801058
+control system,0.4475504389
+low power consumption,0.4471769392
+thin film,0.4421562828
+biomedical implant,0.4398708994
+three phase,0.4388555993
+digital converter low power,0.4375379174
+low power application,0.4369301089
+resonant tunnel diode,0.4351125248
+logic design,0.4301961841
+low dropout regulator,0.4293320105
+ac plasma,0.4251414078
+dot cellular automata,0.4235825080
+low voltage low power,0.4231818061
+performance analysis,0.4218110126
+low power high performance,0.4218100559
+low voltage low,0.4197798441
+power divider,0.4161829803
+digit serial,0.4132310758
+low voltage current,0.4068997418
+photonic crystal,0.4025102240
+open loop resonator,0.4005724693
+design ultra,0.3994792974
+analog digital converter low power,0.3940560892
+design ultra low power,0.3888372014
+high precision,0.3876149971
+application low,0.3836531896
+electronically tunable,0.3778932534
+substrate integrate,0.3765003093
+application low power,0.3761089202
+voltage low power,0.3716778033
+division multiplex,0.3710572335
+current conveyor,0.3707716544
+dual band,0.3695096697
+mode universal filter,0.3675227527
+current mode,0.3524411072
+high level,0.3515658921
+low power low voltage,0.3510767975
+power high,0.3488737231
+rfid tag,0.3458008001
+mach modulator,0.3408864844
+deep submicron,0.3348511223
+single stage,0.3320792890
+voltage controll,0.3302847299
+trade off,0.3285205340
+hearing aid,0.3256453644
+neural record,0.3240239935
+power supply,0.3203620645
+ultra low power application,0.3195957702
+cell design,0.3169021237
+delta sigma modulator,0.3161722212
+class power amplifier,0.3091112714
+low jitter,0.3068986780
+mode quadrature oscillator,0.3065335242
+adder low power,0.3029849972
+notch filter,0.3025870092
+sigma delta modulator,0.2999544665
+flip flop,0.2971816764
+common mode,0.2970829659
+current mirror,0.2959968300
+analog integrate circuit,0.2959521535
+successive approximation,0.2952980160
+digital converter low,0.2929301405
+power transfer system,0.2924385331
+high performance low,0.2918361676
+compact dual band,0.2908095406
+l driver,0.2878487444
+circuit low,0.2854712183
+high accuracy,0.2845193650
+field effect diode,0.2793831711
+voltage low,0.2786075846
+pas transistor logic,0.2745181590
+power electronic,0.2734607478
+level synthesis,0.2733676278
+sigma delta,0.2700451190
+error rate,0.2694818964
+power aware,0.2685900018
+low power low,0.2684947964
+single phase,0.2684370861
+band pas,0.2657581503
+inductive power,0.2630572545
+nm technology,0.2613765464
+rf power amplifier,0.2600948941
+clock data,0.2574961242
+switch mode,0.2574915420
+float gate,0.2482020802
+wireless sensor network,0.2466685743
+filter bank,0.2418428546
+plasma display panel,0.2413139105
+interface circuit,0.2411560919
+current mode universal filter,0.2404488904
+gan light diode,0.2391044048
+readout circuit,0.2386686868
+bit pipeline,0.2386290839
+impedance tomography,0.2377143340
+analog digital converter,0.2370202877
+multi stage,0.2369245154
+class audio amplifier,0.2354984041
+antenna application,0.2347440795
+fir filter design,0.2345422834
+fade channel performance,0.2300253292
+boost dc dc converter,0.2297995019
+rail rail,0.2290600246
+interference suppression,0.2274936706
+system performance,0.2274758450
+tunnel diode,0.2265925462
+ultra low energy,0.2244291847
+active power filter,0.2232011100
+frequency identification,0.2226198532
+high input,0.2209576717
+fiber optic,0.2207918259
+light diode,0.2200587699
+clock gate,0.2168526724
+antenna system,0.2168445780
+particle swarm optimization,0.2165912646
+space time,0.2165495426
+voltage current,0.2159456328
+low voltage,0.2154891190
+rf power,0.2147941499
+multi core,0.2125243991
+ultra low,0.2121864389
+ac dc converter,0.2088848197
+clock data recovery circuit,0.2072327063
+application compact,0.2071917537
+buffer amplifier,0.2068526724
+low phase noise,0.2058382549
+high rate,0.2053985833
+orthogonal frequency,0.2047624453
+active filter,0.2045422834
+low loss,0.2032259429
+mix mode,0.2026198532
+flash memory,0.2015260701
+ultra low power,0.2014533878
+ground capacitor,0.2014346052
+slot antenna,0.1993012952
+frequency divider,0.1988848197
+domino logic,0.1987608806
+class power,0.1981790622
+pulse generator,0.1967713034
+high temperature,0.1961597891
+dc dc converter,0.1950684840
+multi channel,0.1947853133
+circuit ultra low,0.1930521146
+bit error,0.1929333909
+system chip,0.1928116385
+low noise,0.1923912802
+response mask,0.1908291676
+lab chip,0.1907431574
+dc dc,0.1907030868
+energy efficiency,0.1895910169
+circular polarize,0.1890293927
+low pas,0.1887190698
+high order,0.1881253867
+efficient low noise,0.1878738881
+dual mode,0.1869626283
+sensor network,0.1841017833
+multi carrier,0.1829333909
+dc converter,0.1820875693
+hand transmission,0.1819084770
+array antenna,0.1817111467
+programmable logic,0.1813515315
+single mode,0.1804044414
+single event,0.1785250004
+cellular automata,0.1783899630
+rf mem,0.1783096928
+induction motor,0.1776885473
+correct code,0.1776275662
+instrumentation amplifier,0.1760559881
+filter improve,0.1753985833
+power minimization,0.1746537741
+electrical impedance,0.1745612747
+dot cellular,0.1744755766
+passive component,0.1740330592
+single end,0.1740238409
+ac dc,0.1740238409
+ground passive,0.1727571146
+turbo code,0.1704389003
+continuous time,0.1701533052
+switch dc dc,0.1701042971
+slide mode,0.1700800464
+class ab,0.1697538090
+clock generator,0.1696422370
+common gate,0.1689269217
+current limiter,0.1688147793
+passive element,0.1687608806
+time digital converter,0.1687290103
+interference cancellation,0.1684900728
+impedance voltage,0.1684753055
+ground structure,0.1681060053
+single chip,0.1676931370
+full adder,0.1675560712
+phase clock,0.1674245902
+packet switch,0.1672750732
+third order,0.1672691420
+reference circuit,0.1669107045
+input impedance,0.1668947745
+low voltage application,0.1657847179
+efficient low,0.1654523209
+cochlear implant,0.1649690579
+soft error,0.1644457480
+frequency offset,0.1640238409
+design fabrication,0.1640114128
+loop resonator,0.1638207184
+defect ground,0.1631680619
+resonant converter,0.1626808674
+slow light,0.1617153945
+compensation high,0.1600970604
+current mode universal,0.1598697256
+tactile display,0.1593952363
+dipole antenna,0.1591610145
+compact low,0.1589121617
+gain amplifier,0.1587949954
+low power,0.1581773353
+switch scheme,0.1574623390
+linear phase,0.1569730837
+band notch,0.1567826320
+delay line,0.1566039790
+power high performance,0.1557847179
+adder design,0.1553985833
+transistor logic,0.1551159653
+analog digital converter low,0.1550563751
+boost dc dc,0.1549352132
+voltage scale,0.1541379426
+high throughput,0.1540553766
+design characterization,0.1536460458
+programmable analog,0.1530084303
+chaotic circuit,0.1529191437
+data recovery circuit,0.1526808674
+wavelength conversion,0.1519084770
+factor correction,0.1519084770
+communication system,0.1518162824
+design optimization,0.1515275983
+magnetic resonance,0.1508512410
+passive rfid,0.1507977651
+high density,0.1504657828
+combinational circuit,0.1502155956
+logic gate,0.1502098015
+network chip,0.1497537243
+pas transistor,0.1497359946
+stability analysis,0.1494990492
+fast lock,0.1486380519
+current feedback,0.1484513219
+high sensitivity,0.1481599635
+long term,0.1481422433
+carrier frequency,0.1479007374
+wireless sensor,0.1477839025
+spatial multiplex,0.1476159469
+reduction technique,0.1469385069
+low latency,0.1449613689
+gate low power,0.1445064966
+solar cell,0.1444457480
+offset estimation,0.1444457480
+hardware implementation,0.1444457480
+multi mode,0.1441703150
+multi standard,0.1438900749
+transient response,0.1434389213
+interference mitigation,0.1431635771
+sensor readout,0.1427121259
+field probe,0.1427121259
+induction generator,0.1426757455
+class audio,0.1426757455
+noise reduction,0.1420945663
+surface laser,0.1419084770
+fast transient,0.1419084770
+rf transceiver,0.1417324431
+application ultra low,0.1412505027
+low power digital,0.1410332280
+dynamic voltage,0.1408105614
+particle swarm,0.1404690351
+unity gain,0.1399282830
+barrier diode,0.1399282830
+approximation register,0.1398641953
+analog integrate,0.1398444898
+compact dual,0.1397447090
+frequency scale,0.1397261453
+power application,0.1395165614
+carry adder,0.1393520269
+conversion mixer,0.1391610145
+close loop,0.1389058732
+trigger flip,0.1388582239
+error correction,0.1381680001
+amplitude modulation,0.1379905439
+brain stimulation,0.1374417981
+digital controll oscillator,0.1367826320
+impulse radio,0.1366742154
+wireless power transfer system,0.1349156325
+power conversion,0.1348538518
+decoder low,0.1346302205
+low pas filter,0.1335299283
+differential voltage,0.1332479560
+pump circuit,0.1332083273
+asynchronous circuit,0.1328939102
+single carrier,0.1326808674
+memory cell,0.1326808674
+biomedical signal,0.1326808674
+voltage variation,0.1326199896
+i o,0.1324084818
+circuit synthesis,0.1323264145
+capacitor array,0.1321291431
+current reference,0.1319227107
+adder low,0.1313034661
+output impedance,0.1312319808
+mem technology,0.1312319808
+ultra fast,0.1305567415
+tunable filter,0.1298725271
+antenna dual band,0.1298427776
+genetic algorithm,0.1296770922
+optimize design,0.1294097478
+hot carrier,0.1292456440
+reduce power,0.1289121617
+current controll,0.1285594178
+design high,0.1283580121
+waveform generator,0.1279905439
+frequency dependent,0.1278141385
+fractional frequency,0.1277298584
+current output,0.1272358348
+filter employ,0.1270132595
+modulate scatter,0.1270103498
+latch comparator,0.1270103498
+recovery circuit,0.1268599023
+multi bit,0.1263320756
+power area,0.1261646992
+transmission system,0.1255106945
+temperature compensate,0.1252430814
+fully digital,0.1252398066
+film transistor,0.1244799056
+channel performance,0.1243709715
+gan light,0.1236513357
+chaotic oscillator,0.1232948073
+band antenna,0.1232307251
+measurement system,0.1230531179
+gate low,0.1228398299
+wireless receiver,0.1226597072
+charge pump circuit,0.1224818191
+phase error,0.1221793267
+charge balance,0.1217324431
+digital controller,0.1217017995
+fiber laser,0.1210518971
+noise figure,0.1200982795
+adaptive control,0.1196308322
+swarm optimization,0.1195707092
+implementation multi,0.1193421545
+voltage regulator,0.1192324663
+power factor correction,0.1188164119
+output current,0.1181286919
+controll current,0.1181286919
+end end,0.1181241911
+pressure sensor,0.1179936212
+single layer,0.1179604890
+multi layer,0.1179604890
+dynamic range,0.1179604890
+current conveyor application,0.1177326198
+standard cell,0.1177185638
+embedd system,0.1175595877
+light source,0.1173994907
+frequency tunable,0.1171682415
+signal generation,0.1170132595
+converter fast,0.1170132595
+implementation high,0.1169372689
+modulation technique,0.1169179465
+control loop,0.1169179465
+wide bandwidth,0.1165952655
+technique improve,0.1165732916
+tunable current,0.1162846140
+multi input,0.1155952728
+coherent optical,0.1152065272
+receiver architecture,0.1151742247
+mem sensor,0.1151742247
+high linearity,0.1149613689
+low power clock,0.1145064966
+bias voltage,0.1141107009
+filter wide,0.1140247286
+multiple access,0.1133835992
+antenna dual,0.1129300677
+test power,0.1127197176
+switch characteristic,0.1121291431
+effect diode,0.1111827030
+small area,0.1110518971
+coherent transmission,0.1105813089
+low dropout,0.1104497667
+body effect,0.1102018166
+integrate filter,0.1083814816
+efficiency factor,0.1081241911
+digital calibration,0.1079216872
+frequency modulation,0.1072064558
+frequency selective,0.1070507328
+conveyor application,0.1066579660
+source converter,0.1055952728
+dc converter high,0.1052953074
+voltage follower,0.1052065272
+phase margin,0.1052065272
+audio amplifier,0.1052065272
+suppression technique,0.1051742247
+programmable gain,0.1051742247
+input range,0.1051742247
+energy recovery,0.1051742247
+bit line,0.1051742247
+multiple input,0.1050328338
+optical modulator,0.1048937756
+front end,0.1048141849
+ac power,0.1034253577
+power efficiency,0.1023782914
+power data,0.1023782914
+high impedance,0.1014851643
+wide input,0.1013878170
+laser diode,0.1010518971
+technique design,0.1009422818
+design efficient,0.1009422818
+near threshold,0.1007492844
+current driver,0.1006725855
+wide tune,0.1002018166
+tune range,0.1002018166
+harmonic suppression,0.1001563383
+float inductor,0.0996625353
+photovoltaic system,0.0994983097
+signal generator,0.0993816806
+long range,0.0991600053
+low temperature,0.0985112983
+voltage application,0.0981948193
+filter high,0.0981948193
+amplifier high,0.0981948193
+phase array,0.0981602950
+optical transmission,0.0955440918
+circuit hybrid,0.0953074521
+mode quadrature,0.0952065272
+fiber optical,0.0948937756
+power area efficient,0.0946125823
+range high,0.0946099093
+loop high,0.0946099093
+digital phase,0.0946099093
+frequency multiplier,0.0943378471
+analog neural,0.0943378471
+multi band,0.0942599709
+power energy,0.0937227696
+performance low,0.0937227696
+high application,0.0937227696
+array power,0.0937227696
+circuit technique,0.0933335861
+band high,0.0933335861
+filter ultra,0.0918624468
+gain phase,0.0916138338
+channel estimation,0.0906336967
+monitor system,0.0897197846
+switch dc,0.0892743388
+transfer system,0.0890365367
+filter application,0.0889673889
+circuit board,0.0885089294
+rf front,0.0879852063
+pas band,0.0878862342
+mode logic,0.0871944494
+boost dc,0.0854010352
+multi phase,0.0846099093
+error detection,0.0839348910
+design compact,0.0838098251
+signal low,0.0837227696
+power circuit,0.0837227696
+low power circuit,0.0837227696
+design digital,0.0837227696
+array low,0.0837227696
+filter single,0.0818624468
+chip application,0.0818624468
+low frequency,0.0818241418
+compensate current,0.0817609780
+technique low,0.0809422818
+hold circuit,0.0808773505
+signal noise,0.0807938412
+near field,0.0807783833
+non linear,0.0791993105
+band low,0.0781948193
+current amplifier,0.0778129398
+circuit ultra,0.0778129398
+amplifier current,0.0778129398
+implementation digital,0.0776559879
+voltage sense,0.0762729591
+two dimensional,0.0762585701
+next generation,0.0762585701
+time domain,0.0761883163
+two step,0.0754129027
+integrate optical,0.0749839461
+technology high,0.0746099093
+noise analysis,0.0746099093
+mode control,0.0746099093
+sub nm,0.0739044134
+technique power,0.0737227696
+power control,0.0737227696
+self excite,0.0732649838
+area power,0.0728398299
+two phase,0.0710750092
+high efficient,0.0705861236
+time interleave,0.0698303394
+dual current,0.0687587641
+efficient current,0.0685375774
+structure high,0.0678129398
+high power,0.0668048928
+power pulse,0.0665366166
+deep sub,0.0660506813
+voltage switch,0.0655746145
+digital pulse,0.0652646835
+optical switch,0.0650714477
+digital signal,0.0650714477
+circuit model,0.0650714477
+circuit implementation,0.0650714477
+power bit,0.0644084115
+low voltage high,0.0644084115
+voltage frequency,0.0637951246
+power filter,0.0620645669
+filter low,0.0620645669
+dc power,0.0620645669
+circuit power,0.0620645669
+amplifier design,0.0614038202
+digital frequency,0.0609296038
+low power design,0.0599363618
+three stage,0.0595738976
+optical network,0.0579929337
+optical frequency,0.0578129398
+compact filter,0.0578129398
+amplifier noise,0.0578129398
+application single,0.0563170518
+digital design,0.0541843080
+amplifier low,0.0539523470
+filter technique,0.0536770664
+device high,0.0536770664
+system biomedical,0.0529805286
+power converter,0.0522856803
+high low power,0.0522856803
+analog circuit,0.0522705402
+self bias,0.0518722662
+power low voltage,0.0512462940
+code system,0.0507142566
+high low,0.0478136306
+circuit analysis,0.0472612543
+application ultra,0.0469482503
+network design,0.0465756124
+low phase,0.0465366166
+filter current,0.0465366166
+dynamic power,0.0465366166
+power rf,0.0448699500
+power device,0.0448699500
+implementation low,0.0448699500
+converter design,0.0448699500
+cell low,0.0448699500
+array design,0.0448699500
+circuit high,0.0441843080
+application high,0.0441843080
+system design,0.0433337133
+power system,0.0430001175
+control circuit,0.0428950571
+device design,0.0422094152
+time digital,0.0417522604
+receiver low,0.0412462940
+power clock,0.0412462940
+device low,0.0412462940
+architecture low,0.0412462940
+amplifier low power,0.0412462940
+active power,0.0412462940
+voltage high,0.0403979003
+power wireless,0.0403979003
+power digital,0.0403979003
+power design,0.0403979003
+power current,0.0403979003
+mode power,0.0403979003
+low power current,0.0403979003
+design power,0.0403979003
+circuit low power,0.0403979003
+time frequency,0.0398326542
+power switch,0.0367742444
+power low,0.0367742444
+low current,0.0367742444
+high high,0.0367742444
+digital system,0.0357806053
+system low power,0.0261142011
+system low,0.0261142011
+system high,0.0223277933
+self power,0.0187041374

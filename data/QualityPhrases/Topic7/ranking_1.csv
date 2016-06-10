@@ -1,0 +1,541 @@
+big data,0.9088066463
+data mining,0.9012853252
+data structure,0.8880234178
+multi core,0.8861762801
+parallel algorithm,0.8847972498
+data warehouse,0.8834077437
+search algorithm,0.8741713145
+grid computing,0.8652791405
+parallel computing,0.8646260910
+genetic algorithm,0.8642983115
+cloud computing,0.8608735050
+parallel application,0.8594871701
+nearest neighbor search,0.8580102729
+data stream,0.8554234252
+virtual machine,0.8545008548
+massive parallel,0.8541038327
+relational database,0.8534283107
+data compression,0.8503502401
+neural network,0.8467044087
+spatial database,0.8451945652
+range query,0.8444557761
+transactional memory,0.8442486791
+cellular automata,0.8435364401
+pattern match,0.8420522929
+mining frequent,0.8380129954
+high performance computing,0.8355954468
+spatial data,0.8222377749
+design implementation,0.8190706536
+distribute memory,0.8105806748
+skyline query,0.8104721349
+uncertain data,0.8092023158
+dimensional data,0.8087593688
+pattern mining,0.8000576322
+search tree,0.7986649847
+neighbor query,0.7961533572
+performance analysis,0.7946459207
+efficient algorithm,0.7903765349
+schedule algorithm,0.7867429913
+energy efficient,0.7787604966
+improve performance,0.7769739160
+efficient algorithm mining,0.7685320760
+data set,0.7684835292
+privacy preserve data,0.7562979265
+share memory,0.7555255734
+performance computing,0.7511798920
+stre match,0.7426845165
+privacy preserve data mining,0.7404454295
+parallel program,0.7360733160
+large data set,0.7238155148
+task schedule,0.7205291180
+performance evaluation,0.7169496304
+distribute database,0.7160733160
+memory multiprocessor,0.7109601987
+high dimensional,0.7076705219
+parallel implementation,0.7062890256
+data intensive,0.6998178002
+large scale distribute system,0.6880818322
+network chip,0.6848564135
+similarity search,0.6817614727
+binary search tree,0.6780921725
+external memory,0.6754980461
+heterogeneous cluster,0.6729843056
+associative memory,0.6719841726
+big data analytic,0.6687863309
+high level,0.6682994328
+frequent pattern,0.6557411920
+memory hierarchy,0.6556547764
+high performance embedd,0.6556105423
+road network,0.6524645656
+algorithm mining,0.6517334587
+performance embedd architecture,0.6494775400
+job schedule,0.6400383472
+share memory multiprocessor,0.6389968772
+query uncertain,0.6308756592
+nearest neighbor query,0.6299656837
+high performance embedd architecture,0.6279476803
+preserve data,0.6240267923
+main memory,0.6170197476
+object orient,0.6169453254
+suffix tree,0.6168862141
+multicore processor,0.6117216165
+high throughput,0.6098749952
+high performance embedd architecture compiler,0.6076944554
+tree efficient,0.6063299809
+frequent itemset mining,0.6051374174
+itemset mining,0.5990581498
+multi dimensional,0.5982247682
+intensive application,0.5966817880
+neighbor search,0.5960133355
+design space exploration,0.5906321532
+computational grid,0.5898004190
+energy efficiency,0.5860154605
+efficient mining,0.5753340129
+chip multiprocessor,0.5718834540
+energy aware,0.5699783360
+keyword search,0.5608963342
+processor array,0.5575611709
+similarity join,0.5566843429
+transaction process,0.5562030510
+binary search,0.5534399966
+multi agent,0.5455403636
+performance embedd architecture compiler,0.5358958488
+desktop grid,0.5300887664
+load balance strategy,0.5208117618
+parallel process,0.5202671548
+high performance,0.5196782430
+nearest neighbor query process,0.5195863269
+low power,0.5188474356
+dynamic voltage scale,0.5051626938
+scale distribute,0.5032388237
+grid computing environment,0.4899739025
+approximate stre match,0.4852793642
+distribute memory parallel,0.4839321350
+instruction set,0.4832963194
+concurrency control,0.4824698011
+data driven,0.4815256559
+share memory system,0.4800422733
+graphic processor,0.4795105376
+cache replacement,0.4763678445
+large scale distribute,0.4754926508
+high dimensional data,0.4747523373
+register file,0.4740069412
+dynamic voltage,0.4706532794
+high utility,0.4683275233
+space exploration,0.4606879404
+skyline query process,0.4570193642
+molecular dynamic,0.4560549235
+random access,0.4557037462
+preserve data mining,0.4550227671
+parallel computer,0.4547158709
+balance strategy,0.4541717504
+low cost,0.4424302738
+data cube,0.4403710443
+parallel architecture,0.4382315732
+aware schedule,0.4344997810
+edit distance,0.4343252581
+stream cipher,0.4288301482
+database system,0.4227489675
+computing environment,0.4190431648
+hard real,0.4175101482
+high utility itemset,0.4171915344
+distribute system,0.4137756095
+real time system,0.4132183843
+embedd architecture compiler,0.4125672878
+coarse grain reconfigurable,0.4106090687
+sensor network,0.4098428014
+mining sequential pattern,0.4038848929
+parallel simulation,0.3993268288
+data grid,0.3985313595
+data mining grid,0.3983923886
+efficient implementation,0.3973453501
+reverse nearest,0.3967558892
+graphic process unit,0.3938662755
+spatial query,0.3934109197
+maximal frequent,0.3913858625
+frequent itemset,0.3902979478
+data flow,0.3872061158
+query uncertain data,0.3861235391
+file system,0.3812053265
+systolic array,0.3799554082
+real time application,0.3798746143
+parallel computation,0.3769525271
+solid state,0.3722208776
+last level cache,0.3719708035
+load balance,0.3704439238
+reverse nearest neighbor,0.3702406925
+discrete event,0.3676209235
+schedule parallel,0.3650100146
+match algorithm,0.3622152314
+query process,0.3587356895
+sequential pattern,0.3581352864
+dynamic load balance,0.3557144980
+multidimensional data,0.3527695584
+spatial join,0.3517465240
+performance embedd,0.3493074733
+multi level,0.3490403827
+tree structure,0.3483886699
+web server,0.3470387415
+knowledge discovery,0.3436545153
+embedd processor,0.3424036343
+dynamical reconfigurable,0.3420943416
+level cache,0.3419843706
+embedd system,0.3379632984
+frequent close,0.3361305298
+suffix array,0.3356534263
+efficient scalable,0.3350957539
+compress data,0.3307830876
+space time,0.3281120964
+stream time series,0.3263951008
+storage system,0.3262889175
+cluster high dimensional,0.3246711507
+hard real time system,0.3235710988
+sequence alignment,0.3235459646
+heterogeneous computing,0.3222219098
+utility itemset,0.3221815855
+distribute database system,0.3209238961
+efficient similarity,0.3189600346
+parallel file system,0.3162851878
+architecture design,0.3140227441
+hard real time,0.3135753705
+distribute computing,0.3071107987
+data access,0.3060964750
+analysis large,0.3050957539
+divisible load,0.3046632417
+scalable parallel,0.3028489235
+distribute share,0.3028489235
+power efficient,0.3012354390
+memory access,0.3012354390
+grain parallel,0.3012354390
+query move object,0.3001210421
+effective efficient,0.2962873123
+application grid,0.2950957539
+parallel execution,0.2936596112
+uncertain data stream,0.2891008942
+scale distribute system,0.2876478860
+parallel machine,0.2866584473
+multi processor,0.2866584473
+memory system,0.2855047204
+replacement policy,0.2828604869
+process spatial database,0.2791008942
+approximate stre,0.2786470098
+query optimization,0.2771107987
+hierarchical cluster,0.2750957539
+share cache,0.2681701844
+series data,0.2668723722
+data placement,0.2666584473
+decision tree,0.2653319699
+multicore system,0.2644893213
+time series,0.2620452053
+parallel disk,0.2566584473
+join process,0.2527695584
+data replication,0.2525434471
+data broadcast,0.2466584473
+large data,0.2444058519
+peer peer,0.2440023110
+disk schedule,0.2421963622
+process unit,0.2413156638
+deductive database,0.2391567772
+modern processor,0.2374708858
+processor architecture,0.2366584473
+data analytic,0.2366584473
+index spatial,0.2352949537
+distribute query process,0.2351183700
+large scale,0.2344403249
+data visualization,0.2342156706
+dynamic program,0.2335752206
+distribute share memory,0.2335109197
+replicate data,0.2327695584
+data management,0.2318993513
+run time,0.2315616859
+data reduction,0.2268579446
+dynamic load,0.2259331716
+space efficient,0.2248148851
+metric space,0.2242624865
+soft computing,0.2238357926
+cache coherence,0.2187946406
+dimensional datasets,0.2170294492
+design space,0.2167372239
+grid environment,0.2161297528
+voltage scale,0.2151422897
+join query,0.2142841456
+replicate database,0.2141988553
+build block,0.2141525377
+general purpose,0.2138188250
+scientific data,0.2098274964
+heterogeneous grid,0.2089034462
+real time schedule,0.2082045425
+performance prediction,0.2071297528
+structure range,0.2065983725
+orient database,0.2059331716
+object orient database,0.2054726043
+flash memory,0.2054528649
+data source,0.2048318141
+cache memory,0.2048148851
+cluster computing,0.2018956326
+parallel distribute,0.2017494297
+workstation cluster,0.2000671000
+efficient parallel,0.1972597844
+schedule strategy,0.1967372239
+index structure,0.1946358664
+computing system,0.1934022636
+relational data,0.1921143130
+aware task,0.1914060648
+dynamic binary,0.1904872614
+time schedule,0.1903118922
+mining sequential,0.1879600346
+grain reconfigurable,0.1862109954
+multiprocessor system,0.1859811875
+dna sequence,0.1857934705
+heterogeneous environment,0.1852949537
+top query,0.1852065906
+real time task,0.1843026079
+optimization technique,0.1840170826
+index technique,0.1840170826
+large database,0.1781060243
+cluster large,0.1758571300
+time warp,0.1748624528
+uncertain database,0.1737285798
+exploit parallelism,0.1731824240
+object database,0.1731186356
+decision support,0.1728658104
+design evaluation,0.1714764684
+scientific application,0.1713220605
+parallel graph,0.1705530099
+distribute object,0.1704090823
+computing technique,0.1704090823
+process spatial,0.1698274964
+continuous query,0.1695441894
+series parallel,0.1681204029
+memory efficient,0.1662096834
+level set,0.1650061158
+time space,0.1641214160
+system energy,0.1641214160
+data privacy,0.1624854480
+information retrieval,0.1620336742
+join algorithm,0.1610128487
+implementation performance,0.1610128487
+privacy preserve,0.1609964840
+uncertain graph,0.1609172070
+time series data,0.1605905222
+system performance evaluation,0.1605905222
+heterogeneous distribute,0.1604090823
+operate system,0.1594763883
+message passe,0.1572535758
+memory architecture,0.1571694856
+system efficient,0.1557253210
+fine grain,0.1555423458
+data intensive application,0.1543011834
+data center,0.1542841456
+online schedule,0.1514402557
+access control,0.1504112298
+framework distribute,0.1504090823
+computation large,0.1504090823
+special section,0.1503224395
+graph partition,0.1501281937
+core processor,0.1486784432
+multiprocessor architecture,0.1485441894
+two level,0.1484811104
+many core,0.1482372756
+time embedd,0.1480103049
+graphic process,0.1471565758
+slide window,0.1461358443
+execution time,0.1461031573
+communication system,0.1461031573
+analysis large scale,0.1460909795
+task graph,0.1449475151
+model simulation,0.1443074996
+rdf data,0.1442841456
+efficient index,0.1439264188
+performance energy,0.1436370202
+core architecture,0.1425281654
+process model,0.1416536915
+image process,0.1415510306
+stream process,0.1410128487
+parallel processor,0.1400675218
+efficient mining frequent,0.1391088757
+three dimensional,0.1379259635
+coarse grain,0.1372535758
+memory model,0.1365082091
+embedd architecture,0.1357823141
+evaluation hierarchical,0.1349475151
+reconfigurable hardware,0.1342437216
+garbage collection,0.1340046351
+performance model,0.1324771779
+query evaluation,0.1316795884
+search high,0.1316635785
+efficient computation,0.1316536915
+hardware implementation,0.1306567296
+neighbor query process,0.1305918379
+high dimensional space,0.1305299969
+schema match,0.1297598017
+biological sequence,0.1292252661
+ree muller,0.1288909988
+level parallelism,0.1288047665
+reconfigurable architecture,0.1287570389
+distribute data,0.1284470242
+move object,0.1282372756
+cluster workstation,0.1256930443
+o efficient,0.1241214160
+mining frequent itemset,0.1221933663
+many core architecture,0.1215503616
+fast algorithm,0.1206177614
+pattern search,0.1204090823
+grid application,0.1201654100
+association rule,0.1197460244
+partition algorithm,0.1189540252
+monte carlo,0.1178733552
+nearest neighbor,0.1173947099
+schedule task,0.1173805109
+parallel file,0.1173805109
+graph cluster,0.1173805109
+multicore architecture,0.1168291445
+schedule grid,0.1159254537
+computer system,0.1156481002
+load shed,0.1135943094
+search large,0.1116635785
+scalable distribute,0.1116635785
+heuristic search,0.1111635305
+application level,0.1106177614
+two dimensional,0.1103026151
+time automata,0.1080103049
+range search,0.1073663185
+array processor,0.1068043877
+multi scale,0.1059254537
+real time,0.1047665783
+scalable efficient,0.1029155226
+multidimensional scale,0.1015950047
+architecture compiler,0.1012552074
+instruction cache,0.1011758423
+last level,0.1001581142
+large graph,0.0999564850
+cache algorithm,0.0996482242
+architecture parallel,0.0996482242
+physical system,0.0961031573
+mining grid,0.0954731023
+algorithm frequent,0.0954731023
+dimensional space,0.0950647312
+evaluation parallel,0.0929155226
+mining large,0.0898869512
+large scale system,0.0889203298
+cluster high,0.0878719063
+database efficient,0.0858974454
+scale parallel,0.0834577480
+data cache,0.0834577480
+data analysis,0.0834577480
+algorithm schedule,0.0834577480
+algorithm large,0.0834577480
+system performance,0.0811454824
+data storage,0.0777093823
+time application,0.0760103049
+efficient execution,0.0754731023
+time system,0.0749616042
+model large,0.0715999338
+query processor,0.0706602020
+parallel task,0.0706602020
+database query,0.0706602020
+system fast,0.0680103049
+time task,0.0680103049
+algorithm task,0.0677093823
+i o,0.0673030803
+distribute query,0.0671026478
+structure efficient,0.0663553083
+i o efficient,0.0646481002
+access data,0.0644697258
+processor parallel,0.0641084779
+multiple time,0.0638030675
+data cluster,0.0624554449
+algorithm application,0.0615708439
+p p,0.0612922478
+process distribute,0.0611576582
+performance distribute,0.0611576582
+scalable algorithm,0.0606343051
+cluster data,0.0583703531
+algorithm parallel,0.0583703531
+algorithm efficient,0.0583703531
+effective data,0.0579180017
+stream time,0.0555308841
+data efficient,0.0553553083
+data process,0.0549671820
+task parallel,0.0549220772
+partition data,0.0544697258
+hierarchical data,0.0544697258
+efficient technique,0.0544697258
+structure data,0.0540825810
+process large,0.0540825810
+distribute parallel,0.0540825810
+cluster algorithm,0.0540825810
+information system,0.0537288557
+pattern query,0.0529070324
+query move,0.0515459819
+stream efficient,0.0513989245
+query efficient,0.0513989245
+process efficient,0.0513989245
+process algorithm,0.0513989245
+efficient schedule,0.0513989245
+algorithm high,0.0513989245
+parallel pattern,0.0511576582
+memory database,0.0511576582
+distribute application,0.0511576582
+algorithm design,0.0511576582
+data parallel,0.0504689446
+model parallel,0.0489370986
+approach efficient,0.0489370986
+distribute process,0.0483703531
+data model,0.0483703531
+algorithm multi,0.0483703531
+system improve,0.0473359586
+share system,0.0473359586
+heterogeneous system,0.0473359586
+network data,0.0463553083
+efficient query,0.0463553083
+efficient multi,0.0463553083
+distribute architecture,0.0463553083
+distribute algorithm,0.0463553083
+computing large,0.0463553083
+application parallel,0.0463553083
+algorithm network,0.0463553083
+algorithm dynamic,0.0463553083
+algorithm distribute,0.0463553083
+algorithm computing,0.0463553083
+algorithm analysis,0.0463553083
+time embedd system,0.0456360032
+control system,0.0455308841
+stream data,0.0449671820
+schedule data,0.0449671820
+scale data,0.0449671820
+mining data,0.0449671820
+mining algorithm,0.0449671820
+memory parallel,0.0449671820
+large scale data,0.0449671820
+high parallel,0.0449671820
+framework data,0.0449671820
+efficient process,0.0449671820
+data share,0.0449671820
+data scalable,0.0449671820
+data application,0.0449671820
+cache efficient,0.0449671820
+analysis parallel,0.0449671820
+algorithm cluster,0.0449671820
+one dimensional,0.0446588810
+system high,0.0411454824
+core system,0.0408498418
+system parallel,0.0401454824
+management system,0.0393404079
+performance data,0.0370657735
+parallel data,0.0370657735
+efficient data,0.0370657735
+data data,0.0370657735
+algorithm data,0.0370657735
+system effective,0.0360000000
+processor system,0.0326549164
+process system,0.0326549164
+algorithm system,0.0316549164
+system large,0.0311454824
+system distribute,0.0311454824
+system design,0.0311454824
+scale system,0.0311454824
+cluster system,0.0311454824
+parallel system,0.0301454824
+system architecture,0.0260000000
+system adaptive,0.0260000000

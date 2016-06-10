@@ -1,0 +1,50 @@
+smooth method language model applied ad hoc information retrieval 
+smooth method language model applied information retrieval 
+document language model query model risk minimization information retrieval 
+model feedback language model approach information retrieval 
+topic sentiment mixture model facet opinion 
+discover evolutionary theme pattern text exploration temporal text mining 
+context sensitive information retrieval implicit feedback 
+implicit user model personalize search 
+instance weight domain adaptation 
+statistical language model information retrieval 
+mining text data 
+topic model network regularization 
+mining long term search history improve search accuracy 
+probabilistic approach spatiotemporal theme pattern mining 
+formal information retrieval heuristic 
+challenge information retrieval language model report workshop held center intelligent information retrieval university massachusetts 
+latent aspect rate analysis review text data rate regression approach 
+rate aspect summarization short comment 
+learn web search log organize search result 
+probabilistic relevance model document query generation 
+cross collection mixture model comparative text mining 
+exploration proximity measure information retrieval 
+automatic label multinomial topic model 
+two stage language model information retrieval 
+probabilistic model expert find 
+thing change empirical bug characteristic modern open source software 
+noun phrase analysis unrestrict text information retrieval 
+regularize estimation mixture model robust pseudo relevance feedback 
+mining correlate topic pattern coordinate text stream 
+positional language model information retrieval 
+opinion integration semi supervise topic model 
+geographical topic discovery comparison 
+risk minimization framework information retrieval 
+survey text classification algorithm 
+survey text cluster algorithm 
+positional relevance model pseudo relevance feedback 
+language model information retrieval document expansion 
+automatic construction context aware sentiment lexicon optimization approach 
+graph approach abstractive summarization high redundant opinion 
+comparative method estimate query language model pseudo feedback 
+exploration axiomatic approaches information retrieval 
+systematic exploration feature space relation extraction 
+mining term association pattern search log effective query reformulation 
+active feedback ad hoc information retrieval 
+name entity transliteration comparable corpora 
+model hidden topic document manifold 
+method negative relevance feedback 
+collaborative filter model preference rating 
+summarize contrastive viewpoint opinionate text 
+mixture model collaborative filter 

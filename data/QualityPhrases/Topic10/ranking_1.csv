@@ -1,0 +1,753 @@
+principal component analysis,0.8802801390
+neural network,0.8727634994
+feature selection,0.8716554745
+genetic algorithm,0.8714126382
+feature extraction,0.8707681692
+artificial neural network,0.8634787111
+intrusion detection,0.8590697684
+support vector machine,0.8554658372
+pattern recognition,0.8547261894
+basis function,0.8540136833
+discriminant analysis,0.8534539519
+radial basis function,0.8531493181
+gene expression,0.8501445838
+dimensionality reduction,0.8454519992
+model selection,0.8436220890
+network analysis,0.8426051991
+recurrent neural network,0.8423758766
+selection algorithm,0.8419285923
+face recognition,0.8382893050
+synaptic plasticity,0.8357623554
+anomaly detection,0.8350476899
+vector quantization,0.8334842369
+fuzzy logic,0.8307921220
+social network,0.8281749457
+gradient descent,0.8261475053
+data mining,0.8256117692
+bayesian network,0.8239354326
+data stream,0.8204553076
+decision tree,0.8186407244
+kernel function,0.8167747902
+neural net,0.8131068201
+support vector regression,0.8106830525
+reinforcement learn,0.8068315180
+evolutionary algorithm,0.7900774609
+classification rule,0.7606382949
+rule extraction,0.7582408402
+component analysis,0.7578097368
+bidirectional associative memory,0.7550356236
+cluster algorithm,0.7438041183
+machine learn,0.7430825063
+spike neuron,0.7424026117
+twin support vector machine,0.7376613489
+pulse couple neural network,0.7312038515
+association rule mining,0.7311285235
+artificial neural,0.7299740215
+activation function,0.7288172644
+learn vector quantization,0.7217301474
+cellular neural,0.7165818198
+semi supervise,0.7149600140
+image classification,0.7105502874
+organize feature map,0.6953251000
+incremental learn,0.6907292827
+series prediction,0.6842979842
+competitive learn,0.6825354522
+classification problem,0.6815990815
+cost sensitive,0.6740688155
+learn algorithm,0.6737760232
+extreme learn,0.6702432739
+discriminant analysis face,0.6660547045
+fuzzy inference,0.6655960553
+train algorithm,0.6603789503
+principal component,0.6595464495
+machine learn technique,0.6566661253
+series classification,0.6540309012
+cellular neural network,0.6536541110
+discriminant analysis face recognition,0.6525400605
+vector regression,0.6514189302
+supervise learn,0.6509526205
+twin support,0.6453963166
+multilayer neural network,0.6423284766
+genetic network program,0.6420809502
+twin support vector,0.6420420407
+vector machine classifier,0.6353945375
+learn approach,0.6332386645
+fuzzy min max neural,0.6308479626
+feature map,0.6263904529
+unsupervis learn,0.6259968561
+network approach,0.6244508270
+pulse couple neural,0.6193307190
+couple neural network,0.6185850860
+fuzzy rule,0.6185744843
+adaptive fuzzy,0.6178208221
+associative memory,0.6142760023
+active learn,0.6121440611
+couple neural,0.6087210024
+metric learn,0.6079027232
+learn technique,0.6059109804
+subset selection,0.6035902475
+support vector machine classifier,0.6009473898
+online learn,0.6003498947
+expression data,0.5967072926
+text classification,0.5958722355
+convolutional neural network,0.5924567771
+basis function neural network,0.5924438802
+algorithm learn,0.5858255381
+fuzzy cluster,0.5833826704
+multilayer neural,0.5808910484
+gene expression data,0.5789619882
+computational model,0.5748401544
+short term,0.5742473685
+bidirectional associative,0.5729978560
+multiclass support vector machine,0.5724170804
+wavelet neural,0.5697260909
+imbalance data,0.5620713450
+basis function network,0.5619402983
+square support vector machine,0.5600298683
+independent component analysis,0.5589067250
+hidden layer,0.5578785752
+radial basis function network,0.5565026114
+train recurrent neural network,0.5536837338
+kernel principal component analysis,0.5520246930
+radial basis function neural network,0.5503043505
+analysis neural,0.5499186319
+dimensional data,0.5432161836
+basis function neural,0.5429579859
+semisupervis learn,0.5417449286
+mining association rule,0.5335599318
+relevance vector machine,0.5334528357
+neuron model,0.5329641145
+single hidden layer,0.5317365928
+association rule,0.5304913307
+text categorization,0.5282863712
+train recurrent neural,0.5273391888
+markov model,0.5252375244
+spike neural,0.5215125163
+single layer,0.5209335300
+high dimensional,0.5176368938
+semi supervise classification,0.5135979927
+square support vector,0.5083564340
+multiclass classification,0.5025939914
+application neural network,0.5015114491
+spike neural network,0.4992874116
+mixture model,0.4928779727
+data set,0.4914010088
+hybrid approach,0.4910003540
+forward neural network,0.4906425377
+cancer classification,0.4892238557
+neural model,0.4844233809
+fuzzy min max neural network,0.4826922685
+multi class,0.4725613754
+train recurrent,0.4691971494
+rule extraction support vector machine,0.4682201957
+high dimensional data,0.4667063547
+wavelet neural network,0.4666791869
+fraud detection,0.4649297974
+machine learn approach,0.4632524982
+network model,0.4627085542
+pulse couple,0.4607438903
+analysis face recognition,0.4578391404
+pattern classification,0.4564040167
+recurrent neural,0.4530215086
+maximum margin,0.4521243224
+rule mining,0.4520121070
+organize map,0.4488999732
+short term load forecast,0.4445446752
+short term plasticity,0.4405289393
+loss function,0.4396178427
+radial basis function neural,0.4368522608
+function network,0.4357653122
+feature subset,0.4347627867
+organize feature,0.4334231829
+load forecast,0.4315494293
+generative topographic map,0.4310789896
+network program,0.4294500714
+feature weight,0.4185623309
+optimization algorithm,0.4138306000
+network architecture,0.4103430699
+multiclass support vector,0.4088179135
+nearest neighbor classification,0.4085077672
+topographic map,0.4080691494
+naive bayes classifier,0.4074993070
+spectral cluster,0.4052638165
+function approximation,0.4036176638
+rule extraction support,0.4033012681
+long term,0.4003421676
+max neural network,0.3980842837
+probabilistic neural,0.3967716414
+neural network architecture,0.3953393282
+layer neural,0.3944545207
+algorithm support vector machine,0.3935834976
+train multilayer,0.3923859010
+feature space,0.3918875449
+single hidden,0.3902474104
+large scale,0.3871806719
+neuronal network,0.3870931319
+neural network approach,0.3866328100
+hierarchical cluster,0.3858137477
+decision support,0.3850183150
+em algorithm,0.3845430688
+vector machine,0.3839184978
+term load forecast,0.3833633106
+ensemble classifier,0.3802324479
+min max neural,0.3799020359
+neural network genetic,0.3797189557
+function neural network,0.3794864350
+feature subset selection,0.3793417928
+algorithm principal component,0.3791158469
+global convergence,0.3777693320
+analysis face,0.3772685845
+instance selection,0.3764464731
+prune algorithm,0.3758494545
+sensor network,0.3722678901
+fuzzy neural network,0.3720920986
+network train,0.3709229942
+stability analysis,0.3692547341
+selection neural,0.3686997767
+neighbor classification,0.3676415864
+function neural,0.3662287175
+classification learn,0.3633296309
+neural network train,0.3625956699
+probabilistic neural network,0.3625714764
+extreme learn machine,0.3615892052
+class association rule,0.3612508446
+adaptive learn,0.3611806292
+community detection,0.3611730015
+kernel principal component,0.3601472344
+algorithm principal,0.3598639038
+mining association,0.3591923632
+min max neural network,0.3569917763
+protein interaction,0.3552489985
+auto associative,0.3525762621
+speech recognition,0.3496571346
+layer neural network,0.3490288349
+multi label,0.3484360503
+type fuzzy,0.3476415864
+learn vector,0.3476060267
+linear discriminant analysis,0.3460292083
+rule induction,0.3460292083
+dependent plasticity,0.3438892523
+term memory,0.3434780617
+fuzzy min max,0.3428039726
+neural network genetic algorithm,0.3405682638
+convolutional neural,0.3405088531
+self organize feature map,0.3402087839
+unsupervis competitive,0.3372996595
+bayes classifier,0.3323296433
+process model,0.3320123817
+rule extraction support vector,0.3318331755
+classification kernel,0.3318197457
+supervise classification,0.3305727894
+forward neural,0.3300535588
+sensitivity analysis,0.3288310081
+concept drift,0.3271653550
+universal approximation,0.3249729186
+regulatory network,0.3241750045
+genetic program,0.3238784535
+dynamic model,0.3207259957
+learn machine,0.3197226851
+machine classification,0.3183057199
+support vector,0.3180249442
+neural network model,0.3156635271
+neural network application,0.3113744465
+network application,0.3107818539
+least square support vector machine,0.3103747093
+semi supervise learn,0.3065112593
+application neural,0.3057878449
+unsupervis competitive learn,0.3038283364
+relevance vector,0.3034507708
+algorithm network,0.3033296309
+fault detection,0.3030507846
+learn model,0.3021385519
+long term memory,0.2994674989
+neural network solve,0.2969207539
+class imbalance,0.2958887504
+neuron network,0.2957878449
+time series prediction,0.2949541835
+neural network optimization,0.2933276481
+neural network train algorithm,0.2927888827
+square support,0.2916077829
+model prediction,0.2907259957
+global local,0.2901137648
+tree structure,0.2898427122
+classification feature,0.2893937703
+temporal pattern,0.2878836340
+train neural network,0.2876456901
+integrate fire neuron,0.2876122430
+time dependent plasticity,0.2867077969
+radial basis,0.2854747583
+fuzzy min,0.2854473780
+train neural,0.2842954749
+dynamic neural,0.2834405888
+particle swarm optimization,0.2833552320
+gene selection,0.2812092245
+classification data,0.2776060267
+adaptive neural,0.2776060267
+classifier ensemble,0.2752831963
+machine classifier,0.2748077572
+max neural,0.2746670937
+multi objective,0.2736051500
+outlier detection,0.2729784187
+protein protein interaction,0.2726736677
+cognitive map,0.2707826621
+network identification,0.2686997767
+interaction network,0.2682813842
+fuzzy mean cluster,0.2674169402
+artificial immune,0.2651398295
+fuzzy neural,0.2644918263
+neural network time series,0.2642727147
+supervise neural network,0.2629911084
+multi instance,0.2617694765
+bankruptcy prediction,0.2617000473
+nearest neighbor,0.2605174551
+multiple kernel,0.2597052523
+network linear,0.2593494086
+kernel space,0.2584924739
+model dynamic,0.2576300183
+memory learn,0.2568038366
+intrusion detection system,0.2552885987
+manifold learn,0.2552014957
+speaker identification,0.2541866013
+transfer function,0.2528819279
+unsupervis cluster,0.2525065552
+distance measure,0.2523234105
+algorithm dynamic,0.2518197457
+neural network adaptive,0.2505902699
+series forecast,0.2493911768
+ensemble learn,0.2485186138
+vector space,0.2483168278
+analysis feature,0.2465419679
+network multi,0.2452577129
+multiclass support,0.2443237969
+data classification,0.2438365648
+vector machine classification,0.2437342913
+fuzzy inference system,0.2435277180
+constructive algorithm,0.2427164519
+delay neural network,0.2425291500
+neural network fuzzy,0.2421904503
+supervise unsupervis,0.2406493367
+multilayer network,0.2398455260
+component extraction,0.2390316280
+adaptive control,0.2384038902
+independent component,0.2382726813
+recognition neural network,0.2375671234
+term plasticity,0.2372685765
+rule generation,0.2370725719
+forecast neural network,0.2370323885
+neural network analog,0.2359386385
+semi supervise cluster,0.2357855249
+network fuzzy,0.2356463654
+pattern discovery,0.2353633543
+network reinforcement,0.2342331295
+memory neural network,0.2341960335
+reproduce kernel,0.2340542836
+learn automata,0.2324908978
+linear discriminant,0.2321447626
+naive bayes,0.2304029756
+defect prediction,0.2301871834
+cluster ensemble,0.2286070313
+classifier system,0.2284902175
+evolutionary neural,0.2268038366
+hybrid learn,0.2268038366
+map fuzzy,0.2265419679
+unsupervis feature,0.2257836005
+local global,0.2250092837
+spike time,0.2246398764
+kernel principal,0.2245946097
+detection system,0.2244244378
+dynamic program,0.2236567303
+map algorithm,0.2234950186
+hybrid neural,0.2223282489
+neural network structure,0.2221904503
+algorithm data,0.2219201157
+network learn,0.2210430106
+modular neural network,0.2206115976
+network solve,0.2205815478
+swarm optimization,0.2203484585
+short term load,0.2194419677
+large margin,0.2171761413
+convergence property,0.2170536235
+fast train,0.2168067843
+self organize feature,0.2167079493
+label propagation,0.2166946382
+time series classification,0.2166680769
+spike time dependent plasticity,0.2165568772
+structure data,0.2164628365
+least square support vector,0.2162583952
+algorithm neural,0.2156463654
+fuzzy association rule,0.2153637468
+mean cluster algorithm,0.2130909806
+classification support vector,0.2119705393
+medical diagnosis,0.2108760129
+basal ganglia,0.2103692371
+algorithm approach,0.2101414338
+network learn algorithm,0.2099567337
+kernel machine,0.2099420678
+positive negative,0.2093883158
+recurrent correlation,0.2072834393
+extraction neural network,0.2071880604
+algorithm classification,0.2066423379
+higher order,0.2061363940
+chaotic neural,0.2054233124
+fast algorithm,0.2053690865
+time dependent,0.2045551332
+network spike,0.2045014932
+network robust,0.2037342913
+machine learn algorithm,0.2035857066
+improve algorithm,0.2020402821
+term load,0.2018823907
+neural network ensemble,0.2018700644
+lateral inhibition,0.2017522130
+selection genetic algorithm,0.2017073956
+tune fuzzy,0.2008551874
+train support,0.2004928607
+pattern analysis,0.2004928607
+fuzzy mean,0.2001959034
+efficient algorithm,0.1999420678
+rule fuzzy,0.1995038831
+model adaptive,0.1995038831
+evolutionary neural network,0.1995038831
+generative topographic,0.1993883158
+classification gene,0.1991066303
+associative classification,0.1988842917
+class association,0.1978724166
+sequential pattern,0.1977165126
+network temporal,0.1976060267
+network semi,0.1976060267
+network local,0.1976060267
+network decision,0.1976060267
+map learn,0.1976060267
+fuzzy classification,0.1976060267
+supervise cluster,0.1967847125
+train support vector,0.1959214322
+selection genetic,0.1957579792
+recognition neural,0.1948241561
+supervise neural,0.1945014932
+signal classification,0.1943398885
+network train algorithm,0.1941232910
+algorithm multilayer,0.1936056936
+structure learn,0.1926405413
+forecast neural,0.1926405413
+series data,0.1925119436
+mining approach,0.1925119436
+model approach,0.1924897476
+cellular automata,0.1924370871
+minor component,0.1924293550
+spike time dependent,0.1917361778
+learn long,0.1914181936
+network genetic,0.1902527275
+classification algorithm,0.1902527275
+dynamic system,0.1902045032
+support vector machine classification,0.1898136766
+kernel learn,0.1877568204
+delay neural,0.1874673008
+network adaptive,0.1873840984
+associative memory model,0.1870849250
+real time,0.1860447938
+neural network weight,0.1845014932
+excitatory inhibitory,0.1844603397
+weight learn,0.1842331295
+learn rate,0.1838058437
+network genetic algorithm,0.1829597982
+algorithm support,0.1826405413
+class classification,0.1825119436
+learn method,0.1820402821
+protein interaction network,0.1818511439
+prediction model,0.1808767893
+network semi supervise,0.1807259957
+generalization performance,0.1784273162
+local minima,0.1784256817
+convergence analysis,0.1774502672
+classification probabilistic,0.1771732219
+inference system,0.1766437558
+tree induction,0.1760870253
+fuzzy system,0.1760075512
+improve performance,0.1747028937
+machine feature,0.1745014932
+classification support,0.1737342913
+time series,0.1726180681
+convergence rate,0.1724877418
+feature selection algorithm,0.1719705393
+image segmentation,0.1718712823
+pattern mining,0.1695681823
+neural network hybrid,0.1695038831
+neural network implementation,0.1681913515
+learn long term,0.1676410906
+interestingness measure,0.1674361630
+algorithm support vector,0.1669546303
+hardware implementation,0.1665418321
+learn classification,0.1650730128
+discrete time,0.1648212939
+feature learn,0.1642331295
+fault diagnosis,0.1634353487
+model application,0.1619705393
+channel equalization,0.1618432711
+selection classification,0.1608767893
+detection classification,0.1608767893
+memory neural,0.1595038831
+cortical network,0.1591093553
+recurrent network,0.1578435192
+network structure,0.1578435192
+stock market,0.1577340255
+electric load,0.1577340255
+memory model,0.1574673008
+neural network comment,0.1571843304
+dynamic recurrent,0.1571732219
+knowledge discovery,0.1569898241
+propagation learn,0.1546385326
+piecewise linear,0.1540448091
+type neural,0.1503723240
+neural network prediction,0.1498786875
+activity recognition,0.1495692524
+type neural network,0.1481015306
+genetic network,0.1478435192
+financial distress,0.1477769896
+analog neural,0.1471415581
+data cluster,0.1469850813
+optimization neural network,0.1469380377
+data structure,0.1460794719
+learn application,0.1452577129
+network weight,0.1445014932
+network implementation,0.1443202445
+cluster feature,0.1431340321
+neural network construction,0.1427768552
+hybrid model,0.1418050187
+financial time series,0.1418020061
+modular neural,0.1417635484
+self organize map,0.1416115410
+network construction,0.1415389907
+binary neural network,0.1414177054
+algorithm application,0.1408767893
+mean cluster,0.1405853339
+selection feature,0.1395461361
+cluster kernel,0.1395331033
+complex network,0.1393494086
+fuzzy association,0.1376692745
+fault tolerance,0.1375231712
+network ensemble,0.1371843368
+evolutionary fuzzy,0.1371732219
+neural network improve,0.1371127301
+neural network efficient,0.1369380377
+speaker verification,0.1364178789
+feature selection classification,0.1363543711
+algorithm local,0.1357253630
+extraction support vector machine,0.1348630575
+selection fuzzy,0.1345014932
+learn semi,0.1345014932
+binary neural,0.1338859450
+differential evolution,0.1337026509
+classification tree,0.1323902462
+neural network pattern classification,0.1315375707
+neural network learn,0.1315375707
+kernel approach,0.1314847647
+deep neural network,0.1314177054
+fuzzy support vector,0.1310073259
+network classifier,0.1303612740
+deep neural,0.1294533209
+regression model,0.1287136259
+classification support vector machine,0.1277086331
+algorithm binary,0.1271732219
+order neural,0.1264401219
+learn rank,0.1256152859
+organize neural,0.1253373825
+software defect,0.1249775994
+network evolutionary,0.1249022149
+network online,0.1245014932
+classification multiple,0.1244979638
+network prediction,0.1240753117
+network continuous,0.1234333334
+protein protein,0.1225399580
+spike pattern,0.1222535769
+learn concept,0.1221285790
+extraction support,0.1211390374
+chaotic neural network,0.1198184147
+learn data,0.1195038831
+approach neural,0.1195038831
+time vary,0.1177913928
+selection support,0.1175140204
+neural fuzzy,0.1171880604
+chaotic time series,0.1170767314
+network comment,0.1160430959
+neural network self organize,0.1151854151
+model neural network,0.1150730128
+model neural,0.1150730128
+analysis neural network,0.1150730128
+wireless sensor,0.1150187974
+deep learn,0.1148356497
+wavelet network,0.1147779800
+optimization neural,0.1147779800
+network efficient,0.1144261629
+fire neuron,0.1135317794
+neural network continuous,0.1134333334
+algorithm feature,0.1133276481
+fuzzy model,0.1131367178
+fuzzy support,0.1119908870
+network design,0.1119208372
+learn control,0.1110166743
+network rule,0.1095038831
+network recurrent,0.1095038831
+network function,0.1095038831
+network cluster,0.1095038831
+memory network,0.1095038831
+learn fuzzy,0.1095038831
+classification fuzzy,0.1095038831
+algorithm fuzzy,0.1095038831
+hidden markov,0.1093825510
+single layer network,0.1090671695
+complex value,0.1088010908
+neural network classification,0.1053453110
+classification system,0.1051939983
+classification cluster,0.1042331295
+network sparse,0.1040753117
+network nonlinear,0.1038486136
+self organize,0.1032847348
+mining fuzzy,0.1011390374
+extraction support vector,0.1011390374
+improve classification,0.1002355211
+network time series,0.0999162205
+network classification,0.0996310253
+neural network generalize,0.0995038831
+network hybrid,0.0995038831
+particle swarm,0.0992673870
+min max,0.0992008765
+network predict,0.0987562195
+selection support vector machine,0.0978979490
+function support vector machine,0.0978979490
+function support vector,0.0978979490
+network analog,0.0971921203
+network feature,0.0971880604
+integrate fire,0.0967466009
+function support,0.0966085390
+analog neural network,0.0955161903
+cluster analysis,0.0951908783
+model analysis,0.0950637136
+rule classification,0.0950408061
+learn rule,0.0931367178
+least square support,0.0929982877
+train data,0.0929425919
+algorithm train,0.0923337354
+local learn,0.0922698405
+learn network,0.0921904503
+network noisy,0.0919256815
+learn convergence,0.0911240098
+network system,0.0903102774
+analysis self,0.0899162205
+network optimization,0.0896617010
+organize neural network,0.0896310253
+neural network classifier,0.0896310253
+network pattern classification,0.0894126977
+network dynamic,0.0894126977
+dynamic network,0.0894126977
+back propagation,0.0893728418
+constructive neural network,0.0890685386
+selection support vector,0.0878979490
+approach neural network,0.0871880604
+time delay,0.0871330328
+neural network analysis,0.0871127301
+network algorithm,0.0871127301
+complex value neural,0.0871040030
+mean algorithm,0.0862089917
+learn kernel,0.0858990767
+neural network dynamic,0.0857570659
+network topology,0.0852607983
+modular network,0.0852607983
+learn neural,0.0849564077
+algorithm neural network,0.0849564077
+map data,0.0845485260
+approach rule,0.0845485260
+network fast,0.0844261629
+network data,0.0829911084
+network improve,0.0822698405
+selection neural network,0.0821904503
+neural network rule,0.0821904503
+neural network algorithm,0.0821904503
+model network,0.0821904503
+classification neural network,0.0821904503
+classification neural,0.0821904503
+least square,0.0809435311
+time series forecast,0.0807189002
+recurrent neural network time,0.0801109115
+neural network pattern,0.0799540178
+fuzzy support vector machine,0.0795038831
+algorithm improve,0.0795038831
+layer network,0.0794126977
+winner take,0.0778158625
+hidden layer neural,0.0775394837
+network generalization,0.0772674507
+network pattern,0.0772674507
+data analysis,0.0766467402
+learn neural network,0.0757570659
+constructive neural,0.0749627721
+structure neural,0.0745014932
+neural network online,0.0745014932
+neural associative,0.0745014932
+network bayesian,0.0745014932
+model fuzzy,0.0745014932
+extraction neural,0.0745014932
+competitive neural,0.0745014932
+hybrid fuzzy,0.0742043669
+multivariate time,0.0733547304
+system neural network,0.0731299524
+structural learn,0.0724948409
+projection learn,0.0724948409
+neural network nonlinear,0.0719420682
+network spike neuron,0.0703045413
+dynamical system,0.0690550622
+self organization,0.0683143911
+continuous time,0.0677083850
+neural network design,0.0672674507
+neural network approximation,0.0672674507
+network approximation,0.0672674507
+neural network neural network,0.0671880604
+neural network neural,0.0671880604
+neural network feature,0.0671880604
+network neural network,0.0671880604
+network neural,0.0671880604
+network network,0.0671880604
+learn learn,0.0671880604
+system identification,0.0671330328
+self organize neural network,0.0666257167
+correlation learn,0.0663025812
+neural network time,0.0662598807
+two stage,0.0654774680
+second order,0.0653728078
+network unsupervis,0.0645014932
+network generalize,0.0645014932
+network convergence,0.0645014932
+learn improve,0.0645014932
+data fuzzy,0.0645014932
+nonlinear system,0.0637803369
+network incremental,0.0629175801
+financial time,0.0595833850
+chaotic time,0.0595833850
+system neural,0.0562595820
+network self organize,0.0544393105
+self tune,0.0520653069
+back propagation learn,0.0496348671
+value neural,0.0477722732
+multivariate time series,0.0463298114
+control system,0.0459371996
+probabilistic self,0.0443803715
+one class,0.0437319735
+self similar,0.0432036507
+decision make,0.0426348345
+fuzzy self organize map,0.0423721335
+time series data,0.0415991528
+neural network self,0.0408440200
+self learn,0.0380777638
+map self,0.0344393105
+learn self,0.0344393105
+self organize neural,0.0333979927
+network time,0.0326211287
+value neural network,0.0314032256
+cluster self,0.0299162205
+fuzzy time series,0.0286672845
+learn system,0.0286362625
+system fuzzy,0.0256001775
+cluster self organize,0.0253447919
+fuzzy time,0.0244393105
+fuzzy self,0.0244393105
+network self,0.0214022199
+self adaptive,0.0199163732
+fuzzy self organize,0.0186362625
+system self,0.0109284741

@@ -1,0 +1,741 @@
+supply chain,0.9280582569
+markov chain,0.9270754014
+fault tolerant,0.9240709266
+critical infrastructure,0.9236385490
+monte carlo,0.9228608963
+fuzzy logic,0.9222412234
+electric vehicle,0.9216792088
+genetic algorithm,0.9212092583
+nuclear power,0.9211491994
+neural network,0.9203100720
+petri net,0.9195086068
+sensitivity analysis,0.9171818578
+importance measure,0.9149272156
+monte carlo simulation,0.9136495824
+bayesian network,0.9125370537
+nuclear power plant,0.9120034584
+markov model,0.9117606074
+optimal control,0.9110294716
+wind turbine,0.9093357034
+fault tree analysis,0.9080361205
+risk assessment,0.9014141399
+human reliability,0.8968932079
+failure rate,0.8921623039
+bayesian inference,0.8906049480
+spent nuclear fuel,0.8793929160
+fault tolerance,0.8791334627
+yucca mountain,0.8689081123
+probabilistic risk assessment,0.8628499270
+carlo simulation,0.8605170523
+waste isolation pilot plant,0.8597375051
+radioactive waste,0.8555137528
+markov chain monte,0.8491334627
+preventive maintenance,0.8486058509
+procedure nuclear power plant,0.8439873292
+multi objective,0.8385368825
+nuclear fuel,0.8352120245
+power plant,0.8350475911
+bayesian belief network,0.8022122531
+fault detection isolation,0.8017186741
+fault diagnosis,0.7994117966
+condition monitor,0.7931334627
+mountain nevada,0.7860124241
+fault tree,0.7754004482
+fuzzy inference,0.7719265587
+safety assessment,0.7678398413
+human error,0.7671645845
+failure probability,0.7532997670
+procedure nuclear power,0.7527130908
+markov chain monte carlo,0.7487714692
+supply chain management,0.7476077247
+model validation,0.7279990690
+failure mode,0.7252534917
+safety critical software,0.7251472038
+model check,0.7233426476
+uncertainty sensitivity analysis,0.7190862899
+bayesian approach,0.7121860738
+artificial neural network,0.7114016367
+belief network,0.7102076466
+human reliability analysis,0.7096750511
+parameter estimation,0.7062501944
+multi agent,0.7042076466
+mode effect analysis,0.7022849275
+performance evaluation,0.6969151124
+model predictive control,0.6952182465
+yucca mountain nevada,0.6895275085
+performance assessment waste,0.6842015002
+control chart,0.6831594153
+performance assessment propose high,0.6803943323
+performance assessment,0.6760290806
+high level,0.6715186746
+electric power,0.6684395616
+isolation pilot plant,0.6675154736
+probabilistic safety assessment,0.6665903273
+chain monte carlo,0.6619445433
+failure mode effect analysis,0.6614978222
+assessment waste,0.6613966840
+failure mode effect,0.6606158550
+uncertainty quantification,0.6606089700
+design optimization,0.6547908422
+reliability evaluation,0.6409467680
+level radioactive waste repository,0.6288660062
+life cycle,0.6272618173
+uncertainty sensitivity,0.6238903586
+safety critical,0.6207597968
+replacement policy,0.6133824932
+waste repository,0.6126329311
+pilot plant,0.6123590355
+critical software,0.6118222252
+multi state,0.6099008478
+performance assessment propose high level,0.6084873555
+level radioactive waste,0.6084755204
+maintenance optimization,0.6052151870
+data driven,0.6007463826
+tree analysis,0.5992494998
+radioactive waste repository,0.5983320634
+detection isolation,0.5952704315
+parameter uncertainty,0.5841178954
+predictive maintenance,0.5786960723
+procedure nuclear,0.5756445266
+predictive control,0.5747794217
+emergency operate procedure,0.5732592130
+hybrid electric vehicle,0.5722138542
+chain management,0.5706996770
+performance assessment propose,0.5661051436
+cognitive model dynamic probabilistic simulation,0.5620685020
+markov decision,0.5617819396
+waste repository yucca,0.5515960568
+fault tolerant control,0.5506044114
+maintenance schedule,0.5495010735
+spent nuclear,0.5491132728
+nuclear fuel high,0.5488361805
+waste repository yucca mountain,0.5462957932
+function performance assessment waste isolation pilot,0.5442708699
+sensor network,0.5438959538
+assessment propose high level radioactive,0.5402865523
+chain monte,0.5285492098
+repository yucca mountain nevada,0.5274021474
+ear warn,0.5204618580
+radioactive waste repository yucca,0.5198859088
+reliability analysis,0.5181586830
+risk management,0.5170690894
+spent nuclear fuel high,0.5158994431
+maintenance policy,0.5154122998
+dynamic fault tree,0.5110099942
+global sensitivity analysis,0.5100561800
+maintenance plane,0.5096293185
+hybrid electric,0.5067460482
+classes performance assessment,0.5061688934
+high level radioactive,0.5016899979
+assessment propose,0.5012704408
+distribution function,0.4967870862
+security risk,0.4945031184
+assessment propose high level radioactive waste,0.4938390987
+supply chain network,0.4923785819
+high level radioactive waste,0.4921221804
+performance assessment waste isolation,0.4911087078
+discrete event,0.4892724677
+decision tree,0.4863334799
+risk inform,0.4847377113
+series parallel,0.4825956574
+performance assessment propose high level radioactive,0.4820399019
+yucca mountain nevada uncertainty sensitivity,0.4820052927
+performance analysis,0.4780955802
+high level radioactive waste repository,0.4779939066
+mountain nevada uncertainty sensitivity,0.4755967900
+distribution function performance assessment waste,0.4729908628
+statistical analysis,0.4701150110
+water distribution,0.4659172131
+repository yucca mountain nevada uncertainty sensitivity,0.4658136544
+complementary cumulative distribution function performance assessment,0.4646311333
+state estimation,0.4616388753
+propose high,0.4604010883
+scenario classes performance,0.4589304093
+bayesian belief,0.4580733633
+compete failure,0.4579638180
+power distribution,0.4569889649
+waste repository yucca mountain nevada,0.4516011640
+distribution function performance assessment waste isolation,0.4515316062
+assessment waste isolation,0.4491049196
+assessment propose high level,0.4484873555
+probability distribution,0.4479665857
+fuzzy set,0.4451260143
+measure emergency operate procedure,0.4396929896
+cognitive model dynamic,0.4391514658
+simulation operate crew response complex,0.4375398105
+cognitive model dynamic probabilistic,0.4343724632
+nuclear reactor,0.4333947177
+scenario classes performance assessment,0.4325181328
+fuel high,0.4322990761
+performance assessment yucca mountain disposal,0.4308358481
+nuclear fuel high level radioactive waste,0.4300136778
+component importance,0.4279708924
+cumulative distribution function performance assessment waste,0.4278370154
+optimal maintenance policy,0.4270490179
+epistemic uncertainty,0.4233649486
+probabilistic simulation operate crew response complex,0.4206001465
+assessment propose high,0.4201329252
+black box,0.4167738176
+simulation operate crew response,0.4145173190
+quantification margin,0.4133875093
+spent nuclear fuel high level,0.4109881286
+radioactive waste repository yucca mountain nevada,0.4100804598
+imperfect preventive maintenance,0.4087038449
+nuclear fuel high level,0.4086984944
+lifetime distribution,0.4085176451
+quantification margin uncertainty,0.4051213108
+fuel high level radioactive waste,0.4046070844
+dynamic probabilistic simulation operate crew response,0.4041365669
+optimal replacement,0.4015944803
+radioactive waste repository yucca mountain,0.4005554803
+dynamic probabilistic simulation operate,0.3970052220
+optimal maintenance,0.3962273754
+air traffic,0.3961226568
+nuclear fuel high level radioactive,0.3960686242
+repository yucca mountain,0.3959327634
+assessment nuclear power plant,0.3939040354
+propose high level,0.3929916653
+repository performance assessment,0.3928664992
+waste isolation,0.3924031164
+propose high level radioactive waste,0.3923363202
+waste isolation pilot,0.3917597645
+spent nuclear fuel high level radioactive,0.3908438004
+reliability center,0.3891427185
+model dynamic probabilistic simulation operate crew,0.3889457071
+quantitative assessment,0.3883531577
+probabilistic simulation operate crew response,0.3880371312
+associate complementary cumulative distribution function performance,0.3878987148
+policy multi,0.3852832971
+dynamic probabilistic simulation operate crew,0.3828322191
+function performance assessment waste isolation,0.3820624521
+case study,0.3794336733
+quantitative analysis,0.3780217812
+yucca mountain nevada uncertainty sensitivity analysis,0.3773709864
+model dynamic probabilistic simulation operate,0.3739680700
+level radioactive,0.3715612475
+traffic management,0.3704681561
+phase mission,0.3695696435
+function performance assessment,0.3685796915
+probabilistic model,0.3676856561
+probabilistic risk,0.3654008979
+complexity measure emergency operate procedure,0.3646066905
+loss safety,0.3644678499
+approach assess,0.3632171813
+assessment waste isolation pilot,0.3626655843
+nevada uncertainty sensitivity,0.3622624989
+isolation pilot,0.3613818824
+reinforce concrete,0.3595134732
+operate procedure,0.3585012650
+decision support,0.3582720794
+nevada uncertainty sensitivity analysis,0.3581872274
+emergency operate,0.3572884694
+cumulative distribution function performance assessment,0.3551673220
+fuel high level,0.3529524150
+risk analysis,0.3524826324
+steady state,0.3516214736
+analysis application,0.3483581043
+probability loss safety,0.3465974798
+state space,0.3465717280
+dynamic probabilistic simulation,0.3463143840
+function performance assessment waste,0.3454226472
+oil ga,0.3428132793
+periodic inspection,0.3423136261
+performance assessment waste isolation pilot plant,0.3379408630
+accelerate life,0.3353016643
+performance assessment waste isolation pilot,0.3343883166
+mountain nevada uncertainty sensitivity analysis,0.3341964883
+performance assessment yucca,0.3306527252
+simulation model,0.3305955802
+fuel high level radioactive,0.3266258004
+operate crew response complex,0.3264626154
+air traffic management,0.3234680604
+time dependent,0.3222860192
+discrete event system,0.3215823319
+test case,0.3172305347
+global sensitivity,0.3170738461
+verification validation,0.3170433098
+preventive maintenance policy,0.3165695309
+classes performance assessment propose high level,0.3145509876
+yucca mountain disposal,0.3141766109
+fault detection,0.3140018271
+compete risk,0.3120607672
+production plane,0.3114876775
+physic failure,0.3104293578
+assessment waste isolation pilot plant,0.3092805194
+multi criteria,0.3092121134
+scenario classes performance assessment propose high,0.3090719304
+associate complementary cumulative distribution function,0.3082326318
+high level radioactive waste repository yucca,0.3072069324
+thermal hydraulic,0.3066884906
+level radioactive waste repository yucca,0.3064331900
+distribution function performance assessment,0.3061153683
+safety analysis,0.3008013182
+classes performance assessment propose high,0.3001530115
+performance assessment yucca mountain,0.2997541719
+model simulation,0.2982255606
+mode effect,0.2977814562
+fuzzy inference system,0.2934048443
+probability loss,0.2888001421
+thermal hydraulic passive,0.2872652592
+condition maintenance,0.2871050632
+software requirement,0.2855248669
+imperfect inspection,0.2811827616
+time series,0.2810540371
+simulation operate crew,0.2799154620
+assessment yucca mountain disposal system spent,0.2786085741
+mountain disposal system spent nuclear fuel,0.2776634142
+expert system,0.2754202803
+maintenance model multi,0.2744378524
+complex system accident,0.2722748259
+assessment yucca mountain disposal,0.2717290320
+probabilistic safety,0.2711080129
+model dynamic probabilistic simulation,0.2711078005
+preventive maintenance model,0.2700028661
+classes performance,0.2699647249
+maritime transportation,0.2682530990
+cumulative distribution function,0.2675993912
+repository yucca,0.2672964093
+block diagram,0.2653364323
+collision avoidance,0.2651894234
+optimal operation,0.2614550994
+parallel system,0.2611517473
+hydraulic passive,0.2608123064
+real time,0.2605856707
+maintenance model,0.2605583611
+mountain disposal,0.2595965686
+software reliability,0.2586754141
+model dynamic probabilistic,0.2565202691
+event tree,0.2561217468
+waste disposal,0.2520252747
+wind power,0.2514550994
+preventive maintenance schedule,0.2507321968
+optimal design,0.2467915487
+series parallel system,0.2462883158
+cumulative distribution,0.2453446321
+intrusion detection,0.2450773131
+dimensional warranty,0.2440392793
+fault injection,0.2420144843
+uncertainty analysis,0.2409883127
+assessment yucca mountain,0.2393045789
+decision diagram,0.2383775842
+measure emergency operate,0.2357921071
+natural ga,0.2340392793
+response complex,0.2322857072
+two dimensional warranty,0.2282908901
+imperfect repair,0.2277018632
+reliability model,0.2258916105
+margin uncertainty,0.2253489953
+fuzzy logic approach,0.2239856706
+maintenance strategy,0.2236707761
+inspection policy,0.2233108132
+measure emergency,0.2229828226
+probabilistic simulation operate crew,0.2206291702
+multi component,0.2203780931
+classes performance assessment propose,0.2173725738
+level radioactive waste repository yucca mountain,0.2156860144
+distribution function performance,0.2139520141
+deteriorate structure,0.2121796348
+dynamic bayesian network,0.2099416839
+imperfect preventive,0.2099137081
+tolerant control,0.2076507027
+propose high level radioactive waste repository,0.2069782898
+complexity measure emergency operate,0.2060567523
+assessment nuclear,0.2060254141
+waste repository yucca mountain nevada expect,0.2046413312
+human factor,0.2029132797
+air quality,0.2028944524
+propose high level radioactive,0.2008510206
+yucca mountain disposal system spent nuclear,0.1978957109
+common cause failure,0.1976117249
+mountain disposal system spent nuclear,0.1964647996
+mountain disposal system,0.1951712626
+imperfect maintenance,0.1949534351
+complementary cumulative distribution function,0.1909140148
+phase mission system,0.1907235808
+multi state component,0.1893045789
+product development,0.1876507027
+emergency evacuation,0.1872648877
+human organizational,0.1854382933
+propagate failure,0.1847693392
+disposal system spent nuclear,0.1842361785
+analytical model,0.1841425605
+artificial neural,0.1832484804
+unmann aerial vehicle,0.1830250110
+performance assessment yucca mountain disposal system,0.1825995824
+probabilistic simulation operate,0.1818643797
+reliability assessment,0.1814935483
+performance measurement,0.1802322641
+process control,0.1798243786
+dynamic probabilistic,0.1793045789
+knowledge system,0.1782658393
+scenario classes performance assessment propose,0.1772904245
+inference system,0.1765779605
+electrical power,0.1756292160
+complementary cumulative distribution function performance,0.1745282584
+multi unit,0.1741285278
+network model,0.1739346420
+water supply,0.1729132797
+fault coverage,0.1713930453
+complexity measure,0.1673490198
+cognitive model dynamic probabilistic simulation operate,0.1665945125
+artificial intelligence,0.1665932857
+crew response complex,0.1658064092
+offshore wind turbine,0.1642227371
+cumulative distribution function performance,0.1627342324
+mission reliability,0.1623891032
+dependent failure,0.1619231308
+expect dose,0.1611277039
+complex system accident part,0.1604673308
+model predictive,0.1596370032
+diagnosis dynamic,0.1583856706
+delay time,0.1581154812
+unmann aerial,0.1571670614
+spare part,0.1563669198
+part ii,0.1561650550
+system spent nuclear fuel high level,0.1549325519
+binary decision,0.1549003209
+common cause,0.1536576358
+assessment nuclear power,0.1526964664
+response surface,0.1506499235
+assess impact,0.1500162014
+system spent,0.1492891160
+binary decision diagram,0.1477470995
+mountain disposal system spent,0.1463637065
+two dimensional,0.1449979215
+response complex system accident,0.1449501433
+safety security,0.1443921641
+system spent nuclear,0.1439008077
+useful life,0.1409863444
+assessment yucca mountain disposal system,0.1405636173
+offshore wind,0.1404772704
+nuclear waste,0.1383856706
+information system,0.1378763030
+repository yucca mountain nevada expect dose,0.1377439763
+waste repository yucca mountain nevada uncertainty,0.1363439696
+chain network,0.1361528407
+yucca mountain disposal system spent,0.1350109766
+repository yucca mountain nevada expect,0.1346413312
+water distribution system,0.1336677186
+complexity measure emergency,0.1312940782
+linear model,0.1305308721
+propagation uncertainty,0.1302322641
+crew response complex system accident,0.1291534911
+operate crew response,0.1277131902
+yucca mountain disposal system,0.1260623831
+discrete time,0.1255069814
+operate crew response complex system accident,0.1255056361
+two stage,0.1245413005
+optimal inspection,0.1244345577
+mountain nevada uncertainty,0.1243095658
+cold standby,0.1241336485
+complex network,0.1237982952
+transportation system,0.1232809566
+two phase,0.1228157981
+fuzzy expert,0.1220026919
+distribute generation,0.1214066238
+logic approach,0.1205308721
+system optimal,0.1201016575
+human organizational factor,0.1189112823
+bayesian framework,0.1181982952
+stochastic framework,0.1177781271
+repository performance,0.1160816165
+cost optimization,0.1160816165
+semi markov,0.1158096089
+system subject,0.1151581394
+distribution network,0.1147880150
+manufacture system,0.1136342697
+task complexity,0.1135744264
+function performance,0.1133437303
+response complex system accident part,0.1126789605
+hybrid system,0.1125055623
+associate complementary cumulative distribution,0.1105474112
+complementary cumulative,0.1098841412
+passive system,0.1089627748
+surrogate model,0.1085912519
+quality assessment,0.1075745274
+scenario classes,0.1069073575
+yucca mountain nevada uncertainty,0.1067495356
+disposal system spent,0.1067481553
+fuzzy neural,0.1061321795
+mission system,0.1053007728
+model appli,0.1047880150
+dynamic fault,0.1047880150
+disposal system,0.1045824592
+organizational factor,0.1038624886
+associate complementary cumulative,0.1037651059
+nevada uncertainty,0.1037363910
+operate crew,0.1030402663
+operate crew response complex system,0.1027863617
+disposal system spent nuclear fuel high,0.1027757200
+model performance evaluation,0.0995162201
+simulation operate crew response complex system,0.0992965659
+repairable system,0.0989340112
+hydraulic passive system,0.0984028382
+large scale,0.0981193219
+mechanical system,0.0964795028
+system consider,0.0958916946
+rare event,0.0955774935
+repairable component,0.0948500463
+quantitative risk,0.0947880150
+measure multi,0.0947880150
+standby safety,0.0939907772
+simulation operate,0.0939578601
+fuzzy expert system,0.0935438291
+cause failure,0.0933370118
+effect analysis,0.0915982079
+complementary cumulative distribution,0.0910386647
+state component,0.0906964664
+consider wind,0.0899979691
+flow network,0.0896199819
+system spent nuclear fuel high,0.0893772570
+multi component system,0.0890357021
+reliability estimation,0.0888669397
+disposal system spent nuclear fuel,0.0885351858
+aerial vehicle,0.0883594473
+theory application,0.0881982952
+model predict,0.0872198808
+probabilistic simulation,0.0862964664
+warranty claim,0.0855092028
+crew response complex system accident part,0.0853892409
+optimization multi,0.0847880150
+control policy,0.0847880150
+crew response,0.0836137482
+evidence theory,0.0835744264
+response complex system,0.0827690354
+repair model,0.0826982079
+associate complementary,0.0826114140
+reliability optimization,0.0815982079
+critical system,0.0814763030
+growth model,0.0814426972
+computational model,0.0797956384
+mountain nevada expect dose,0.0797524330
+risk impact,0.0788669397
+reliability availability,0.0788669397
+thermal hydraulic passive system,0.0786992679
+safety risk,0.0778648746
+cost model,0.0778648746
+high performance,0.0775745274
+electric power system,0.0769240376
+maintenance cost,0.0747880150
+integrate approach,0.0747880150
+information retrieval,0.0746058379
+analysis result,0.0738637499
+vote system,0.0736236669
+vicinity repository,0.0734584481
+deteriorate system,0.0727660503
+model analysis,0.0719346420
+nevada expect dose,0.0699018629
+mountain nevada expect,0.0699018629
+model water,0.0697956384
+static analysis,0.0689919210
+analysis methodology,0.0689919210
+computer system,0.0686623749
+coherent system,0.0685249574
+yucca mountain nevada expect dose,0.0677439763
+model evaluate,0.0673448622
+offshore oil,0.0665437999
+crew response complex system,0.0659889876
+carlo approach,0.0646006396
+analysis tool,0.0646006396
+safety critical system,0.0644356469
+non repairable,0.0640971467
+safety margin,0.0639907772
+repository yucca mountain nevada uncertainty,0.0633657328
+power system,0.0630384947
+software component,0.0627419210
+process model,0.0619346420
+model framework,0.0619346420
+system spent nuclear fuel,0.0615692811
+event simulation,0.0609836183
+analysis two,0.0607441931
+yucca mountain nevada expect,0.0597524330
+production system,0.0594916946
+assessment yucca,0.0583419210
+assessment safety,0.0580006691
+stochastic model,0.0578648746
+safety reliability,0.0578648746
+model supply,0.0578648746
+model markov,0.0578648746
+model human,0.0578648746
+non linear,0.0569857367
+plant safety,0.0554840024
+complex system,0.0548878866
+failure detection,0.0546006396
+distribution system,0.0544472416
+decision make,0.0538651979
+analysis software,0.0530346420
+safety system,0.0525978498
+fatigue reliability,0.0523412519
+multi state system,0.0521000630
+flow model,0.0517340024
+reliability design,0.0515982079
+system random,0.0492057315
+system application,0.0491807643
+model multi,0.0482825578
+analysis performance,0.0482825578
+uncertainty risk,0.0480006691
+safety performance,0.0478648746
+reliability performance,0.0478648746
+integrate model,0.0478648746
+analysis monte carlo,0.0478648746
+approach risk,0.0478648746
+statistical model,0.0467679753
+network reliability,0.0467679753
+application fuzzy,0.0467679753
+analysis complex,0.0467679753
+model parameter,0.0466058313
+nevada expect,0.0463958086
+optimization safety,0.0454840024
+cognitive model,0.0445919210
+chain model,0.0430346420
+analysis optimization,0.0430346420
+analysis model,0.0430346420
+protection system,0.0428057315
+distribute system,0.0428057315
+dynamic bayesian,0.0427419210
+development safety,0.0427419210
+risk model,0.0419346420
+model technique,0.0417506691
+application reliability,0.0417506691
+model imperfect,0.0415982079
+system reliability,0.0408338427
+model uncertainty,0.0407665078
+redundant system,0.0404392344
+model monte carlo,0.0402967404
+model monte,0.0402967404
+approach reliability,0.0402967404
+control system,0.0398237799
+dynamic system,0.0391807643
+optimization model,0.0382825578
+model performance assessment,0.0382825578
+model optimal,0.0382825578
+control model,0.0382825578
+analysis monte,0.0378648746
+system multiple,0.0372492577
+simulation approach,0.0367679753
+risk evaluation,0.0367679753
+probabilistic approach,0.0367679753
+neural network model,0.0367679753
+network control,0.0367679753
+monte carlo approach,0.0367679753
+fuzzy control,0.0367679753
+fuzzy approach,0.0367679753
+component reliability,0.0367679753
+approach design,0.0367679753
+analysis technique,0.0367679753
+analysis method,0.0367679753
+warn system,0.0361210526
+state system,0.0347768217
+nonlinear system,0.0343441931
+performance model,0.0330346420
+model software,0.0330346420
+model optimization,0.0330346420
+model estimation,0.0330346420
+model approach,0.0330346420
+model application,0.0330346420
+dynamic model,0.0330346420
+approach dynamic,0.0330346420
+analysis safety,0.0330346420
+analysis power,0.0330346420
+analysis fuzzy,0.0330346420
+analysis design,0.0330346420
+data analysis,0.0328724980
+engineer system,0.0328057315
+uncertainty model,0.0319346420
+tree model,0.0319346420
+network analysis,0.0319346420
+model risk,0.0319346420
+model reliability,0.0319346420
+model assessment,0.0319346420
+approach analysis,0.0319346420
+analysis reliability,0.0319346420
+analysis multi,0.0319346420
+analysis control,0.0319346420
+accident part,0.0310479689
+two level,0.0293090609
+automate system,0.0287333333
+system accident part,0.0283998531
+model performance,0.0282825578
+analysis risk,0.0282825578
+analysis dynamic,0.0282825578
+reliability risk,0.0269422654
+model fuzzy,0.0269422654
+assessment model,0.0269422654
+approach model,0.0269422654
+standby system,0.0261210526
+railway system,0.0261210526
+critical infrastructure system,0.0249131779
+model dynamic,0.0246825578
+model safety,0.0243665078
+model process,0.0243665078
+model maintenance,0.0243665078
+model fault,0.0243665078
+fuzzy model,0.0243665078
+failure analysis,0.0243665078
+design analysis,0.0243665078
+analysis fault,0.0243665078
+analysis approach,0.0243665078
+physical system,0.0243441931
+policy system,0.0231768595
+embedd system,0.0229225063
+degrade system,0.0224846889
+simulation analysis,0.0220325578
+failure model,0.0220325578
+system reliability assessment,0.0192547013
+system intelligent,0.0150000000
+component system,0.0131768595
+maintenance policy system,0.0111798446
+system availability,0.0105101928
+system identification,0.0087333333
+system common,0.0087333333
+generation system,0.0087333333
+system system,0.0067768595
+system statistical,0.0067768595
+system risk,0.0067768595
+system reliability analysis,0.0067768595
+system plane,0.0067768595
+system performance,0.0067768595
+system nuclear,0.0067768595
+system multi,0.0067768595
+system monte carlo,0.0067768595
+system monte,0.0067768595
+system imperfect,0.0067768595
+system fault,0.0067768595
+system failure,0.0067768595
+system effect,0.0067768595
+system dynamic,0.0067768595
+system development,0.0067768595
+system case,0.0067768595
+system assess,0.0067768595
+system approach,0.0067768595
+system accident,0.0067768595
+maintenance system,0.0067768595
+integrate system,0.0067768595
+dependent system,0.0067768595
+time analysis,0.0050000000
+system two,0.0050000000
+system software,0.0050000000
+system simulation,0.0050000000
+system safety,0.0050000000
+system quantitative,0.0050000000
+system probabilistic,0.0050000000
+system non,0.0050000000
+system monitor,0.0050000000
+system model,0.0050000000
+system maintenance,0.0050000000
+system level,0.0050000000
+system integrate,0.0050000000
+system hybrid,0.0050000000
+system fuzzy,0.0050000000
+system design,0.0050000000
+system bayesian,0.0050000000
+system analysis,0.0050000000
+reliability system,0.0050000000
+monitor system,0.0050000000
+model system,0.0050000000
+management system,0.0050000000
+logic system,0.0050000000
+infrastructure system,0.0050000000
+fuzzy system,0.0050000000
+event system,0.0050000000
+analysis system,0.0050000000

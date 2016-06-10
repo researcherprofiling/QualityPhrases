@@ -1,0 +1,758 @@
+optimization problem,0.8796552947
+location problem,0.8746514719
+parallel algorithm,0.8725290036
+evolutionary algorithm,0.8722348379
+iterative method,0.8720981839
+level set,0.8676617313
+combinatorial optimization,0.8670920902
+optimal control problem,0.8666926339
+optimal control,0.8665921936
+schedule problem,0.8639323090
+numerical solution,0.8637414075
+multi objective optimization,0.8629642829
+algorithm solve,0.8625290036
+discriminant analysis,0.8625221666
+objective function,0.8608796004
+quadratic program,0.8592241689
+assignment problem,0.8586946716
+basis function,0.8585735184
+wavelet transform,0.8571033457
+genetic algorithm,0.8566047925
+dynamic program,0.8557350765
+saddle point,0.8552750739
+float point,0.8533319120
+approximation algorithm,0.8525164131
+linear program,0.8524785633
+radial basis function,0.8522945573
+support vector machine,0.8518814356
+differential equation,0.8515853022
+integer program,0.8509892678
+partial differential equation,0.8509661397
+sensitivity analysis,0.8509461864
+square root,0.8504796169
+particle swarm optimization,0.8494462699
+simple polygon,0.8485395272
+differential evolution,0.8483338946
+tabu search,0.8481506095
+sparse matrix,0.8471041309
+large sparse,0.8458390969
+piecewise linear,0.8447127171
+sparse approximate,0.8428731861
+inverse problem,0.8420487721
+matrix factorization,0.8420376419
+finite element,0.8412254423
+elliptic curve,0.8407854163
+automatic differentiation,0.8387585938
+objective optimization,0.8382999568
+constrain optimization,0.8381998141
+polynomial chao expansion,0.8380424617
+convex hull,0.8375988243
+parameter estimation,0.8367304902
+approximation scheme,0.8344507303
+minimum spane,0.8327940244
+neural network solve,0.8294753501
+ant colony optimization,0.8294424793
+algebraic equation,0.8274093323
+np hard,0.8272595255
+shortest path,0.8252195661
+knapsack problem,0.8225932789
+total variation,0.8208642836
+neural network,0.8193463691
+positive definite,0.8188631292
+ant colony,0.8183343997
+interior point,0.8174950669
+conjugate gradient,0.8170728159
+integral equation,0.8158225821
+domain decomposition,0.8157132881
+linear quadratic,0.8155315244
+fast multipole,0.8128436744
+network solve,0.8122469877
+discrete logarithm,0.8070539449
+shortest path problem,0.8059961751
+series parallel,0.7987704926
+polynomial chao,0.7979720869
+local search,0.7970458576
+global sensitivity analysis,0.7960543077
+search algorithm,0.7956966042
+linear equation,0.7956410014
+stability analysis,0.7876719668
+sparse matrices,0.7799013769
+stochastic differential equation,0.7798629024
+colony optimization,0.7790807364
+fix point,0.7745842887
+newton method,0.7734155580
+approximate inverse,0.7724732615
+primal dual,0.7685657460
+vector machine,0.7580261564
+convex optimization,0.7573733059
+elliptic partial differential equation,0.7534483595
+cubic spline,0.7455814769
+salesman problem,0.7368384119
+shop schedule problem,0.7356099410
+projection neural network,0.7320739695
+symmetric positive definite,0.7320076805
+minimum spane tree,0.7222382097
+min max,0.7173096907
+linear discriminant analysis,0.6958981817
+job shop schedule problem,0.6909662587
+recurrent neural network,0.6899244307
+symmetric matrices,0.6873785125
+negative matrix factorization,0.6854045709
+linear matrix inequality,0.6835953922
+matrix vector multiplication,0.6812880147
+alternate direction,0.6780556672
+variational inequality,0.6512451155
+chao expansion,0.6438660058
+singular perturb,0.6394340695
+float point summation,0.6372148091
+variational data assimilation,0.6349492882
+job shop schedule,0.6244084810
+shop schedule,0.6151547582
+spectral factorization,0.6119200568
+spane tree,0.5977501295
+problem solve,0.5970059371
+minimum cost,0.5950227904
+minimal residual,0.5892702604
+particle swarm optimization algorithm,0.5822188739
+facility location problem,0.5795427627
+partial differential,0.5773597032
+fix parameter,0.5718252614
+redundancy allocation problem,0.5714764691
+ordinary differential equation,0.5521247932
+series parallel system,0.5483649968
+approach solve,0.5452702604
+error estimation,0.5433406343
+efficient algorithm,0.5391084765
+allocation problem,0.5232108286
+fuzzy linear program,0.5198199538
+spline collocation,0.5187376537
+square estimation,0.5170697927
+sparse approximate inverse,0.5142820611
+differential evolution algorithm,0.5053932871
+fast transform,0.5045317344
+route problem,0.5038239028
+radial basis,0.5036503721
+fast algorithm,0.5034273179
+efficient parallel,0.5009286737
+algorithm minimum,0.5001746499
+flexible job shop,0.4962789146
+large scale,0.4889643395
+curve surface,0.4792818194
+matrix vector,0.4778696063
+method linear,0.4756178371
+optimal solution,0.4749616408
+polygonal approximation,0.4742346434
+eigenvalue problem,0.4739110215
+optimization algorithm,0.4598511193
+low rank,0.4597855313
+facility location,0.4554677957
+total least square,0.4531552740
+swarm optimization,0.4507681881
+linear algebra,0.4480797781
+image restoration,0.4463496336
+optimal parallel,0.4460097548
+algorithm computing,0.4439128223
+multi objective,0.4407055408
+program approach,0.4397298026
+hybrid particle swarm,0.4378997523
+nonlinear optimization,0.4361793005
+solve linear,0.4347073532
+ill pose problem,0.4342173098
+boundary value problem,0.4299884422
+linear program problem,0.4281251867
+solution linear,0.4207703317
+support vector,0.4183453492
+constrain optimization problem,0.4158452225
+swarm optimization algorithm,0.4137606028
+hybrid particle swarm optimization,0.4130604194
+error bound,0.4075415698
+efficient computation,0.4065985042
+neural network solve linear,0.4036230310
+quadratic assignment problem,0.4012978016
+recursive least square,0.4000047538
+objective genetic algorithm,0.3976651217
+linear elasticity,0.3940062140
+predictive control,0.3929616985
+fuzzy linear,0.3901031789
+global sensitivity,0.3891580187
+job shop,0.3887242440
+particle swarm,0.3808262363
+improve algorithm,0.3792811894
+matrix inequality,0.3791562674
+redundancy allocation,0.3785176903
+singular value decomposition,0.3741124194
+gradient algorithm,0.3722484918
+subspace method,0.3681217846
+sum square,0.3663777294
+quasi minimal residual,0.3639722588
+algorithm maximum,0.3616054577
+program problem,0.3591928130
+cover problem,0.3556903915
+exact algorithm,0.3549264656
+cost function,0.3548159258
+decomposition algorithm,0.3542188527
+tree problem,0.3527606415
+multi objective genetic,0.3504554863
+solution inverse,0.3490680173
+quadratic assignment,0.3444574753
+decomposition method,0.3440930695
+network solve linear,0.3428266668
+sparse matrix vector multiplication,0.3371532145
+solve nonlinear,0.3368666380
+point problem,0.3354188527
+pose problem,0.3321144300
+randomize algorithm,0.3318456717
+elliptic problem,0.3284984722
+quadratic program problem,0.3280750641
+mix integer,0.3241194742
+elliptic partial differential,0.3187582967
+trust region,0.3178007255
+sparse matrix vector,0.3161368642
+multi objective genetic algorithm,0.3160392563
+control problem,0.3139128223
+radial basis function interpolation,0.3131779230
+elliptic partial,0.3125025753
+linear discriminant,0.3118690298
+flexible job shop schedule,0.3109448566
+problem hybrid,0.3098407513
+sparse linear,0.3073001293
+square estimate,0.3036660713
+constraint satisfaction problem,0.2994831100
+path problem,0.2956998305
+simulate anneal,0.2944379568
+simulate anneal algorithm,0.2935216779
+non linear,0.2929357366
+objective genetic,0.2929161312
+domain decomposition method,0.2925139995
+least trimm square,0.2916703537
+matrix decomposition,0.2905915093
+improve approximation,0.2901547537
+approximate solution,0.2896817908
+optimization series parallel,0.2884020289
+divide conquer algorithm,0.2882455330
+problem random,0.2870183594
+coordinate descent algorithm,0.2854696895
+function approximation,0.2850717803
+rational function,0.2842742591
+linear system,0.2833947129
+orthogonal spline,0.2827131784
+hybrid genetic,0.2816876721
+saddle point problem,0.2800288514
+problem evolutionary algorithm,0.2796665433
+point boundary,0.2794761798
+block matrices,0.2758325405
+inverse scatter problem,0.2752285820
+iterative solver,0.2737476612
+flow shop,0.2729446974
+linear program approach,0.2728687724
+convex polygon,0.2727307023
+problem efficient,0.2697005860
+spline curve,0.2696876721
+shape parameter,0.2693726612
+learn algorithm,0.2684608121
+matrix equation,0.2672437943
+flexible job shop schedule problem,0.2672210770
+discrete logarithm problem,0.2669897095
+multiple right hand,0.2662273990
+flow shop schedule problem,0.2658844463
+square algorithm,0.2655955983
+fuzzy linear program problem,0.2652378653
+boundary value,0.2651949916
+problem parallel,0.2645611155
+system identification,0.2641181504
+transfer function,0.2631610442
+green function,0.2631610442
+nonlinear elliptic,0.2604786943
+basis function interpolation,0.2590431396
+conquer algorithm,0.2582431371
+selection problem,0.2582431371
+stochastic differential,0.2578920182
+genetic algorithm solve,0.2566860549
+algorithm application,0.2554188527
+combinatorial problem,0.2538139600
+scatter problem,0.2520128827
+solve fuzzy,0.2512549997
+orthogonal spline collocation,0.2502276743
+solve linear program,0.2501753555
+matrix pencil,0.2497126497
+symmetric positive,0.2492823078
+point boundary value,0.2485955781
+non negative matrix,0.2464555121
+matrix completion,0.2461748207
+parametric quadratic program,0.2460812490
+algorithm large scale,0.2446005368
+non negative matrix factorization,0.2441702619
+logarithm problem,0.2437907990
+monte carlo,0.2432923269
+fundamental solution,0.2415743350
+algorithm generalize,0.2411419296
+improve approximation algorithm,0.2406081973
+flow shop schedule,0.2403846700
+evolution algorithm,0.2397930749
+semidefinite program,0.2394191693
+problem evolutionary,0.2385325375
+discrete time,0.2374562256
+ordinary differential,0.2362241684
+cut problem,0.2351487212
+convex quadratic,0.2346848392
+value problem,0.2333357118
+matrix inversion,0.2322078722
+method large,0.2307097974
+inequality constraint,0.2299739140
+negative matrix,0.2295029091
+fast computation,0.2289240999
+divide conquer,0.2269418512
+geometric approach,0.2268523564
+relate problem,0.2260394311
+search heuristic,0.2255165350
+multiple objective,0.2226896635
+constraint satisfaction,0.2223645193
+penalty function,0.2162293679
+genetic algorithm approach,0.2157621629
+matrix multiplication,0.2152869046
+singular value,0.2151949916
+efficient solution,0.2150945496
+sparse representation,0.2145501286
+mean square,0.2144237865
+satisfaction problem,0.2140548308
+performance analysis,0.2137707445
+solution inverse problem,0.2135872020
+objective linear program problem,0.2116850622
+recursive algorithm,0.2116278053
+descent algorithm,0.2089673745
+symmetric eigenvalue,0.2088278741
+solution linear system,0.2077570590
+value decomposition,0.2068202031
+projection method,0.2065084500
+fast gaus transform,0.2060754413
+method solve,0.2045956430
+algorithm linear,0.2022295808
+optimal parallel algorithm,0.2021532184
+hybrid particle,0.2020805533
+error estimate,0.2017586478
+network design,0.2014312442
+minimum cut,0.1991275553
+differential algebraic equation,0.1983956904
+two point boundary value,0.1979228075
+efficient parallel algorithm,0.1976964689
+general sparse,0.1976896233
+nonlinear equation,0.1973802639
+problem arise,0.1970486666
+minimum weight,0.1945896926
+chance constrain,0.1941770501
+path plane,0.1936227960
+solution algebraic,0.1935161884
+data assimilation,0.1928542141
+algorithm determine,0.1926526814
+discrete wavelet transform,0.1920780790
+point summation,0.1919491376
+symmetric eigenvalue problem,0.1902510363
+square error,0.1902056724
+linear time,0.1873765470
+fast accurate,0.1868206672
+sparse grid,0.1867011038
+primal dual approximation,0.1860747283
+polynomial approximation,0.1850945496
+flow problem,0.1846544397
+flexible job,0.1843785506
+unifi approach,0.1841385553
+three dimensional,0.1833602389
+point set,0.1831422911
+ant colony optimization algorithm,0.1828983941
+parallel computation,0.1813802639
+search tree,0.1802016549
+projection algorithm,0.1799444419
+objective linear program,0.1787970139
+gaus transform,0.1786625810
+algorithm large,0.1785325375
+projection neural,0.1776396753
+primal dual approximation algorithm,0.1772833463
+definite matrix,0.1761835960
+component analysis,0.1760646733
+meta heuristic,0.1756800899
+portfolio selection problem,0.1746391754
+plane curve,0.1742523902
+problem fuzzy,0.1741907319
+fuzzy random,0.1741181911
+problem improve,0.1739238125
+curve fit,0.1736627793
+program fuzzy,0.1730127751
+linear time algorithm,0.1726001348
+trimm square,0.1721023287
+elliptic boundary value problem,0.1718904500
+problem modifi,0.1717088066
+dual approximation algorithm,0.1716687406
+nonlinear program,0.1713802639
+elliptic equation,0.1708893267
+inverse scatter,0.1706436541
+backward error,0.1703216592
+combinatorial optimization problem,0.1695258324
+non negative,0.1684960297
+matrix free,0.1675648479
+function interpolation,0.1675354805
+complex symmetric,0.1672531368
+fast gaus,0.1666119864
+algebraic curve,0.1665053547
+recurrent neural,0.1663393380
+algorithm line,0.1661348864
+discrete wavelet,0.1654708719
+square problem,0.1651886157
+positive definite matrix,0.1641401536
+covering problem,0.1639890516
+hard problem,0.1636011175
+fuzzy optimization problem,0.1631871820
+branch bound,0.1625723582
+colony algorithm,0.1617584371
+anneal algorithm,0.1615628074
+genetic program,0.1601547537
+square regression,0.1597225184
+variational data,0.1594295365
+solve linear system,0.1593328754
+spline surface,0.1587267071
+near optimal,0.1582785364
+quasi minimal,0.1579297927
+sparse linear system,0.1577261297
+orthogonal decomposition,0.1570263707
+maximum likelihood,0.1569607868
+vector multiplication,0.1564617393
+incomplete factorization,0.1564617393
+global optimization,0.1559199581
+problem penalty,0.1558147366
+piecewise polynomial,0.1554590592
+trigonometric polynomial,0.1549102259
+inexact newton,0.1543392755
+evolutionary computation,0.1543307185
+multiple right hand side,0.1534176980
+optimization series,0.1532304741
+convergence analysis,0.1530936448
+problem genetic algorithm,0.1530404970
+direct solver,0.1525723582
+computational complexity,0.1523290022
+objective reliability,0.1516736751
+fully fuzzy linear,0.1514560178
+set membership,0.1513561420
+block diagonal,0.1513561420
+system multiple right hand,0.1513114909
+state space,0.1511361067
+shape optimization,0.1510078411
+stoke equation,0.1500140854
+parametric quadratic,0.1498741872
+function gradient,0.1495161884
+point boundary value problem,0.1488586064
+algorithm minimum cost,0.1487045788
+error analysis,0.1481866616
+tensor structure,0.1466634465
+reduce basis,0.1463740200
+subspace identification,0.1461789937
+smooth spline,0.1461789937
+matrices application,0.1455161884
+reliability redundancy allocation,0.1447023185
+particle filter,0.1443307185
+adaptive filter,0.1443307185
+multiple right,0.1438374265
+multipole algorithm,0.1432531944
+transform fast,0.1427040199
+fast multipole algorithm,0.1424879459
+least square algorithm,0.1423454273
+transportation problem,0.1410947408
+binary search,0.1409086699
+center problem,0.1403339378
+competitive algorithm,0.1390210588
+linear model,0.1385424605
+generalize eigenvalue,0.1383200478
+high dimensional,0.1381989246
+function solve,0.1381681155
+total variation minimization,0.1380598920
+generalize eigenvalue problem,0.1378632693
+high order,0.1364762177
+branch cut,0.1363662810
+plane problem,0.1362204562
+lu factorization,0.1359811420
+hybrid genetic algorithm,0.1357736399
+recursive least,0.1356515467
+piecewise constant,0.1350986952
+vehicle route,0.1346604780
+fully fuzzy,0.1340370600
+multilevel algorithm,0.1337038746
+parallel sparse,0.1334838293
+max min,0.1330795869
+dominate set,0.1326185689
+gradient method,0.1323895602
+problem simple,0.1323715746
+linear least square,0.1323572515
+elliptic boundary,0.1323329531
+high performance,0.1322435216
+problem optimal,0.1318785425
+minimization problem,0.1317088066
+cut algorithm,0.1317088066
+regression algorithm,0.1317038746
+method computing,0.1316183741
+quasi newton,0.1314786928
+rank function,0.1313308816
+method numerical,0.1313308816
+frequency domain,0.1309489179
+program problem fuzzy,0.1309487077
+stochastic approximation,0.1309434778
+coordinate descent,0.1303132401
+multi criteria,0.1297691130
+constrain linear,0.1296953201
+regularization parameter,0.1296373009
+dual approximation,0.1294449478
+first order system least square,0.1292836207
+algorithm multi,0.1290242502
+optimization genetic,0.1287272161
+lower bound,0.1287243570
+solve optimal,0.1285424605
+estimation linear,0.1285424605
+model reduction,0.1275237010
+match algorithm,0.1274456487
+optimization approach,0.1273951227
+algorithm geometric,0.1267779487
+initial value,0.1250113330
+multi state,0.1250075876
+gradient descent,0.1245570006
+differential algebraic,0.1244453931
+portfolio selection,0.1243391800
+variation minimization,0.1241722934
+partition unity,0.1235668126
+stochastic collocation,0.1229469214
+closest pair,0.1224344522
+least square,0.1222943117
+problem neural,0.1218077416
+point algorithm,0.1218077416
+reliability redundancy,0.1217648859
+newton algorithm,0.1210749438
+solution fuzzy,0.1210346193
+cluster algorithm,0.1203309287
+problem computational,0.1198951236
+algorithm generate,0.1198951236
+approach multi,0.1187768766
+boundary integral,0.1187138440
+modifi algorithm,0.1179895889
+rational surface,0.1170229159
+fuzzy relation,0.1158833589
+evolutionary optimization,0.1157502422
+system multiple right hand side,0.1157499423
+fuzzy goal,0.1150060522
+forward backward,0.1147148389
+equality constrain,0.1146213412
+system multiple right,0.1142140199
+minimum sum,0.1135077901
+solve multi,0.1125350447
+rank matrix,0.1122563568
+matrix approach,0.1109187815
+fuzzy multi,0.1102914311
+circular arc,0.1100620545
+fuzzy optimization,0.1097815037
+two dimensional,0.1092836207
+application matrix,0.1089502422
+solve large,0.1084614016
+equation fuzzy,0.1082718868
+quadric surface,0.1075935078
+colony optimization algorithm,0.1075816326
+objective linear,0.1068278542
+linear differential,0.1067586768
+partition algorithm,0.1055915254
+general linear,0.1046982206
+linear matrix,0.1043915254
+iterative solution,0.1041307227
+time approximation scheme,0.1033331510
+computing minimum,0.1026952307
+solution multiple,0.1021307227
+equation multiple,0.1020718095
+fast solution,0.1020470627
+time vary,0.1018599991
+solution sparse,0.1009187815
+solve multi objective,0.1006703633
+optimization genetic algorithm,0.1006077416
+linear optimization,0.1006077416
+algorithm optimization,0.1006077416
+nonlinear system,0.1004492116
+population diversity,0.1003823885
+type method,0.1000636517
+solve multiple,0.0991040883
+regularize least square,0.0976933067
+two point boundary,0.0969495954
+type algorithm,0.0962204562
+optimization method,0.0962204562
+total least,0.0952102357
+method application,0.0950081794
+combinatorial algorithm,0.0949152303
+algorithm modifi,0.0947074297
+first order,0.0944780742
+optimization fuzzy,0.0938421005
+order system least square,0.0935446477
+problem multilevel,0.0930137876
+problem neural network,0.0921366548
+parallel approximation,0.0921366548
+filter algorithm,0.0918077416
+factorization algorithm,0.0918077416
+algorithm sparse,0.0918077416
+algorithm polynomial,0.0918077416
+elliptic boundary value,0.0917915940
+hand side,0.0909676990
+algorithm stochastic,0.0906077416
+algorithm approach,0.0906077416
+algorithm adaptive,0.0906077416
+optimal algorithm,0.0906077416
+network problem,0.0906077416
+algorithm max,0.0900285306
+square method,0.0893173828
+np hard problem,0.0881386533
+least square regression,0.0880506326
+problem solution,0.0875308185
+linear nonlinear,0.0858558849
+problem exact,0.0855915254
+algorithm cluster,0.0855915254
+problem rational,0.0849152303
+algorithm dynamic,0.0843915254
+initial value problem,0.0837517171
+find multiple,0.0835818360
+orthogonal least square,0.0835702580
+algorithm multi objective,0.0832243060
+right hand side,0.0831627171
+ill conditione,0.0821344081
+swarm algorithm,0.0818077416
+solve problem,0.0818077416
+program algorithm,0.0818077416
+problem linear,0.0818077416
+problem iterative,0.0818077416
+problem general,0.0818077416
+problem bound,0.0818077416
+problem approximate,0.0818077416
+problem adaptive,0.0818077416
+numerical algorithm,0.0818077416
+iterative algorithm,0.0818077416
+estimation algorithm,0.0818077416
+equation algorithm,0.0818077416
+analysis algorithm,0.0818077416
+algorithm partial,0.0818077416
+algorithm parallel,0.0818077416
+algorithm nonlinear,0.0818077416
+algorithm multiple,0.0818077416
+algorithm fuzzy,0.0818077416
+algorithm discrete,0.0818077416
+algorithm constrain,0.0818077416
+search problem,0.0806077416
+problem multi,0.0806077416
+design problem,0.0806077416
+partial least square,0.0803001739
+problem application,0.0801160428
+non linear system,0.0789980412
+optimization multi,0.0789611481
+linear constrain,0.0789611481
+algorithm particle,0.0786184697
+time series,0.0779351873
+problem multiple,0.0775308185
+fast parallel,0.0775255608
+solution large,0.0774040945
+ill pose,0.0764923560
+first order system least,0.0759778554
+optimization application,0.0758789671
+right hand,0.0758320801
+two point boundary value problem,0.0748714322
+program model,0.0743774602
+polynomial time algorithm,0.0732131161
+function linear,0.0724022535
+algorithm orthogonal,0.0724022535
+linear least square problem,0.0723412620
+problem discrete,0.0712500486
+algorithm symmetric,0.0712500486
+algorithm matrix,0.0712500486
+algorithm linear program,0.0712500486
+algorithm fast,0.0712500486
+problem approximation algorithm,0.0705547649
+partial least,0.0705252485
+solution algorithm,0.0705025157
+set problem,0.0705025157
+problem algorithm,0.0705025157
+algorithm problem,0.0705025157
+adaptive algorithm,0.0705025157
+time algorithm,0.0694018993
+tree algorithm,0.0686184697
+problem numerical,0.0686184697
+problem computing,0.0686184697
+approximation problem,0.0686184697
+algorithm search,0.0686184697
+linear approximation,0.0681390956
+identification problem,0.0681390956
+heuristic algorithm,0.0681390956
+identification algorithm,0.0678656789
+control algorithm,0.0678656789
+least mean square,0.0668234314
+least square estimation,0.0655439760
+order system least,0.0647269923
+problem optimization,0.0643553118
+problem nonlinear,0.0643553118
+problem minimum,0.0643553118
+problem generalize,0.0643553118
+algorithm approximate,0.0643553118
+polynomial time,0.0637771179
+space time,0.0636244220
+equation parallel,0.0628697248
+schedule algorithm,0.0616544017
+problem stochastic,0.0616544017
+problem fast,0.0616544017
+algorithm optimal,0.0616544017
+algorithm efficient,0.0616544017
+complex value,0.0609438260
+regularize least,0.0605252485
+first order system,0.0604190650
+problem block,0.0596942179
+problem approximation,0.0596942179
+algorithm algorithm,0.0596942179
+problem matrix,0.0594293859
+problem genetic,0.0594293859
+algorithm genetic,0.0594293859
+dynamical system,0.0556806681
+two point,0.0552485026
+summation part,0.0539865698
+solution non,0.0526962472
+computing least,0.0526962472
+ant system,0.0519865698
+real time,0.0509438260
+fuzzy mean,0.0505252485
+least mean,0.0497891851
+least square problem,0.0480358779
+least trimm,0.0465939316
+control system,0.0461703851
+dynamic system,0.0443846708
+second order,0.0436578851
+part ii,0.0436578851
+inner outer,0.0436578851
+orthogonal least,0.0436244220
+continuous time,0.0436244220
+order system,0.0433954207
+algorithm find,0.0412053934
+problem one,0.0412029838
+two stage,0.0397206844
+time dependent,0.0397206844
+linear system parallel,0.0388175711
+least square method,0.0386800056
+two level,0.0369429066
+method least,0.0367056052
+parallel system,0.0366360780
+system arise,0.0352485026
+problem two,0.0345363172
+algorithm two,0.0345363172
+algorithm system,0.0345363172
+system nonlinear,0.0344279840
+system optimal,0.0331674798
+system multi,0.0331674798
+system equation,0.0331674798
+system application,0.0331674798
+system efficient,0.0324678002
+time approximation,0.0323942913
+system multiple,0.0323942913
+linear least,0.0323572515
+system algebraic,0.0316160521
+system solve,0.0313817655
+system parallel,0.0312072960
+system fast,0.0312072960
+problem time,0.0305715372
+algorithm non,0.0305715372
+system linear,0.0274195014
+system iterative,0.0267198218
+time system,0.0237458981
+system least square,0.0237458981
+system least,0.0237458981

@@ -1,0 +1,642 @@
+text mining,0.9186126105
+information technology,0.9164241771
+semantic web,0.9154081478
+content analysis,0.9147910972
+special topic,0.9133853378
+web search,0.9115739800
+social network,0.9097102096
+citation analysis,0.9062668781
+information science,0.9055701803
+web search engine,0.9036709871
+user profile,0.9017882339
+world wide web,0.8992931126
+social media,0.8932185301
+neural network,0.8924297345
+semantic similarity,0.8913734843
+health informatics,0.8905403692
+impact factor,0.8897431657
+topic model,0.8891160545
+data mining,0.8885626363
+artificial intelligence,0.8884346008
+foreword special,0.8877180508
+social science,0.8876417631
+knowledge discovery,0.8873538919
+natural language,0.8868556033
+sentiment analysis,0.8867428873
+big data,0.8847816289
+open access journal,0.8824461460
+open access,0.8814652530
+search engine,0.8795749317
+social tag,0.8789538919
+library catalog,0.8788862723
+language model,0.8784481400
+peer review,0.8776640037
+information retrieval,0.8716021327
+content image,0.8687328036
+editorial introduction special,0.8605007628
+text classification,0.8591949670
+text categorization,0.8566278186
+seek behavior,0.8539892837
+theory practice,0.8529682882
+relevance judgment,0.8518128182
+relevance feedback,0.8458095550
+question answer,0.8414159045
+similarity measure,0.8366964626
+literature review,0.8362754138
+domain specific,0.8353875013
+context sensitive,0.8254797631
+select paper ieee,0.8075359915
+content image retrieval,0.8048045995
+paper special,0.8033005622
+editorial introduction,0.8031754393
+peer peer,0.8029278310
+search result,0.7932805657
+systematic literature review,0.7921179819
+image retrieval,0.7914259728
+opinion paper,0.7853771655
+editorial special section,0.7823867697
+knowledge data engineer,0.7782483014
+wide web,0.7779999207
+ieee access special,0.7743705449
+document retrieval,0.7674919981
+research agenda,0.7669721423
+guest editor introduction special,0.7667629547
+guest editorial introduction,0.7667609886
+long term,0.7638582698
+latent semantic index,0.7627595517
+international conference,0.7624341428
+editor introduction special,0.7576720456
+arabic text,0.7515587272
+guest editorial introduction special section,0.7501339110
+editor foreword special,0.7451202025
+library information science,0.7330221030
+online catalog,0.7187515186
+special theme,0.7160813343
+journal article,0.7101196950
+library information,0.7098385614
+guest editor introduction special section,0.7093680534
+latent semantic,0.7009191824
+web page,0.7005955616
+guest editorial special select paper,0.6990292603
+query expansion,0.6980277183
+introduction special topic,0.6949803935
+international workshop,0.6863291159
+ieee access special section,0.6817607622
+guest editor foreword,0.6811604196
+special topic section,0.6705396402
+introduction special topic section,0.6689252186
+digital library,0.6617145016
+section international conference data engineer,0.6598694368
+document cluster,0.6516671594
+introduction special section,0.6420125955
+editorial introduction special section,0.6357295518
+cross language information,0.6351645942
+introduction special,0.6341941434
+editor foreword,0.6254660378
+guest editorial special,0.6177454366
+end user,0.6119995877
+information retrieval system,0.6043662925
+natural language process,0.5998737570
+workshop report,0.5943449618
+knowledge management,0.5932223941
+citation impact,0.5921885840
+special select paper,0.5826203172
+ieee access special section editorial,0.5809306151
+machine learn,0.5780723780
+structural realism,0.5774121431
+introduction special theme,0.5768363524
+editorial special select paper,0.5765893581
+access special section editorial,0.5696620591
+web site,0.5633025627
+cross language information retrieval,0.5625921399
+information seek,0.5625768816
+search behavior,0.5604039218
+special section international conference data engineer,0.5600963735
+world wide,0.5595679755
+guest editorial special section,0.5509500148
+electronic publish,0.5506131129
+scientific literature,0.5472447419
+academic library,0.5448070201
+engineer guest,0.5391112642
+philosophy science,0.5266162681
+editor introduction special section,0.5234945083
+social science humanity,0.5232669171
+special section international conference data,0.5179850392
+online search,0.5167468206
+select paper,0.5165776445
+guest editorial,0.5133047508
+language information retrieval,0.5122185026
+user preference,0.5078978013
+editorial math log,0.5042973900
+editorial board change,0.5034973900
+special section editorial,0.5034416787
+access special section,0.5004962174
+conference data engineer,0.4978049687
+international conference data engineer,0.4972861283
+retrieval system,0.4942173960
+editorial board,0.4939624250
+biomedical health informatics,0.4891543727
+text retrieval,0.4830464811
+select peer review article,0.4799924839
+xml document,0.4790602443
+structure document,0.4787981548
+part ii,0.4774089617
+special select,0.4765064151
+information system,0.4748637649
+section international conference,0.4742973900
+automatic query expansion,0.4735373048
+select article,0.4711602456
+software engineer,0.4685127572
+interactive information retrieval,0.4634348133
+research front,0.4604128730
+historical document,0.4554755386
+editorial special select,0.4535973522
+guest editorial special select,0.4475143972
+high cite,0.4457093940
+retrieval effectiveness,0.4420853808
+statistical analysis data mining,0.4356251618
+web search result,0.4324344280
+controll vocabulary,0.4284714026
+name entity,0.4274051449
+scientific realism,0.4269621724
+guest editorial introduction special,0.4125257665
+link open data,0.4122934052
+foreword guest editor,0.4113549033
+formal method,0.4105967606
+information seek behavior,0.4050739201
+data engineer,0.4010297853
+cognitive style,0.4009506167
+automatic index,0.3938835547
+collaborative filter,0.3916157949
+ieee transaction,0.3889358123
+end user search,0.3867668944
+select peer review,0.3862913076
+data source,0.3836109627
+geographic information,0.3834103658
+title word,0.3744331031
+sentiment classification,0.3725727721
+preface special,0.3722100445
+special computational,0.3690465618
+section international conference data,0.3680825598
+special best paper,0.3602829649
+cross language,0.3584575950
+digital age,0.3579101025
+educational activity board award,0.3559464039
+international conference data,0.3556977819
+information science research,0.3532011592
+paper guest,0.3524674287
+user search behavior,0.3518605259
+copper mountain,0.3500203200
+geographic information system,0.3486662243
+best paper,0.3469925372
+special select paper guest,0.3417966702
+information theoretic,0.3400791996
+ieee access,0.3369962302
+full text,0.3353854971
+public health,0.3330384477
+editorial special,0.3326947468
+ad hoc,0.3323998021
+web service,0.3279538319
+cross domain,0.3275453130
+link open,0.3263236112
+cross lingual,0.3260057014
+link data,0.3245491120
+board change,0.3233696480
+citation network,0.3223268897
+access journal,0.3186405132
+guest editorial select paper,0.3179626431
+guest editor introduction,0.3172109544
+usa november workshop,0.3129482548
+bibliographic database,0.3127943445
+systematic literature,0.3125277955
+information seek mediate search,0.3122164413
+latent topic,0.3108242396
+comparative analysis,0.3104077164
+keyword search,0.3092497123
+journal citation,0.3083380170
+texas usa november workshop,0.3073125270
+peer review article,0.3017786785
+community question answer,0.2995137128
+information seek mediate search part,0.2991944900
+recommender system,0.2967163493
+foreword guest,0.2943140503
+guest editorial special guest editorial,0.2911412238
+special section international,0.2897842128
+copper mountain conference,0.2855148744
+state art,0.2814718335
+semantic index,0.2787548411
+ground theory,0.2770417878
+special section international conference,0.2765308357
+geographic information retrieval,0.2755291304
+ieee international,0.2741919237
+book review,0.2734437071
+editor introduction,0.2696171273
+word spot,0.2682818601
+word sense,0.2612443197
+journal impact,0.2571056346
+biomedical health,0.2560593187
+select paper guest,0.2545296930
+large scale,0.2530290023
+information need,0.2523362818
+question answer system,0.2511698856
+special section,0.2489639423
+statistical analysis data,0.2465339875
+texas usa november workshop report,0.2456580450
+library congress,0.2448168938
+editorial select paper,0.2418127655
+seek mediate search part,0.2407167501
+scientific journal,0.2389885406
+article workshop,0.2378753353
+citation count,0.2348220282
+scholar communication,0.2325046384
+gene ontology,0.2316573336
+feature selection,0.2295529017
+paper guest editorial special,0.2267741779
+mutual information,0.2219718693
+usa november workshop report,0.2193179432
+guest editor,0.2192198840
+paper ieee,0.2186802062
+special advance,0.2182503772
+search strategy,0.2182199226
+li journal,0.2170504906
+texas usa,0.2159464039
+data base,0.2133079581
+science humanity,0.2119430647
+bibliographic couple,0.2105815999
+first international,0.2067876004
+engineer guest editor introduction,0.2065317110
+mental model,0.2056568524
+educational activity,0.2037961736
+seek mediate search,0.2035430647
+author citation analysis,0.2026552140
+november workshop,0.2026503936
+statistical analysis,0.1998639478
+editorial math log editorial,0.1976610802
+editorial math,0.1946820696
+section international conference data engineer guest,0.1912288814
+international conference data engineer guest,0.1912288814
+conference data engineer guest,0.1909954358
+relevance criteria,0.1899051031
+data fusion,0.1885017452
+editorial special guest editorial,0.1863367779
+author citation,0.1860167950
+systematic review,0.1833079581
+scientific publication,0.1831508680
+educational activity board,0.1816056034
+inference best explanation,0.1811197939
+editor foreword guest,0.1781277320
+mathematical model,0.1770278194
+editor foreword guest editor foreword,0.1764052128
+author name,0.1757363882
+topic section,0.1752618722
+case study,0.1746099616
+domain knowledge,0.1739328161
+select paper guest editorial,0.1732707167
+conceptual framework,0.1724832574
+next generation,0.1722504546
+public access,0.1710133305
+subject access,0.1700133378
+math log,0.1697382125
+ieee educational activity board,0.1695748433
+engine log,0.1695682351
+community question,0.1695682351
+article workshop select,0.1688955481
+report first,0.1684241352
+subject index,0.1673873616
+query suggestion,0.1649346801
+biomedical literature,0.1648782139
+november workshop report,0.1641429428
+digital environment,0.1632385873
+math log editorial,0.1632234257
+data engineer guest,0.1631302856
+editorial math log editorial math,0.1629227086
+ieee education society,0.1628151356
+section editorial,0.1626574914
+guest editor foreword guest editor foreword,0.1626125292
+individual difference,0.1624671707
+recent advance,0.1615937915
+guest editor foreword guest,0.1612288814
+editor foreword guest editor,0.1609954358
+ieee educational activity board award,0.1609862689
+web crawl,0.1592090379
+information seek mediate,0.1591988053
+web forum,0.1585178332
+document representation,0.1574735454
+conceptual model,0.1574735454
+usa november,0.1559464039
+texas usa november,0.1559464039
+multi document,0.1547126116
+multimedia database,0.1542160309
+life science,0.1531776765
+indispensability argument,0.1525030281
+ieee educational activity,0.1523249251
+foreword guest editor foreword,0.1522380545
+seek context,0.1518489369
+open data,0.1509432057
+log editorial math log,0.1500380545
+engineer guest editor,0.1495587585
+automatic generation,0.1477911156
+knowledge base,0.1475389333
+cite paper,0.1464967326
+section international,0.1458637039
+semantic relation,0.1453166385
+probabilistic model,0.1451488881
+personalize web,0.1445071858
+semantic annotation,0.1429483894
+guest editor foreword guest editor,0.1426125292
+editorial math log editorial math log,0.1426125292
+literature discovery,0.1424319099
+full text retrieval,0.1424300474
+select paper guest editorial special,0.1412288814
+user search,0.1383965472
+workshop select,0.1362599917
+change editorial,0.1358893155
+medical image,0.1353166385
+information system research,0.1312305744
+scholar journal,0.1303726129
+cite cite,0.1284212181
+conference data,0.1280141310
+activity board award,0.1276500479
+computer science,0.1274720706
+automatic extraction,0.1270064533
+learn rank,0.1260603628
+multimedia content,0.1253166385
+result diversification,0.1225056873
+system research,0.1213631560
+progress report,0.1200843887
+education research,0.1195149083
+log analysis,0.1193748425
+rank algorithm,0.1191028344
+electronic journal,0.1176646384
+select peer,0.1175779896
+information scientist,0.1170910094
+web document,0.1169895629
+search engine log,0.1166728748
+technology application,0.1161725303
+science education,0.1142677623
+report international,0.1141135258
+math log editorial math log,0.1130380545
+approach automatic,0.1127293008
+journal literature,0.1124394423
+web usage,0.1115141310
+mountain conference,0.1114874802
+query log,0.1107294008
+xml retrieval,0.1090205908
+scientific impact,0.1078017132
+language process,0.1069994945
+search tactic,0.1062343551
+multilingual information,0.1054788480
+paper guest editorial,0.1051591524
+qualitative research,0.1043171201
+editorial note,0.1043171201
+article ieee,0.1043171201
+access special,0.1038214836
+editorial ieee,0.1023440905
+mediate search part,0.1010606887
+search task,0.1000592006
+ieee educational,0.0988567574
+biomedical text,0.0982727756
+online social,0.0981537280
+map science,0.0977680028
+board award,0.0956322989
+chinese text,0.0942294008
+special best,0.0940561216
+science research,0.0918705236
+ieee education,0.0918704001
+user interface,0.0916486173
+activity board,0.0872322989
+document image,0.0868420786
+mediate search,0.0858555816
+toward theory,0.0858185719
+statistical model,0.0845662484
+query answer,0.0839870614
+computational science,0.0839870614
+decision make,0.0839429151
+approach measure,0.0838089469
+special statistical,0.0825663915
+mining approach,0.0825663915
+data collection,0.0825663915
+make sense,0.0799163727
+learn approach,0.0790847007
+knowledge representation,0.0790847007
+citation relation,0.0770023292
+seek mediate,0.0762377098
+judgment document,0.0761890555
+english chinese,0.0739624289
+contextual information,0.0733681134
+information source,0.0725908290
+log editorial math,0.0724446298
+introduction guest editor,0.0721527078
+knowledge data,0.0710754925
+editorial select,0.0703995818
+user behavior,0.0702805342
+automatic text,0.0701859229
+automatic query,0.0701859229
+introduction guest editor introduction,0.0694728262
+guest editor introduction guest,0.0694728262
+editor introduction guest editor introduction guest,0.0694728262
+guest editorial special guest,0.0692511760
+possible world,0.0689342354
+index term,0.0688611202
+semantic relationship,0.0686474614
+review article,0.0686474614
+document collection,0.0678139602
+cognitive science,0.0678139602
+search engine query,0.0666926085
+introduction guest editor introduction guest,0.0665637353
+editor introduction guest,0.0665637353
+introduction guest editor introduction guest editor,0.0664903701
+answer system,0.0661069186
+inference best,0.0650046476
+improve search,0.0646679118
+user tag,0.0644716372
+introduction guest,0.0635812792
+user evaluation,0.0630508688
+measure author,0.0623447824
+document retrieval system,0.0614844943
+web log,0.0611247439
+similarity search,0.0610754925
+search interface,0.0609783228
+digital image,0.0609505538
+query term,0.0603995818
+health science,0.0603995818
+guest editorial select,0.0601859229
+search process,0.0598292021
+call paper,0.0593938236
+education society,0.0593743034
+notion information,0.0592495443
+retrieval experiment,0.0583705765
+web link,0.0578737381
+text document,0.0578737381
+text citation,0.0578737381
+pattern web,0.0578737381
+mining model,0.0578737381
+cluster analysis,0.0578737381
+analysis approach,0.0578737381
+first international workshop,0.0574227589
+math log editorial math,0.0557478447
+review literature,0.0556385881
+guest editor introduction guest editor introduction,0.0544578974
+guest editor introduction guest editor,0.0544578974
+editor introduction guest editor introduction,0.0544578974
+editor introduction guest editor,0.0544578974
+real time,0.0539429151
+text analysis,0.0535259120
+special guest editorial,0.0535259120
+special guest,0.0535259120
+social web,0.0535259120
+science introduction,0.0535259120
+model user,0.0535259120
+document similarity,0.0535259120
+content retrieval,0.0535259120
+web information retrieval,0.0532933855
+visual information,0.0532933855
+technique information,0.0532933855
+search retrieval,0.0532933855
+retrieval query,0.0532933855
+retrieval introduction special,0.0532933855
+retrieval approach,0.0532933855
+model information retrieval,0.0532933855
+model information,0.0532933855
+method information,0.0532933855
+information web,0.0532933855
+document information,0.0532933855
+engine query,0.0523447824
+index document,0.0520842644
+information science part,0.0505362382
+analysis data mining,0.0485535726
+language information,0.0483210461
+user query,0.0478737381
+scientific data,0.0478737381
+domain analysis,0.0478737381
+user interest,0.0477949054
+retrieval evaluation,0.0477364384
+tale two,0.0476462533
+information extraction,0.0465162575
+text database,0.0440227504
+web retrieval,0.0438002081
+web query,0.0438002081
+web information,0.0438002081
+search query,0.0438002081
+multimedia information,0.0438002081
+information service,0.0438002081
+evaluation information,0.0438002081
+data web,0.0438002081
+approach information,0.0438002081
+analysis web,0.0438002081
+analysis information science,0.0438002081
+analysis information,0.0438002081
+web mining,0.0435259120
+retrieval web,0.0432933855
+retrieval model,0.0432933855
+index retrieval,0.0432933855
+approach information retrieval,0.0432933855
+support system,0.0429051642
+science citation,0.0429013987
+research evaluation,0.0429013987
+paper guest editor introduction,0.0429013987
+paper guest editor,0.0429013987
+editorial editorial,0.0429013987
+database search,0.0429013987
+citation index,0.0429013987
+author analysis,0.0429013987
+science journal,0.0420842644
+retrieval performance,0.0420842644
+rank search,0.0420842644
+link analysis,0.0420842644
+image search,0.0420842644
+recommendation system,0.0408776121
+semantic search,0.0385535726
+search online,0.0385535726
+science analysis,0.0385535726
+retrieval language,0.0385535726
+retrieval automatic,0.0385535726
+research paper,0.0385535726
+index index,0.0385535726
+analysis query,0.0385535726
+web user,0.0383210461
+user information,0.0383210461
+text information,0.0383210461
+search web,0.0383210461
+search analysis,0.0383210461
+scientific information,0.0383210461
+science information,0.0383210461
+review information,0.0383210461
+retrieval text,0.0383210461
+retrieval research,0.0383210461
+medical information,0.0383210461
+measure information,0.0383210461
+knowledge information,0.0383210461
+introduction information,0.0383210461
+information theory,0.0383210461
+information search,0.0383210461
+information science journal,0.0383210461
+information retrieval research,0.0383210461
+information behavior,0.0383210461
+information access,0.0383210461
+analysis search,0.0383210461
+analysis data,0.0383210461
+interactive information,0.0381349619
+known item,0.0380066991
+query language,0.0377364384
+mining web,0.0377364384
+approach web,0.0377364384
+analysis user,0.0377364384
+web data,0.0375039118
+retrieval introduction,0.0375039118
+information retrieval introduction,0.0375039118
+information management,0.0375039118
+index information,0.0375039118
+data analysis,0.0375039118
+system guest editor introduction,0.0359077800
+select paper special,0.0347148351
+science part,0.0335091911
+editorial special guest,0.0331797474
+semantic analysis,0.0328977287
+document classification,0.0328977287
+data model,0.0328977287
+retrieval semantic,0.0326652021
+theory information,0.0323016286
+text search,0.0323016286
+seek information,0.0323016286
+search information,0.0323016286
+retrieval information,0.0323016286
+research information,0.0323016286
+online information,0.0323016286
+music information,0.0323016286
+model search,0.0323016286
+literature information,0.0323016286
+information world,0.0323016286
+information science information,0.0323016286
+information resource,0.0323016286
+information knowledge,0.0323016286
+information information,0.0323016286
+information content,0.0323016286
+information analysis,0.0323016286
+information age,0.0323016286
+health information,0.0323016286
+electronic information,0.0323016286
+data information,0.0323016286
+conference information,0.0323016286
+book review information,0.0323016286
+approaches information,0.0323016286
+best explanation,0.0317505115
+database system,0.0314844943
+engineer guest editorial,0.0308113263
+p p,0.0277283568
+system introduction,0.0270612191
+system analysis,0.0270612191
+search part,0.0266457847
+image retrieval system,0.0266457847
+toward model,0.0232556291
+system introduction special,0.0232556291
+system information,0.0232556291
+log editorial,0.0231797474
+knowledge system,0.0211416328
+system web,0.0207649228
+system guest editor,0.0207649228
+system guest,0.0207649228
+system design,0.0207649228
+five year,0.0207649228
+system special,0.0152607710
+system model,0.0152607710

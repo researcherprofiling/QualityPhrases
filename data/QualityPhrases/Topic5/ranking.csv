@@ -1,0 +1,695 @@
+decision support system,0.9259308949
+software development,0.9240874844
+formal specification,0.9217740186
+software engineer,0.9216761709
+enterprise architecture,0.9203811797
+semantic web service,0.9200139470
+knowledge management,0.9198373090
+fuzzy logic,0.9185130615
+software architecture,0.9180157972
+multi agent system,0.9138362591
+conceptual model,0.9116097610
+domain specific language,0.9108820777
+knowledge representation,0.9100658205
+object orient database,0.9099433534
+temporal logic,0.9086584706
+product development,0.9081961556
+knowledge discovery,0.9077631274
+formal verification,0.9060263440
+knowledge base,0.9054184089
+business process,0.9042679729
+semantic web,0.9014874597
+intelligent agent,0.9002924436
+knowledge acquisition,0.9000682233
+orient database,0.8997730723
+model check,0.8974784302
+description logic,0.8952425117
+reverse engineer,0.8945271324
+data mining,0.8940934245
+natural language,0.8931790327
+program language,0.8916761709
+concurrency control,0.8907586558
+neural network,0.8888895427
+information retrieval,0.8869043654
+rule base,0.8852310439
+design implementation,0.8749584193
+data warehouse,0.8747581368
+conflict resolution,0.8717013108
+product design,0.8706597180
+relational database,0.8704838596
+query language,0.8679958358
+web service,0.8671569726
+data model,0.8652389946
+petri net,0.8620349085
+web application,0.8441177031
+decision support,0.8395023362
+specification verification,0.8366589504
+data type,0.8245189025
+language model,0.8226221000
+business model,0.8151373414
+design pattern,0.8140195884
+data integration,0.8075609871
+service orient,0.8072495347
+transaction petri net model,0.8070644490
+specification language,0.8044568778
+domain knowledge,0.7962926751
+object database,0.7912009844
+business process model,0.7822365073
+requirement specification,0.7775706390
+software component,0.7754848548
+database management,0.7744740647
+model driven,0.7733031740
+database design,0.7619946778
+meta model,0.7487416886
+business processes,0.7455644415
+orient architecture,0.7198926145
+formal concept analysis,0.7165934885
+product service,0.7115694346
+object orient analysis design,0.7112598110
+context aware,0.7064974887
+object orient program,0.7054680653
+intelligent tutor system,0.7034686832
+high level,0.7002605572
+service orient architecture,0.6935190323
+orient program,0.6901465873
+database application,0.6766078670
+data driven,0.6751194281
+ontology approach,0.6721384846
+model concurrency,0.6721378257
+learn object,0.6711997605
+model business,0.6707021400
+model enterprise,0.6662086903
+data management,0.6585187596
+engineer design,0.6573154757
+orient analysis design,0.6494461950
+model integrate,0.6483374986
+web service composition,0.6469822525
+model semantic,0.6463872749
+domain ontology,0.6357276136
+requirement engineer,0.6319807643
+design evaluation,0.6309609545
+agent orient,0.6264998992
+colour petri net,0.6234351249
+aspect orient,0.6227941629
+driven approach,0.6168308517
+software process,0.6109149046
+service composition,0.6102515059
+specific model,0.6098897147
+logic approach,0.6023513951
+orient model,0.5985641523
+product data,0.5979030807
+domain specific,0.5899539137
+holonic manufacture system,0.5864879539
+software reuse,0.5831071158
+deductive database,0.5791392525
+high level petri net,0.5722510941
+process management,0.5711000108
+fuzzy logic approach,0.5685491943
+software design,0.5675631506
+object orient analysis,0.5652681593
+model approach,0.5606388480
+orient analysis,0.5550488804
+knowledge engineer,0.5539710548
+intelligent tutor,0.5528421875
+object orient design,0.5439227290
+orient software,0.5409956001
+analysis design,0.5392992313
+knowledge management system,0.5377706829
+net model concurrency,0.5343598695
+domain specific model,0.5291285069
+approach knowledge,0.5272993554
+net model,0.5184436543
+object orient model,0.5181905090
+unifi model,0.5098897147
+fuzzy petri net,0.5012740873
+model analysis,0.5010557607
+web service environment,0.4971049392
+transaction model,0.4940893182
+orient design,0.4928942352
+object orient methodology,0.4857176885
+knowledge intensive,0.4841250051
+formal semantic,0.4771158060
+abstract data type,0.4760880499
+process model,0.4744389330
+approach automate,0.4722077124
+model software,0.4674862171
+logic program,0.4667057480
+high level petri,0.4633370533
+collaborative product,0.4627868349
+reason approach,0.4607467198
+specific language,0.4520187593
+database management system,0.4519883588
+concurrent object orient,0.4513957671
+object model,0.4512045581
+formal concept,0.4511104738
+model language,0.4498319745
+level petri net,0.4471281139
+fuzzy reason,0.4326413897
+query process,0.4326090494
+development process,0.4325298360
+formal framework,0.4318479543
+enterprise application,0.4295991449
+framework knowledge,0.4254144470
+holonic manufacture,0.4251571584
+fuzzy rule,0.4251045617
+object orient paradigm,0.4234639875
+software requirement,0.4231436694
+teache object orient,0.4224160136
+orient approach,0.4221572362
+formal model,0.4159032530
+product lifecycle,0.4084554221
+object orient language,0.4032903893
+approach service orient,0.4032743181
+product data management,0.4022887227
+multi agent,0.4003798869
+fuzzy model,0.3997496624
+concurrent engineer,0.3992319419
+case reason,0.3947806569
+information management,0.3943863414
+orient database system,0.3887836195
+approach knowledge acquisition,0.3851517409
+knowledge share,0.3850696013
+conceptual design,0.3845104279
+approach web,0.3773858005
+common lisp,0.3757779376
+requirement analysis,0.3676640373
+design integrate,0.3675731849
+object orient software,0.3615388741
+specific model language,0.3609595156
+formal analysis,0.3608186545
+enterprise model,0.3589737352
+process mining,0.3586194198
+analysis business,0.3572454449
+domain specific model language,0.3539048631
+model driven development,0.3502280396
+logic program language,0.3497070918
+theoretic approach,0.3477350088
+support software,0.3463754614
+web service discovery,0.3448339687
+knowledge process,0.3444968074
+knowledge representation fuzzy,0.3411375862
+semantic interoperability,0.3387558740
+procedural knowledge,0.3385908067
+information system development,0.3370946767
+goal orient,0.3329390426
+cooperative information system,0.3308289613
+orient methodology,0.3292299428
+application model,0.3257800872
+fuzzy logic program,0.3243699408
+object orient database system,0.3236766010
+concurrent program,0.3234513106
+service discovery,0.3234225407
+object orient,0.3224566959
+unifi approach,0.3206418449
+concurrent object,0.3190805135
+model methodology,0.3158518620
+petri net model,0.3134365174
+software evolution,0.3133872999
+abstract data,0.3124803096
+framework support,0.3099892701
+business process management,0.3065047723
+system agent,0.3030779619
+representation reason,0.3010611392
+system design,0.2979410452
+integrity constraint,0.2977015791
+general framework,0.2957283131
+design process,0.2944535960
+distribute information,0.2920345560
+architectural design,0.2902668957
+virtual enterprise,0.2892466613
+model driven approach,0.2878836462
+semantic model,0.2846436528
+petri net model concurrency,0.2845566496
+conceptual framework,0.2843122911
+rapid prototype,0.2805657018
+concept analysis,0.2792591672
+task orient,0.2782746163
+design support,0.2763992255
+active database,0.2754588374
+fuzzy relational database,0.2744843697
+quality service,0.2718120077
+inductive logic program,0.2704043332
+knowledge support,0.2697496624
+collaborative design,0.2693465238
+system knowledge representation,0.2685493564
+model multi,0.2658125702
+description language,0.2649982713
+process control,0.2646053192
+dynamic logic,0.2640096458
+workflow net,0.2636046330
+process plane,0.2608028859
+image process,0.2575819749
+colour petri,0.2574788053
+reference model,0.2571490530
+language design,0.2551435447
+application object orient,0.2550277901
+belief revision,0.2533936828
+framework build,0.2531314281
+algebraic specification,0.2526425428
+recommender system,0.2513834083
+transaction petri net,0.2495520424
+fuzzy petri,0.2481253214
+evidential reason,0.2436844740
+agent approach,0.2428033034
+ontology driven,0.2413190306
+approach manage,0.2394632814
+software quality,0.2383673910
+level petri,0.2381296004
+tutor system,0.2380883605
+distribute manufacture,0.2364191516
+flexible manufacture system,0.2328590851
+transaction petri net model concurrency,0.2316301435
+inductive logic,0.2299940210
+cooperative information,0.2298547409
+ontology semantic,0.2295361449
+operational semantic,0.2290496804
+information management system,0.2288133558
+natural language process,0.2271315960
+software teste,0.2266185216
+problem solve,0.2256580081
+object orient system,0.2251255579
+schema evolution object orient,0.2232448577
+complex object,0.2232198288
+rule expert,0.2212267047
+definition language,0.2198547409
+web enable,0.2188172277
+integration object,0.2187407010
+relational model,0.2182620924
+belief rule,0.2176477394
+conceptual graph,0.2163735544
+process algebra,0.2157704710
+data acquisition,0.2156107805
+functional program,0.2148253918
+multilevel secure,0.2120846004
+design knowledge,0.2119965884
+relationship model,0.2116622099
+evolution object orient,0.2095088297
+agent model,0.2080188932
+epistemic logic,0.2076477394
+type check,0.2068874668
+java program,0.2058154493
+development knowledge,0.2055640950
+model design,0.2051196356
+entity relationship model,0.2051164907
+functional model,0.2022043181
+teache object,0.2016830533
+access control,0.2007730568
+hybrid knowledge,0.2007200530
+object specification,0.2005185097
+software maintenance,0.2000616823
+graphical model,0.1980636989
+driven development,0.1969867192
+development web,0.1965364685
+collaborative product design,0.1961741830
+logical framework,0.1954380005
+net application,0.1942095165
+software metric,0.1928286913
+unifi framework,0.1920469520
+web technology,0.1919702756
+transaction petri,0.1912267395
+approach dynamic,0.1909644397
+representation inference,0.1900242324
+feature model,0.1881374081
+support design,0.1875794421
+design multi,0.1874150614
+language semantic,0.1862381392
+information system model,0.1835276093
+architecture integrate,0.1833312927
+database temporal,0.1821244062
+information integration,0.1819641369
+framework dynamic,0.1819641369
+application integration,0.1819641369
+model hierarchical,0.1819319099
+reason fuzzy,0.1818839351
+object orient approach,0.1817696377
+temporal data,0.1804782347
+framework integrate,0.1803350826
+model formal,0.1797622888
+data management system,0.1795671604
+goal program,0.1794792985
+process aware,0.1794115633
+agent framework,0.1792204205
+interaction model,0.1791008698
+multimedia database,0.1789867192
+design fuzzy,0.1774475432
+system object orient,0.1772955352
+temporal object,0.1772095012
+standard model,0.1765697477
+fuzzy information,0.1761398801
+test case,0.1757160493
+product service system,0.1756180533
+model transformation,0.1753446368
+analysis object orient,0.1752612842
+automatic generation,0.1744828052
+agent negotiation,0.1734867318
+logic controller,0.1734750251
+expert system,0.1734116815
+enterprise information,0.1731101184
+semantic representation,0.1722654461
+model trace,0.1717341544
+color petri net,0.1707419666
+program transformation,0.1699844702
+design object,0.1697622888
+model interaction,0.1691008698
+clinical decision support,0.1686933314
+database semantic,0.1683751068
+distribute knowledge,0.1682371387
+component software,0.1681953300
+case framework,0.1681495226
+rough set,0.1679683805
+cd rom,0.1679423356
+model technique,0.1677495346
+business application,0.1674527557
+reason logic,0.1665494828
+system development,0.1665316573
+business component,0.1665056458
+software specification,0.1654901676
+formal approach,0.1653742666
+framework intelligent,0.1644696888
+design methodology,0.1643669759
+product lifecycle management,0.1643374106
+schema evolution object,0.1629631438
+orient paradigm,0.1627551210
+hybrid system,0.1620745020
+evolution object,0.1620568824
+business rule,0.1615435097
+management framework,0.1613113876
+framework business,0.1604344602
+grid service,0.1601636560
+information process,0.1598553065
+service management,0.1593351888
+database system,0.1592211958
+rule expert system,0.1588518718
+scientific workflow,0.1578821310
+application framework,0.1576165006
+system design implementation,0.1572130185
+implementation process,0.1571471397
+service architecture,0.1567549187
+language query,0.1565872758
+collaborative learn,0.1547590340
+automatic program,0.1545699075
+integrate framework,0.1540851399
+compositional verification,0.1528924365
+software agent,0.1528472458
+orient language,0.1521890164
+model analyze,0.1519319099
+scientific data,0.1515678960
+embedd system,0.1515609116
+service selection,0.1515382751
+database rule,0.1513927566
+model object orient,0.1513817066
+data structure,0.1507793775
+life cycle,0.1507558081
+language process,0.1497554262
+semantic logic,0.1492204205
+system knowledge,0.1488215703
+mathematical model,0.1481050791
+control model,0.1478602127
+environment object,0.1476248145
+knowledge integration,0.1475687383
+security model,0.1468981956
+concurrent system,0.1466770702
+model temporal,0.1462298831
+big data,0.1458308731
+lifecycle management,0.1456565078
+support web,0.1455043903
+integrate approach,0.1453327626
+knowledge expert,0.1444680818
+owl ontology,0.1441284521
+system distribute,0.1433430723
+approach build,0.1430029688
+composition web,0.1429616649
+clinical decision,0.1428924365
+fuzzy data,0.1423917471
+representation fuzzy,0.1420063584
+framework enterprise,0.1420063584
+domain analysis,0.1420063584
+database environment,0.1415435097
+discovery framework,0.1414398512
+architecture support,0.1407291437
+heterogeneous database,0.1406316755
+fuzzy relational,0.1406316755
+database schema,0.1406316755
+application object,0.1405815935
+xml schema,0.1392960452
+behavioral model,0.1386944506
+multiagent system,0.1385216959
+program development,0.1375715686
+modal logic,0.1364862954
+semantic query,0.1358913358
+intelligent system,0.1354061101
+fuzzy decision,0.1349706952
+framework application,0.1345599422
+architecture semantic,0.1342063011
+learn model,0.1340084436
+time petri net,0.1331252429
+collaborative product development,0.1328920925
+service semantic,0.1327985361
+architecture design,0.1327985361
+approach information,0.1327985361
+engineer approach,0.1323344252
+engineer environment,0.1298929850
+data analysis,0.1292139937
+management data,0.1280370996
+query optimization,0.1278821310
+process design,0.1268989480
+model application,0.1268989480
+environment collaborative,0.1262017699
+engineer enterprise,0.1260664444
+model fuzzy,0.1259892940
+control architecture,0.1252311214
+criteria decision,0.1251052746
+xml document,0.1244335040
+ontology knowledge,0.1242469587
+workflow management,0.1242396480
+orient development,0.1234943642
+object orient logic,0.1226018809
+meta level,0.1209302467
+secure database,0.1207472245
+semantic approach,0.1205745672
+engineer drawing,0.1201862047
+reason knowledge,0.1194235882
+approach design,0.1191377540
+model knowledge,0.1189827098
+knowledge system,0.1182523428
+software system,0.1174951652
+test generation,0.1172456086
+model support,0.1170976700
+framework model,0.1170976700
+analysis approach,0.1166835135
+design information,0.1162756935
+support system,0.1157959633
+database approach,0.1152764122
+collaborative decision,0.1152318915
+service environment,0.1152311214
+constraint program,0.1152311214
+default reason,0.1151652675
+schema evolution,0.1144920781
+logic model,0.1144389302
+resource management,0.1137938260
+approach semantic,0.1133731185
+system integration,0.1118146605
+approach service,0.1115421326
+workflow system,0.1108449693
+web data,0.1106737241
+orient data,0.1091613896
+integrate enterprise,0.1090907218
+software product,0.1086598097
+knowledge base system,0.1082559945
+support collaborative,0.1079735153
+belief rule base,0.1077004917
+management software,0.1076215450
+fuzzy database,0.1075253053
+orient system,0.1074951652
+architecture knowledge,0.1072026620
+workflow model,0.1069452569
+specification design,0.1066835135
+service framework,0.1066835135
+orient logic,0.1066835135
+design management,0.1066835135
+approach fuzzy,0.1066835135
+analysis object,0.1066835135
+framework design,0.1066714429
+design framework,0.1066714429
+integrate knowledge,0.1062756935
+data semantic,0.1062756935
+performance evaluation,0.1057753978
+multi criteria,0.1057753978
+flexible manufacture,0.1054254441
+specification technique,0.1053090785
+software model,0.1048588640
+database model,0.1048588640
+information service,0.1037863673
+approach integrate,0.1037863673
+supply chain,0.1036892059
+tool support,0.1036145409
+model tool,0.1034039683
+abstract interpretation,0.1027518408
+problem frame,0.1023266748
+finite state,0.1023266748
+collaborative engineer,0.1021756594
+architecture software,0.1015065224
+semantic program,0.1010987023
+program framework,0.1010987023
+analysis framework,0.1010987023
+make support,0.1000010544
+color petri,0.0999967334
+object orient data,0.0991613896
+engineer knowledge,0.0991613896
+engineer process,0.0976171658
+model simulation,0.0973148196
+time petri,0.0972560572
+model service,0.0970976700
+knowledge model,0.0970976700
+ontology learn,0.0968070464
+toward formal,0.0962688607
+process data,0.0958557597
+support tool,0.0953111623
+model distribute,0.0946870498
+base system,0.0943363113
+process orient,0.0942907000
+process object,0.0942907000
+framework object,0.0938828799
+design application,0.0937215826
+application semantic,0.0933375083
+architecture model,0.0926149113
+entity relationship,0.0914043832
+symbolic model,0.0911456180
+orient framework,0.0909923756
+manufacture system,0.0900030377
+analysis software,0.0885395470
+information system,0.0877026228
+model verification,0.0874856010
+model web,0.0870976700
+orient semantic,0.0861216859
+system model,0.0860187285
+semantic data,0.0858557597
+data process,0.0858557597
+logic knowledge,0.0855530965
+methodology model,0.0852467950
+model intelligent,0.0848268612
+model process,0.0844389302
+model object,0.0844389302
+approach model,0.0844389302
+system software,0.0841645280
+system interoperability,0.0837494395
+web knowledge,0.0803761054
+program knowledge,0.0803761054
+reason system,0.0785625952
+state machine,0.0785265227
+program approach,0.0783336358
+complex system,0.0782148773
+decision make support,0.0775376783
+support knowledge,0.0774856010
+product model,0.0774856010
+model query,0.0774856010
+model decision,0.0774856010
+model collaborative,0.0774856010
+model model,0.0770976700
+model framework,0.0770976700
+model data,0.0770976700
+design model,0.0770976700
+user interface,0.0770256655
+relational database system,0.0761154934
+decision make,0.0760215556
+management system,0.0746219592
+agent system,0.0746219592
+transition system,0.0744799267
+system approach,0.0740721447
+approach program,0.0734629461
+toward agent,0.0733642087
+orient knowledge,0.0726149113
+object orient knowledge,0.0726149113
+model specification,0.0726149113
+model ontology,0.0726149113
+model integration,0.0726149113
+model information,0.0726149113
+management model,0.0726149113
+knowledge software,0.0726149113
+knowledge design,0.0726149113
+knowledge approach,0.0726149113
+domain model,0.0726149113
+design data,0.0726149113
+decision model,0.0726149113
+approach object,0.0726149113
+product line,0.0722587164
+reactive system,0.0719988532
+multidatabase system,0.0719988532
+system object,0.0707388114
+context sensitive,0.0706449685
+knowledge expert system,0.0705088233
+system build,0.0702445351
+data knowledge,0.0699561716
+system symbolic,0.0697717443
+system extend,0.0672344609
+system verification,0.0671433546
+state art,0.0670256655
+resource allocation,0.0670256655
+large scale,0.0670256655
+genetic algorithm,0.0670256655
+distribute system,0.0670153795
+control system,0.0670153795
+service model,0.0645152794
+program model,0.0645152794
+expert system knowledge,0.0643744722
+system support,0.0640744453
+system multiple,0.0637494395
+system intelligent,0.0623820460
+system automatic,0.0614797180
+run time,0.0603471475
+toward integrate,0.0599564515
+process knowledge,0.0599561716
+analysis model,0.0599561716
+approach toward,0.0579555210
+system requirement,0.0549581739
+logic program system,0.0536572421
+re engineer,0.0531798843
+fuzzy system,0.0525975461
+retrieval system,0.0503077376
+system architecture,0.0496543983
+process system,0.0491203887
+system product,0.0478027269
+time system,0.0471036609
+toward framework,0.0459296428
+system process,0.0443255695
+real time system,0.0421027125
+rule system,0.0402594298
+model toward,0.0389593472
+real time,0.0371425192
+well found,0.0362473664
+p p,0.0362473664
+system web service,0.0343554119
+system web,0.0343255695
+system application,0.0343255695
+system formal,0.0341645280
+b b,0.0333584775
+service system,0.0325975461
+program system,0.0325975461
+object system,0.0325975461
+model system,0.0325975461
+integration system,0.0325975461
+integrate system,0.0325975461
+enterprise system,0.0325975461
+design system,0.0325975461
+system specification,0.0308311947
+system case,0.0301868328
+system data,0.0278027269
+learn system,0.0246696845
+system toward,0.0220718376
+system implementation,0.0201868328
+toward model,0.0178027269
+system system,0.0178027269
+system service,0.0178027269
+system relational,0.0178027269
+system reason,0.0178027269
+system ontology,0.0178027269
+system multi,0.0178027269
+system integrate,0.0178027269
+system fuzzy,0.0178027269
+system engineer,0.0178027269
+system domain,0.0178027269
+system decision,0.0178027269
+system business,0.0178027269
+system analysis,0.0178027269
+system semantic,0.0143255695
+system framework,0.0143255695
